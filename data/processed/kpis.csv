@@ -1,0 +1,2 @@
+patients,diagnoses,treatment_events,response_rate_percent,progression_rate_percent,mean_followup_days,mean_outpatient_visits,mean_inpatient_admissions,mean_total_cost_usd
+1500,1500,2421,60.07,48.47,729.1,8.97,0.96,42588.81

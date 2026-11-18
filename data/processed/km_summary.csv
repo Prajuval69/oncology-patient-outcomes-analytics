@@ -1,0 +1,6 @@
+group,patients,events,median_survival_days
+Overall,1500,827,919.0
+I,274,83,1839.0
+II,448,191,1402.0
+III,449,290,754.0
+IV,329,263,405.0

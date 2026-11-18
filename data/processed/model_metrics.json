@@ -1,0 +1,73 @@
+{
+  "target": "responder",
+  "prediction_point": "after diagnosis and first-treatment selection, before outcome assessment",
+  "features": [
+    "age_at_diagnosis",
+    "sex",
+    "race_ethnicity",
+    "region",
+    "insurance_type",
+    "cancer_type",
+    "stage",
+    "biomarker_status",
+    "ecog_status",
+    "diabetes",
+    "cardiovascular_disease",
+    "chronic_kidney_disease",
+    "chronic_pulmonary_disease",
+    "smoking_history",
+    "comorbidity_count",
+    "first_treatment_class"
+  ],
+  "models": {
+    "logistic_regression": {
+      "roc_auc": 0.6845629629629628,
+      "pr_auc": 0.7362654723130528,
+      "precision": 0.7142857142857143,
+      "recall": 0.7333333333333333,
+      "f1": 0.7236842105263158,
+      "prevalence": 0.6,
+      "cv_roc_auc_mean": 0.6407146894268874,
+      "cv_pr_auc_mean": 0.7004332249907802,
+      "cv_f1_mean": 0.6470587821066676,
+      "cv_roc_auc_std": 0.03318386007958459,
+      "cv_pr_auc_std": 0.035056267165164155,
+      "cv_f1_std": 0.03335035085983019,
+      "confusion_matrix": [
+        [
+          84,
+          66
+        ],
+        [
+          60,
+          165
+        ]
+      ]
+    },
+    "random_forest": {
+      "roc_auc": 0.6690962962962963,
+      "pr_auc": 0.718696455972907,
+      "precision": 0.6951219512195121,
+      "recall": 0.76,
+      "f1": 0.7261146496815286,
+      "prevalence": 0.6,
+      "cv_roc_auc_mean": 0.6457153721247134,
+      "cv_pr_auc_mean": 0.7125622744372027,
+      "cv_f1_mean": 0.6801219218602053,
+      "cv_roc_auc_std": 0.02203694497708316,
+      "cv_pr_auc_std": 0.031326220191306604,
+      "cv_f1_std": 0.021913629263855032,
+      "confusion_matrix": [
+        [
+          75,
+          75
+        ],
+        [
+          54,
+          171
+        ]
+      ]
+    }
+  },
+  "explainability_method": "TreeSHAP mean absolute contribution"
+}

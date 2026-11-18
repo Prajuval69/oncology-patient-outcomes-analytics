@@ -1,0 +1,7 @@
+treatment_id,regimen_name,treatment_class
+TRT01,Cytotoxic combination,Chemotherapy
+TRT02,Checkpoint inhibitor,Immunotherapy
+TRT03,Oral targeted agent,Targeted therapy
+TRT04,Endocrine regimen,Hormone therapy
+TRT05,Definitive radiation,Radiation
+TRT06,Surgical resection,Surgery

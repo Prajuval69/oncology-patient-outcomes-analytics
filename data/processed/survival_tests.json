@@ -1,0 +1,6 @@
+{
+  "stage_logrank_statistic": 269.205939108644,
+  "stage_logrank_p_value": 4.584160379159755e-58,
+  "cox_concordance_index": 0.6840407346148416,
+  "ph_terms_below_0_05": 0
+}

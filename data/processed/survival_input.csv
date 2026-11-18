@@ -1,0 +1,1501 @@
+patient_id,survival_days,death_event,cancer_type,stage,age_at_diagnosis,sex,ecog_status,comorbidity_count,first_treatment_class
+SYN-P00001,367,1,Melanoma,II,76,Male,3.0,0,Chemotherapy
+SYN-P00002,349,1,Colorectal,IV,74,Male,0.0,0,Targeted therapy
+SYN-P00003,1619,1,Prostate,II,75,Male,1.0,1,Surgery
+SYN-P00004,561,1,Breast,IV,60,Female,0.0,0,Surgery
+SYN-P00005,990,0,Lung,II,79,Female,0.0,0,Immunotherapy
+SYN-P00006,838,0,Melanoma,I,68,Female,,0,Surgery
+SYN-P00007,426,0,Breast,II,66,Female,0.0,0,Radiation
+SYN-P00008,52,1,Breast,IV,80,Female,0.0,1,Targeted therapy
+SYN-P00009,386,0,Lung,II,90,Male,0.0,2,Radiation
+SYN-P00010,898,0,Prostate,III,65,Male,1.0,0,Radiation
+SYN-P00011,1220,0,Prostate,II,83,Male,0.0,0,Hormone therapy
+SYN-P00012,424,1,Breast,IV,59,Female,0.0,0,Chemotherapy
+SYN-P00013,58,1,Melanoma,III,58,Male,0.0,1,Radiation
+SYN-P00014,547,0,Lung,I,65,Female,0.0,1,Immunotherapy
+SYN-P00015,173,1,Colorectal,IV,74,Male,0.0,0,Targeted therapy
+SYN-P00016,817,1,Prostate,I,65,Male,0.0,0,Surgery
+SYN-P00017,1417,0,Prostate,I,44,Male,0.0,0,Chemotherapy
+SYN-P00018,613,0,Breast,I,48,Female,0.0,1,Surgery
+SYN-P00019,601,1,Lung,II,84,Female,1.0,0,Surgery
+SYN-P00020,423,0,Melanoma,II,65,Female,1.0,0,Surgery
+SYN-P00021,208,1,Melanoma,III,63,Female,0.0,1,Radiation
+SYN-P00022,400,1,Colorectal,IV,82,Male,2.0,0,Surgery
+SYN-P00023,551,1,Lung,III,80,Male,0.0,0,Chemotherapy
+SYN-P00024,251,1,Lung,IV,64,Female,0.0,0,Surgery
+SYN-P00025,1061,1,Melanoma,IV,62,Male,0.0,0,Chemotherapy
+SYN-P00026,146,1,Breast,III,74,Female,0.0,0,Chemotherapy
+SYN-P00027,119,1,Colorectal,III,44,Male,1.0,0,Targeted therapy
+SYN-P00028,1759,0,Lung,I,67,Female,0.0,0,Targeted therapy
+SYN-P00029,437,1,Colorectal,IV,43,Male,2.0,0,Surgery
+SYN-P00030,405,0,Lung,II,39,Female,0.0,0,Surgery
+SYN-P00031,940,1,Melanoma,IV,49,Male,0.0,0,Chemotherapy
+SYN-P00032,512,1,Lung,III,76,Female,0.0,1,Immunotherapy
+SYN-P00033,43,1,Lung,IV,56,Female,2.0,0,Chemotherapy
+SYN-P00034,493,1,Lung,III,60,Male,2.0,1,Radiation
+SYN-P00035,1290,1,Prostate,IV,77,Male,0.0,0,Surgery
+SYN-P00036,513,0,Colorectal,I,68,Female,0.0,1,Radiation
+SYN-P00037,644,1,Lung,II,68,Female,2.0,0,Surgery
+SYN-P00038,1134,0,Lung,III,65,Male,0.0,0,Chemotherapy
+SYN-P00039,505,0,Lung,IV,83,Female,0.0,1,Surgery
+SYN-P00040,1025,0,Lung,II,69,Female,1.0,1,Targeted therapy
+SYN-P00041,1530,0,Lung,I,48,Male,0.0,1,Radiation
+SYN-P00042,891,0,Lung,IV,57,Male,0.0,0,Immunotherapy
+SYN-P00043,620,0,Lung,IV,68,Male,0.0,0,Chemotherapy
+SYN-P00044,905,1,Colorectal,IV,65,Female,0.0,0,Targeted therapy
+SYN-P00045,1118,0,Colorectal,I,90,Female,0.0,1,Targeted therapy
+SYN-P00046,117,1,Prostate,IV,69,Male,0.0,1,Chemotherapy
+SYN-P00047,1480,0,Lung,III,61,Male,0.0,2,Chemotherapy
+SYN-P00048,1094,1,Breast,I,43,Female,0.0,0,Hormone therapy
+SYN-P00049,626,1,Breast,III,62,Female,0.0,0,Targeted therapy
+SYN-P00050,628,0,Melanoma,III,58,Female,0.0,0,Radiation
+SYN-P00051,861,0,Breast,III,50,Female,0.0,0,Chemotherapy
+SYN-P00052,330,1,Prostate,IV,60,Male,0.0,1,Surgery
+SYN-P00053,132,1,Breast,III,71,Female,0.0,0,Chemotherapy
+SYN-P00054,41,1,Colorectal,II,61,Male,0.0,0,Targeted therapy
+SYN-P00055,923,1,Prostate,IV,54,Male,,0,Chemotherapy
+SYN-P00056,1061,1,Breast,I,51,Female,0.0,1,Surgery
+SYN-P00057,441,1,Lung,II,50,Male,0.0,1,Targeted therapy
+SYN-P00058,321,1,Melanoma,III,64,Male,0.0,0,Radiation
+SYN-P00059,341,1,Colorectal,III,53,Male,0.0,1,Immunotherapy
+SYN-P00060,827,1,Colorectal,III,78,Male,0.0,0,Targeted therapy
+SYN-P00061,229,1,Lung,II,77,Male,0.0,1,Radiation
+SYN-P00062,426,1,Colorectal,II,82,Male,0.0,0,Surgery
+SYN-P00063,401,1,Prostate,I,72,Male,0.0,1,Radiation
+SYN-P00064,523,1,Breast,I,87,Female,0.0,0,Surgery
+SYN-P00065,1086,0,Lung,III,62,Male,0.0,0,Chemotherapy
+SYN-P00066,1556,0,Prostate,I,57,Male,0.0,0,Surgery
+SYN-P00067,1542,0,Colorectal,I,71,Male,0.0,0,Targeted therapy
+SYN-P00068,1267,0,Lung,II,53,Male,0.0,0,Surgery
+SYN-P00069,969,1,Prostate,III,80,Male,0.0,0,Surgery
+SYN-P00070,1327,0,Breast,I,45,Female,0.0,0,Surgery
+SYN-P00071,1022,0,Lung,I,87,Male,0.0,3,Targeted therapy
+SYN-P00072,427,0,Lung,II,65,Female,0.0,2,Radiation
+SYN-P00073,1191,0,Prostate,II,59,Male,0.0,0,Targeted therapy
+SYN-P00074,439,0,Melanoma,II,62,Female,0.0,0,Targeted therapy
+SYN-P00075,1049,0,Prostate,II,54,Male,0.0,1,Chemotherapy
+SYN-P00076,941,0,Melanoma,III,62,Male,1.0,0,Radiation
+SYN-P00077,1076,1,Lung,I,83,Female,0.0,0,Surgery
+SYN-P00078,890,0,Colorectal,I,74,Male,0.0,1,Surgery
+SYN-P00079,802,1,Colorectal,II,75,Female,0.0,0,Surgery
+SYN-P00080,1617,0,Lung,III,66,Female,1.0,0,Targeted therapy
+SYN-P00081,1067,0,Lung,II,59,Male,0.0,1,Surgery
+SYN-P00082,38,1,Colorectal,III,62,Female,0.0,2,Immunotherapy
+SYN-P00083,167,1,Prostate,IV,68,Male,1.0,0,Chemotherapy
+SYN-P00084,594,0,Colorectal,I,71,Male,0.0,1,Surgery
+SYN-P00085,1245,0,Lung,II,43,Male,0.0,0,Radiation
+SYN-P00086,650,1,Prostate,I,54,Male,0.0,1,Surgery
+SYN-P00087,1699,0,Prostate,I,57,Male,0.0,0,Surgery
+SYN-P00088,822,0,Prostate,II,62,Male,0.0,0,Surgery
+SYN-P00089,739,0,Prostate,II,50,Male,0.0,0,Targeted therapy
+SYN-P00090,656,0,Prostate,IV,65,Male,0.0,0,Hormone therapy
+SYN-P00091,799,1,Melanoma,I,59,Male,0.0,1,Immunotherapy
+SYN-P00092,791,0,Lung,III,67,Female,1.0,0,Surgery
+SYN-P00093,609,0,Lung,II,90,Female,1.0,1,Targeted therapy
+SYN-P00094,849,0,Prostate,III,56,Male,0.0,0,Chemotherapy
+SYN-P00095,132,1,Colorectal,IV,56,Female,0.0,0,Targeted therapy
+SYN-P00096,111,1,Breast,III,65,Female,1.0,1,Chemotherapy
+SYN-P00097,1950,1,Colorectal,II,57,Female,2.0,1,Targeted therapy
+SYN-P00098,1049,0,Breast,II,65,Female,0.0,1,Surgery
+SYN-P00099,930,0,Breast,II,56,Female,,1,Targeted therapy
+SYN-P00100,451,1,Colorectal,IV,68,Female,,1,Targeted therapy
+SYN-P00101,854,0,Breast,II,58,Female,0.0,0,Surgery
+SYN-P00102,307,1,Prostate,II,67,Male,0.0,1,Surgery
+SYN-P00103,1368,0,Prostate,II,90,Male,0.0,1,Targeted therapy
+SYN-P00104,840,0,Lung,I,70,Male,0.0,0,Surgery
+SYN-P00105,578,0,Colorectal,I,57,Male,0.0,1,Targeted therapy
+SYN-P00106,1050,1,Breast,I,80,Female,0.0,1,Radiation
+SYN-P00107,264,1,Lung,IV,43,Male,0.0,2,Chemotherapy
+SYN-P00108,447,0,Breast,I,63,Female,0.0,1,Targeted therapy
+SYN-P00109,949,0,Breast,III,58,Female,0.0,0,Chemotherapy
+SYN-P00110,892,1,Lung,II,58,Female,0.0,1,Surgery
+SYN-P00111,1133,1,Prostate,III,63,Male,1.0,1,Radiation
+SYN-P00112,684,0,Colorectal,III,70,Female,2.0,0,Radiation
+SYN-P00113,1161,0,Lung,II,46,Female,0.0,1,Surgery
+SYN-P00114,930,0,Colorectal,I,64,Male,0.0,0,Surgery
+SYN-P00115,160,1,Lung,IV,66,Female,1.0,1,Chemotherapy
+SYN-P00116,847,0,Melanoma,II,48,Male,0.0,0,Targeted therapy
+SYN-P00117,1335,0,Prostate,II,61,Male,1.0,1,Chemotherapy
+SYN-P00118,405,1,Colorectal,IV,79,Female,0.0,1,Chemotherapy
+SYN-P00119,1191,0,Colorectal,II,51,Male,0.0,0,Surgery
+SYN-P00120,224,1,Breast,IV,60,Female,0.0,0,Radiation
+SYN-P00121,1816,0,Breast,III,40,Female,0.0,0,Targeted therapy
+SYN-P00122,207,1,Colorectal,IV,75,Female,0.0,0,Surgery
+SYN-P00123,93,1,Lung,II,47,Female,2.0,0,Surgery
+SYN-P00124,151,1,Melanoma,IV,90,Male,1.0,2,Radiation
+SYN-P00125,496,1,Lung,III,55,Male,0.0,1,Surgery
+SYN-P00126,128,1,Breast,III,63,Female,0.0,1,Hormone therapy
+SYN-P00127,83,1,Colorectal,II,60,Male,0.0,0,Surgery
+SYN-P00128,676,0,Melanoma,IV,53,Female,1.0,1,Targeted therapy
+SYN-P00129,459,0,Prostate,I,61,Male,0.0,0,Surgery
+SYN-P00130,1838,0,Breast,III,53,Female,,0,Targeted therapy
+SYN-P00131,867,1,Prostate,IV,74,Male,0.0,0,Hormone therapy
+SYN-P00132,403,1,Breast,IV,83,Female,1.0,2,Hormone therapy
+SYN-P00133,481,1,Breast,II,85,Female,0.0,1,Surgery
+SYN-P00134,590,0,Breast,II,48,Female,0.0,1,Surgery
+SYN-P00135,95,1,Breast,I,87,Female,0.0,1,Surgery
+SYN-P00136,1781,0,Colorectal,I,86,Female,0.0,0,Radiation
+SYN-P00137,1271,0,Colorectal,I,73,Female,0.0,1,Surgery
+SYN-P00138,780,0,Prostate,III,64,Male,,0,Chemotherapy
+SYN-P00139,30,1,Lung,IV,66,Male,2.0,0,Radiation
+SYN-P00140,60,1,Melanoma,IV,75,Female,0.0,3,Targeted therapy
+SYN-P00141,80,1,Lung,III,67,Female,2.0,1,Surgery
+SYN-P00142,102,1,Breast,II,61,Female,0.0,0,Surgery
+SYN-P00143,151,1,Colorectal,IV,71,Female,,1,Radiation
+SYN-P00144,1431,0,Colorectal,II,52,Male,0.0,1,Surgery
+SYN-P00145,441,0,Lung,II,48,Male,0.0,0,Radiation
+SYN-P00146,498,0,Breast,IV,48,Female,0.0,0,Hormone therapy
+SYN-P00147,275,1,Prostate,III,78,Male,0.0,1,Hormone therapy
+SYN-P00148,933,0,Prostate,I,74,Male,0.0,0,Surgery
+SYN-P00149,743,1,Lung,III,54,Male,2.0,0,Surgery
+SYN-P00150,1306,1,Breast,III,84,Female,0.0,1,Radiation
+SYN-P00151,248,1,Breast,IV,62,Female,2.0,0,Hormone therapy
+SYN-P00152,60,1,Lung,III,79,Female,2.0,2,Immunotherapy
+SYN-P00153,61,1,Prostate,IV,68,Male,2.0,1,Surgery
+SYN-P00154,1538,1,Breast,III,63,Female,0.0,0,Radiation
+SYN-P00155,816,0,Prostate,I,58,Male,0.0,0,Hormone therapy
+SYN-P00156,1159,1,Lung,II,66,Male,1.0,1,Radiation
+SYN-P00157,920,0,Melanoma,I,67,Female,0.0,0,Radiation
+SYN-P00158,702,1,Breast,II,81,Female,0.0,0,Surgery
+SYN-P00159,867,0,Lung,I,53,Male,0.0,1,Surgery
+SYN-P00160,1117,1,Breast,IV,65,Female,0.0,0,Chemotherapy
+SYN-P00161,73,1,Lung,III,60,Female,3.0,1,Chemotherapy
+SYN-P00162,452,0,Colorectal,III,44,Male,0.0,0,Targeted therapy
+SYN-P00163,1592,0,Lung,II,72,Female,0.0,0,Targeted therapy
+SYN-P00164,754,1,Lung,III,70,Male,0.0,0,Surgery
+SYN-P00165,440,0,Lung,II,72,Male,0.0,2,Surgery
+SYN-P00166,130,1,Breast,III,68,Female,0.0,1,Chemotherapy
+SYN-P00167,1735,0,Breast,II,55,Female,0.0,0,Surgery
+SYN-P00168,665,1,Lung,III,61,Female,0.0,0,Chemotherapy
+SYN-P00169,135,1,Prostate,IV,53,Male,2.0,2,Chemotherapy
+SYN-P00170,162,1,Colorectal,II,83,Female,0.0,2,Immunotherapy
+SYN-P00171,1078,1,Melanoma,I,78,Female,0.0,0,Targeted therapy
+SYN-P00172,415,1,Lung,II,57,Female,0.0,0,Surgery
+SYN-P00173,114,1,Breast,IV,81,Female,0.0,0,Chemotherapy
+SYN-P00174,142,1,Breast,II,60,Female,,1,Surgery
+SYN-P00175,1802,0,Breast,II,74,Female,0.0,0,Chemotherapy
+SYN-P00176,576,0,Breast,IV,69,Female,1.0,1,Radiation
+SYN-P00177,1780,0,Prostate,II,67,Male,0.0,0,Radiation
+SYN-P00178,332,1,Prostate,II,77,Male,3.0,1,Surgery
+SYN-P00179,700,0,Breast,I,74,Female,0.0,0,Targeted therapy
+SYN-P00180,217,1,Prostate,I,75,Male,0.0,0,Surgery
+SYN-P00181,1508,0,Lung,I,65,Female,0.0,0,Targeted therapy
+SYN-P00182,480,0,Melanoma,II,71,Female,1.0,0,Surgery
+SYN-P00183,982,0,Lung,I,57,Male,0.0,0,Surgery
+SYN-P00184,374,0,Lung,II,46,Male,1.0,0,Surgery
+SYN-P00185,1092,1,Melanoma,III,68,Female,0.0,0,Targeted therapy
+SYN-P00186,837,0,Breast,III,59,Female,0.0,0,Chemotherapy
+SYN-P00187,1452,1,Prostate,III,68,Male,0.0,0,Chemotherapy
+SYN-P00188,82,1,Colorectal,III,67,Male,0.0,1,Targeted therapy
+SYN-P00189,948,1,Prostate,IV,67,Male,0.0,0,Chemotherapy
+SYN-P00190,415,0,Prostate,III,41,Male,1.0,0,Radiation
+SYN-P00191,160,1,Melanoma,IV,64,Female,1.0,0,Immunotherapy
+SYN-P00192,1034,1,Prostate,II,53,Male,2.0,1,Radiation
+SYN-P00193,416,0,Melanoma,II,65,Male,0.0,1,Immunotherapy
+SYN-P00194,763,1,Lung,IV,70,Male,1.0,0,Surgery
+SYN-P00195,979,0,Lung,II,75,Male,0.0,1,Surgery
+SYN-P00196,901,0,Melanoma,II,49,Male,0.0,0,Targeted therapy
+SYN-P00197,71,1,Colorectal,III,60,Female,,1,Targeted therapy
+SYN-P00198,819,0,Colorectal,II,57,Male,0.0,1,Immunotherapy
+SYN-P00199,856,0,Breast,II,64,Female,1.0,0,Surgery
+SYN-P00200,1014,1,Lung,II,61,Male,0.0,0,Surgery
+SYN-P00201,562,0,Colorectal,III,61,Male,0.0,0,Surgery
+SYN-P00202,838,0,Breast,II,81,Female,0.0,0,Surgery
+SYN-P00203,894,1,Colorectal,IV,63,Male,2.0,1,Chemotherapy
+SYN-P00204,416,1,Colorectal,I,69,Female,0.0,0,Targeted therapy
+SYN-P00205,490,0,Breast,II,63,Female,0.0,0,Surgery
+SYN-P00206,629,0,Melanoma,I,75,Female,0.0,0,Radiation
+SYN-P00207,292,1,Prostate,III,77,Male,1.0,1,Targeted therapy
+SYN-P00208,679,1,Melanoma,III,78,Male,0.0,1,Radiation
+SYN-P00209,831,0,Lung,I,65,Male,2.0,0,Surgery
+SYN-P00210,117,1,Melanoma,IV,53,Female,1.0,1,Chemotherapy
+SYN-P00211,1507,0,Melanoma,II,53,Male,0.0,0,Surgery
+SYN-P00212,234,1,Breast,IV,52,Female,0.0,1,Surgery
+SYN-P00213,594,0,Breast,I,64,Female,0.0,0,Surgery
+SYN-P00214,832,0,Lung,II,50,Male,0.0,0,Chemotherapy
+SYN-P00215,1334,0,Breast,I,46,Female,0.0,0,Surgery
+SYN-P00216,419,1,Lung,III,79,Male,0.0,0,Immunotherapy
+SYN-P00217,1633,1,Lung,II,58,Male,1.0,0,Surgery
+SYN-P00218,2066,0,Lung,II,50,Male,0.0,0,Radiation
+SYN-P00219,217,1,Breast,IV,81,Female,1.0,0,Chemotherapy
+SYN-P00220,804,0,Prostate,II,33,Male,0.0,0,Surgery
+SYN-P00221,642,1,Prostate,III,71,Male,0.0,0,Radiation
+SYN-P00222,1408,1,Breast,IV,45,Female,0.0,0,Chemotherapy
+SYN-P00223,995,0,Breast,II,90,Female,0.0,1,Radiation
+SYN-P00224,1263,0,Colorectal,I,59,Male,0.0,1,Radiation
+SYN-P00225,324,1,Lung,III,55,Male,0.0,0,Chemotherapy
+SYN-P00226,300,1,Colorectal,III,82,Female,2.0,0,Targeted therapy
+SYN-P00227,1602,0,Breast,I,54,Female,0.0,1,Targeted therapy
+SYN-P00228,442,1,Lung,III,59,Male,2.0,0,Immunotherapy
+SYN-P00229,845,1,Prostate,III,63,Male,0.0,0,Hormone therapy
+SYN-P00230,87,1,Colorectal,IV,70,Male,2.0,1,Chemotherapy
+SYN-P00231,1021,0,Breast,I,59,Female,0.0,0,Surgery
+SYN-P00232,127,1,Lung,IV,72,Female,0.0,1,Immunotherapy
+SYN-P00233,1064,1,Colorectal,II,64,Male,0.0,1,Surgery
+SYN-P00234,121,1,Prostate,IV,77,Male,1.0,0,Chemotherapy
+SYN-P00235,643,0,Prostate,III,62,Male,0.0,2,Surgery
+SYN-P00236,518,1,Prostate,III,66,Male,0.0,0,Radiation
+SYN-P00237,1748,1,Prostate,II,62,Male,1.0,0,Surgery
+SYN-P00238,818,0,Colorectal,III,74,Male,0.0,1,Immunotherapy
+SYN-P00239,300,1,Breast,III,66,Female,0.0,1,Surgery
+SYN-P00240,875,1,Lung,III,55,Male,0.0,0,Targeted therapy
+SYN-P00241,475,0,Breast,I,62,Female,0.0,0,Radiation
+SYN-P00242,308,1,Prostate,III,73,Male,0.0,0,Chemotherapy
+SYN-P00243,104,1,Breast,II,67,Female,0.0,0,Surgery
+SYN-P00244,733,0,Lung,I,50,Female,0.0,0,Surgery
+SYN-P00245,493,0,Breast,II,74,Female,0.0,0,Targeted therapy
+SYN-P00246,790,1,Melanoma,IV,66,Male,0.0,1,Surgery
+SYN-P00247,134,1,Breast,II,62,Male,0.0,1,Surgery
+SYN-P00248,97,1,Prostate,IV,71,Male,0.0,1,Targeted therapy
+SYN-P00249,522,0,Melanoma,III,59,Male,0.0,1,Chemotherapy
+SYN-P00250,1693,0,Prostate,II,73,Male,0.0,1,Surgery
+SYN-P00251,481,1,Breast,I,76,Female,0.0,0,Chemotherapy
+SYN-P00252,385,1,Lung,IV,74,Female,2.0,0,Radiation
+SYN-P00253,132,1,Colorectal,II,70,Female,0.0,1,Radiation
+SYN-P00254,570,0,Breast,I,79,Female,0.0,0,Radiation
+SYN-P00255,260,1,Prostate,IV,55,Male,0.0,0,Surgery
+SYN-P00256,838,0,Prostate,III,78,Male,1.0,0,Surgery
+SYN-P00257,254,1,Colorectal,III,58,Male,0.0,1,Chemotherapy
+SYN-P00258,227,1,Lung,III,41,Male,0.0,0,Immunotherapy
+SYN-P00259,799,1,Prostate,III,53,Male,0.0,2,Chemotherapy
+SYN-P00260,775,0,Breast,III,59,Female,0.0,0,Chemotherapy
+SYN-P00261,629,0,Prostate,III,70,Male,0.0,1,Targeted therapy
+SYN-P00262,367,1,Melanoma,II,83,Female,0.0,1,Surgery
+SYN-P00263,2133,0,Breast,I,50,Female,0.0,1,Hormone therapy
+SYN-P00264,302,1,Lung,IV,59,Male,2.0,0,Surgery
+SYN-P00265,405,0,Prostate,III,63,Male,1.0,0,Surgery
+SYN-P00266,919,1,Breast,III,76,Female,0.0,0,Radiation
+SYN-P00267,1138,0,Breast,II,67,Female,0.0,0,Targeted therapy
+SYN-P00268,480,0,Melanoma,II,62,Male,0.0,0,Surgery
+SYN-P00269,324,1,Melanoma,IV,70,Male,0.0,2,Immunotherapy
+SYN-P00270,331,1,Breast,IV,74,Female,0.0,1,Targeted therapy
+SYN-P00271,389,0,Lung,I,87,Male,0.0,0,Surgery
+SYN-P00272,617,0,Colorectal,III,59,Male,2.0,0,Immunotherapy
+SYN-P00273,452,0,Lung,II,67,Female,0.0,0,Chemotherapy
+SYN-P00274,1675,0,Lung,III,63,Female,0.0,0,Surgery
+SYN-P00275,1165,0,Melanoma,II,51,Female,0.0,0,Radiation
+SYN-P00276,836,0,Colorectal,I,69,Male,0.0,0,Surgery
+SYN-P00277,245,1,Prostate,II,73,Male,1.0,1,Hormone therapy
+SYN-P00278,960,1,Breast,III,47,Female,0.0,0,Chemotherapy
+SYN-P00279,917,1,Breast,III,61,Female,0.0,0,Chemotherapy
+SYN-P00280,908,0,Prostate,II,72,Male,0.0,0,Surgery
+SYN-P00281,253,1,Lung,II,80,Female,0.0,0,Immunotherapy
+SYN-P00282,476,0,Breast,II,62,Female,0.0,0,Targeted therapy
+SYN-P00283,1036,0,Lung,III,62,Female,1.0,1,Immunotherapy
+SYN-P00284,189,1,Lung,II,34,Male,0.0,0,Targeted therapy
+SYN-P00285,138,1,Colorectal,II,53,Female,0.0,0,Radiation
+SYN-P00286,388,1,Breast,III,59,Female,0.0,1,Targeted therapy
+SYN-P00287,625,1,Breast,IV,57,Female,0.0,0,Radiation
+SYN-P00288,949,0,Breast,II,86,Female,0.0,1,Radiation
+SYN-P00289,489,1,Melanoma,I,64,Male,,0,Surgery
+SYN-P00290,956,0,Breast,II,64,Female,0.0,0,Radiation
+SYN-P00291,850,1,Breast,III,62,Female,0.0,0,Chemotherapy
+SYN-P00292,1413,1,Breast,III,56,Female,0.0,1,Targeted therapy
+SYN-P00293,1296,0,Melanoma,I,62,Male,0.0,2,Surgery
+SYN-P00294,716,1,Melanoma,III,87,Male,2.0,0,Immunotherapy
+SYN-P00295,1078,0,Prostate,II,71,Male,0.0,1,Chemotherapy
+SYN-P00296,58,1,Lung,III,71,Male,,0,Targeted therapy
+SYN-P00297,751,1,Colorectal,IV,60,Male,0.0,1,Targeted therapy
+SYN-P00298,1245,0,Breast,III,72,Female,0.0,0,Chemotherapy
+SYN-P00299,1595,0,Melanoma,II,34,Female,0.0,1,Surgery
+SYN-P00300,1519,0,Lung,I,55,Male,0.0,0,Radiation
+SYN-P00301,589,0,Prostate,III,59,Male,0.0,0,Chemotherapy
+SYN-P00302,784,1,Colorectal,III,63,Male,1.0,0,Chemotherapy
+SYN-P00303,41,1,Colorectal,II,80,Female,0.0,1,Radiation
+SYN-P00304,651,1,Lung,III,39,Male,0.0,0,Surgery
+SYN-P00305,31,1,Colorectal,III,65,Female,0.0,0,Targeted therapy
+SYN-P00306,1019,1,Prostate,III,60,Male,0.0,1,Radiation
+SYN-P00307,1947,0,Breast,I,64,Male,0.0,0,Radiation
+SYN-P00308,1159,1,Prostate,I,54,Male,0.0,0,Hormone therapy
+SYN-P00309,1046,1,Lung,IV,49,Male,0.0,1,Immunotherapy
+SYN-P00310,364,1,Colorectal,III,75,Female,1.0,0,Chemotherapy
+SYN-P00311,140,1,Prostate,IV,75,Male,0.0,1,Surgery
+SYN-P00312,114,1,Breast,III,55,Female,0.0,0,Chemotherapy
+SYN-P00313,938,0,Lung,IV,47,Male,1.0,0,Immunotherapy
+SYN-P00314,79,1,Prostate,IV,77,Male,0.0,0,Surgery
+SYN-P00315,291,1,Breast,IV,57,Female,1.0,1,Chemotherapy
+SYN-P00316,1774,0,Prostate,II,80,Male,1.0,0,Chemotherapy
+SYN-P00317,563,0,Lung,III,63,Female,0.0,2,Immunotherapy
+SYN-P00318,476,1,Lung,II,60,Male,0.0,0,Immunotherapy
+SYN-P00319,571,0,Melanoma,I,56,Female,0.0,0,Surgery
+SYN-P00320,262,1,Colorectal,II,68,Female,2.0,0,Targeted therapy
+SYN-P00321,1038,1,Colorectal,III,71,Male,2.0,0,Chemotherapy
+SYN-P00322,518,1,Prostate,III,60,Male,0.0,0,Hormone therapy
+SYN-P00323,390,0,Colorectal,I,56,Male,0.0,0,Chemotherapy
+SYN-P00324,487,1,Colorectal,IV,70,Female,0.0,1,Chemotherapy
+SYN-P00325,158,1,Lung,II,70,Male,0.0,0,Immunotherapy
+SYN-P00326,596,1,Prostate,III,60,Male,0.0,0,Chemotherapy
+SYN-P00327,1755,1,Melanoma,III,46,Female,0.0,1,Radiation
+SYN-P00328,317,1,Breast,IV,60,Female,0.0,1,Hormone therapy
+SYN-P00329,616,0,Lung,III,78,Female,0.0,1,Chemotherapy
+SYN-P00330,48,1,Breast,III,60,Female,0.0,0,Hormone therapy
+SYN-P00331,1360,0,Prostate,II,74,Male,2.0,1,Chemotherapy
+SYN-P00332,553,1,Breast,IV,66,Female,0.0,0,Chemotherapy
+SYN-P00333,1788,0,Prostate,II,81,Male,0.0,0,Radiation
+SYN-P00334,473,1,Colorectal,II,70,Female,0.0,1,Chemotherapy
+SYN-P00335,831,0,Prostate,II,72,Male,0.0,1,Targeted therapy
+SYN-P00336,288,1,Prostate,IV,60,Male,0.0,2,Radiation
+SYN-P00337,1267,0,Prostate,II,47,Male,0.0,0,Hormone therapy
+SYN-P00338,900,0,Colorectal,II,63,Male,0.0,0,Surgery
+SYN-P00339,80,1,Breast,IV,62,Female,2.0,1,Surgery
+SYN-P00340,80,1,Lung,IV,75,Male,1.0,1,Immunotherapy
+SYN-P00341,1648,0,Colorectal,IV,41,Female,0.0,0,Chemotherapy
+SYN-P00342,1191,1,Breast,I,53,Female,0.0,0,Hormone therapy
+SYN-P00343,459,1,Colorectal,I,76,Female,0.0,2,Surgery
+SYN-P00344,156,1,Breast,IV,54,Female,2.0,0,Chemotherapy
+SYN-P00345,554,1,Prostate,III,89,Male,0.0,0,Hormone therapy
+SYN-P00346,737,1,Breast,II,67,Female,0.0,1,Surgery
+SYN-P00347,256,1,Melanoma,III,61,Female,3.0,0,Chemotherapy
+SYN-P00348,433,1,Colorectal,II,89,Female,0.0,1,Surgery
+SYN-P00349,382,1,Colorectal,III,64,Male,0.0,1,Chemotherapy
+SYN-P00350,1839,1,Lung,I,53,Male,0.0,0,Immunotherapy
+SYN-P00351,1036,1,Breast,IV,90,Female,1.0,1,Chemotherapy
+SYN-P00352,616,1,Colorectal,III,73,Male,0.0,0,Radiation
+SYN-P00353,286,1,Breast,III,71,Female,1.0,0,Surgery
+SYN-P00354,692,1,Breast,III,74,Female,0.0,1,Surgery
+SYN-P00355,1001,0,Lung,III,66,Female,0.0,0,Chemotherapy
+SYN-P00356,144,1,Melanoma,IV,71,Female,0.0,1,Surgery
+SYN-P00357,737,0,Prostate,I,54,Male,0.0,0,Chemotherapy
+SYN-P00358,509,1,Breast,IV,63,Female,1.0,0,Surgery
+SYN-P00359,32,1,Prostate,II,85,Male,0.0,1,Surgery
+SYN-P00360,421,0,Lung,III,46,Female,0.0,0,Surgery
+SYN-P00361,837,0,Breast,II,63,Female,0.0,0,Surgery
+SYN-P00362,276,1,Colorectal,III,65,Female,1.0,0,Chemotherapy
+SYN-P00363,853,0,Breast,III,71,Female,0.0,0,Surgery
+SYN-P00364,951,0,Prostate,III,59,Male,1.0,0,Targeted therapy
+SYN-P00365,309,1,Lung,III,76,Female,2.0,0,Immunotherapy
+SYN-P00366,548,1,Prostate,IV,66,Male,0.0,0,Chemotherapy
+SYN-P00367,1337,0,Breast,II,82,Female,0.0,2,Surgery
+SYN-P00368,1443,0,Prostate,II,72,Male,0.0,0,Surgery
+SYN-P00369,248,1,Lung,IV,53,Male,,0,Surgery
+SYN-P00370,81,1,Lung,IV,84,Male,0.0,1,Radiation
+SYN-P00371,221,1,Melanoma,IV,68,Female,1.0,0,Targeted therapy
+SYN-P00372,1341,1,Lung,III,74,Male,1.0,1,Targeted therapy
+SYN-P00373,2001,0,Prostate,III,68,Male,0.0,1,Targeted therapy
+SYN-P00374,1232,1,Breast,III,69,Female,0.0,0,Radiation
+SYN-P00375,790,1,Colorectal,II,64,Male,0.0,0,Radiation
+SYN-P00376,792,0,Prostate,III,52,Male,1.0,1,Radiation
+SYN-P00377,622,1,Colorectal,III,72,Male,0.0,0,Immunotherapy
+SYN-P00378,56,1,Breast,IV,54,Female,2.0,0,Hormone therapy
+SYN-P00379,881,1,Colorectal,II,63,Female,3.0,1,Surgery
+SYN-P00380,820,0,Melanoma,III,64,Male,1.0,0,Radiation
+SYN-P00381,776,1,Melanoma,III,59,Female,2.0,1,Chemotherapy
+SYN-P00382,446,1,Breast,IV,73,Female,1.0,0,Hormone therapy
+SYN-P00383,134,1,Lung,II,68,Male,0.0,0,Radiation
+SYN-P00384,449,1,Breast,III,57,Female,0.0,0,Targeted therapy
+SYN-P00385,304,1,Colorectal,III,73,Male,1.0,0,Surgery
+SYN-P00386,1835,1,Colorectal,II,62,Male,0.0,1,Targeted therapy
+SYN-P00387,954,1,Prostate,IV,59,Male,0.0,0,Hormone therapy
+SYN-P00388,627,0,Lung,II,64,Male,0.0,0,Surgery
+SYN-P00389,323,1,Breast,II,70,Female,1.0,0,Surgery
+SYN-P00390,105,1,Melanoma,II,76,Male,2.0,1,Chemotherapy
+SYN-P00391,324,1,Colorectal,III,46,Female,0.0,0,Immunotherapy
+SYN-P00392,230,1,Prostate,IV,63,Male,0.0,0,Surgery
+SYN-P00393,1105,0,Lung,III,65,Female,0.0,1,Immunotherapy
+SYN-P00394,81,1,Colorectal,III,71,Male,0.0,0,Targeted therapy
+SYN-P00395,176,1,Colorectal,I,61,Female,0.0,0,Surgery
+SYN-P00396,93,1,Lung,III,63,Female,0.0,0,Surgery
+SYN-P00397,494,1,Lung,IV,45,Male,0.0,0,Radiation
+SYN-P00398,142,1,Lung,II,74,Female,0.0,0,Targeted therapy
+SYN-P00399,203,1,Lung,III,71,Female,2.0,1,Radiation
+SYN-P00400,361,1,Breast,IV,66,Female,1.0,0,Hormone therapy
+SYN-P00401,535,1,Breast,IV,60,Female,2.0,1,Hormone therapy
+SYN-P00402,743,0,Colorectal,III,58,Female,0.0,0,Radiation
+SYN-P00403,373,0,Breast,I,59,Female,,0,Surgery
+SYN-P00404,353,1,Colorectal,II,40,Female,0.0,1,Immunotherapy
+SYN-P00405,286,1,Lung,III,76,Male,0.0,0,Chemotherapy
+SYN-P00406,1338,0,Lung,II,57,Male,0.0,0,Surgery
+SYN-P00407,857,1,Melanoma,III,67,Female,2.0,0,Radiation
+SYN-P00408,941,0,Breast,I,70,Female,2.0,0,Surgery
+SYN-P00409,1752,0,Colorectal,I,56,Male,0.0,2,Surgery
+SYN-P00410,65,1,Prostate,III,65,Male,2.0,0,Surgery
+SYN-P00411,515,1,Lung,III,90,Male,0.0,0,Chemotherapy
+SYN-P00412,1041,0,Lung,I,61,Female,0.0,2,Radiation
+SYN-P00413,91,1,Breast,IV,56,Female,1.0,1,Hormone therapy
+SYN-P00414,703,1,Colorectal,IV,66,Female,0.0,1,Chemotherapy
+SYN-P00415,1682,0,Lung,II,49,Male,0.0,1,Surgery
+SYN-P00416,1788,1,Colorectal,III,65,Female,0.0,0,Immunotherapy
+SYN-P00417,466,1,Prostate,III,75,Male,,1,Chemotherapy
+SYN-P00418,1617,0,Breast,I,56,Female,0.0,0,Chemotherapy
+SYN-P00419,56,1,Prostate,III,83,Male,0.0,1,Chemotherapy
+SYN-P00420,223,1,Lung,III,58,Female,,0,Immunotherapy
+SYN-P00421,1390,0,Breast,II,85,Female,2.0,0,Hormone therapy
+SYN-P00422,123,1,Colorectal,IV,60,Female,1.0,0,Chemotherapy
+SYN-P00423,379,0,Lung,II,43,Male,1.0,0,Chemotherapy
+SYN-P00424,630,0,Colorectal,II,44,Male,0.0,0,Surgery
+SYN-P00425,924,1,Melanoma,IV,63,Female,,0,Targeted therapy
+SYN-P00426,671,0,Breast,IV,38,Female,0.0,0,Surgery
+SYN-P00427,1296,1,Colorectal,III,40,Female,0.0,0,Surgery
+SYN-P00428,1045,0,Prostate,II,71,Male,0.0,1,Targeted therapy
+SYN-P00429,1777,0,Breast,II,65,Female,0.0,0,Radiation
+SYN-P00430,820,1,Prostate,III,53,Male,0.0,0,Chemotherapy
+SYN-P00431,1230,0,Prostate,I,53,Male,0.0,0,Surgery
+SYN-P00432,468,1,Prostate,III,52,Male,0.0,0,Radiation
+SYN-P00433,956,1,Breast,IV,69,Female,0.0,1,Hormone therapy
+SYN-P00434,1169,0,Lung,IV,57,Male,1.0,0,Surgery
+SYN-P00435,958,1,Lung,I,67,Female,0.0,0,Targeted therapy
+SYN-P00436,324,1,Breast,IV,44,Female,1.0,1,Hormone therapy
+SYN-P00437,551,1,Prostate,III,71,Male,0.0,1,Radiation
+SYN-P00438,256,1,Breast,IV,58,Female,0.0,0,Chemotherapy
+SYN-P00439,1074,0,Breast,III,57,Female,0.0,0,Chemotherapy
+SYN-P00440,383,1,Lung,II,70,Male,,1,Radiation
+SYN-P00441,1028,0,Lung,III,76,Male,0.0,0,Targeted therapy
+SYN-P00442,766,0,Lung,II,90,Female,1.0,0,Surgery
+SYN-P00443,1146,0,Breast,IV,65,Female,0.0,0,Radiation
+SYN-P00444,802,0,Breast,I,63,Female,0.0,0,Hormone therapy
+SYN-P00445,365,0,Prostate,I,63,Male,0.0,1,Surgery
+SYN-P00446,1372,0,Prostate,III,59,Male,0.0,0,Targeted therapy
+SYN-P00447,802,0,Lung,II,63,Female,0.0,1,Immunotherapy
+SYN-P00448,665,1,Colorectal,IV,39,Female,0.0,0,Radiation
+SYN-P00449,941,1,Lung,III,52,Male,0.0,0,Radiation
+SYN-P00450,645,1,Breast,II,55,Female,0.0,1,Radiation
+SYN-P00451,539,0,Lung,III,46,Male,0.0,0,Targeted therapy
+SYN-P00452,493,0,Lung,I,54,Female,,0,Targeted therapy
+SYN-P00453,465,0,Prostate,II,74,Male,0.0,1,Surgery
+SYN-P00454,335,1,Lung,II,61,Female,0.0,1,Surgery
+SYN-P00455,791,0,Lung,III,69,Female,0.0,0,Radiation
+SYN-P00456,1292,0,Colorectal,II,71,Male,0.0,0,Surgery
+SYN-P00457,1228,0,Colorectal,II,71,Male,0.0,1,Chemotherapy
+SYN-P00458,187,1,Lung,IV,25,Male,0.0,0,Immunotherapy
+SYN-P00459,396,1,Breast,IV,67,Female,1.0,0,Hormone therapy
+SYN-P00460,374,1,Colorectal,I,62,Female,0.0,1,Surgery
+SYN-P00461,575,1,Colorectal,III,59,Male,1.0,0,Targeted therapy
+SYN-P00462,1417,0,Breast,I,79,Female,0.0,0,Surgery
+SYN-P00463,1579,1,Lung,II,81,Female,0.0,0,Chemotherapy
+SYN-P00464,736,0,Breast,III,44,Female,2.0,0,Hormone therapy
+SYN-P00465,277,1,Breast,IV,75,Female,0.0,0,Radiation
+SYN-P00466,770,0,Colorectal,II,70,Female,0.0,0,Immunotherapy
+SYN-P00467,127,1,Colorectal,II,86,Male,2.0,0,Chemotherapy
+SYN-P00468,830,0,Breast,I,90,Female,0.0,0,Hormone therapy
+SYN-P00469,1241,1,Melanoma,I,46,Female,3.0,0,Surgery
+SYN-P00470,1488,0,Melanoma,III,62,Male,0.0,0,Chemotherapy
+SYN-P00471,131,1,Lung,III,67,Female,0.0,0,Chemotherapy
+SYN-P00472,565,0,Lung,III,42,Male,0.0,1,Immunotherapy
+SYN-P00473,75,1,Lung,II,58,Male,,0,Radiation
+SYN-P00474,1142,0,Melanoma,II,56,Female,0.0,0,Chemotherapy
+SYN-P00475,1081,0,Lung,II,64,Female,0.0,1,Surgery
+SYN-P00476,1755,0,Prostate,III,82,Male,0.0,0,Surgery
+SYN-P00477,1021,0,Colorectal,II,61,Male,0.0,0,Targeted therapy
+SYN-P00478,103,1,Lung,IV,83,Female,1.0,0,Targeted therapy
+SYN-P00479,947,1,Lung,II,57,Male,1.0,1,Radiation
+SYN-P00480,1246,0,Lung,I,79,Male,,0,Immunotherapy
+SYN-P00481,1059,0,Colorectal,I,62,Male,0.0,1,Surgery
+SYN-P00482,339,1,Breast,III,57,Female,0.0,0,Surgery
+SYN-P00483,1659,0,Melanoma,II,56,Male,1.0,0,Targeted therapy
+SYN-P00484,1037,1,Colorectal,IV,74,Male,0.0,0,Radiation
+SYN-P00485,985,1,Lung,IV,39,Female,0.0,2,Immunotherapy
+SYN-P00486,292,1,Prostate,I,80,Male,0.0,1,Surgery
+SYN-P00487,217,1,Colorectal,IV,57,Male,2.0,1,Chemotherapy
+SYN-P00488,293,1,Breast,IV,71,Female,,1,Chemotherapy
+SYN-P00489,956,1,Breast,I,39,Female,0.0,1,Surgery
+SYN-P00490,246,1,Colorectal,III,56,Female,0.0,0,Radiation
+SYN-P00491,485,1,Prostate,III,57,Male,0.0,0,Surgery
+SYN-P00492,905,0,Colorectal,II,71,Female,0.0,1,Chemotherapy
+SYN-P00493,536,1,Breast,II,55,Female,,0,Chemotherapy
+SYN-P00494,531,1,Melanoma,IV,63,Female,0.0,0,Chemotherapy
+SYN-P00495,441,0,Colorectal,III,69,Male,0.0,0,Chemotherapy
+SYN-P00496,1221,0,Lung,II,73,Male,0.0,0,Surgery
+SYN-P00497,51,1,Colorectal,I,78,Male,0.0,1,Surgery
+SYN-P00498,109,1,Breast,IV,51,Female,0.0,0,Chemotherapy
+SYN-P00499,575,1,Lung,IV,66,Male,0.0,1,Immunotherapy
+SYN-P00500,1149,0,Lung,III,75,Male,0.0,0,Chemotherapy
+SYN-P00501,844,1,Colorectal,II,61,Male,0.0,0,Surgery
+SYN-P00502,1466,0,Lung,II,68,Male,0.0,0,Immunotherapy
+SYN-P00503,1046,0,Lung,II,89,Female,0.0,1,Surgery
+SYN-P00504,543,0,Colorectal,I,58,Female,0.0,1,Immunotherapy
+SYN-P00505,480,1,Prostate,I,66,Male,0.0,1,Chemotherapy
+SYN-P00506,1283,0,Lung,II,46,Female,0.0,0,Surgery
+SYN-P00507,754,0,Breast,I,63,Female,0.0,0,Targeted therapy
+SYN-P00508,832,1,Breast,III,66,Female,0.0,0,Radiation
+SYN-P00509,435,1,Breast,III,43,Female,0.0,1,Chemotherapy
+SYN-P00510,81,1,Lung,III,50,Male,0.0,2,Radiation
+SYN-P00511,425,0,Lung,I,61,Male,0.0,0,Surgery
+SYN-P00512,741,1,Prostate,III,77,Male,0.0,0,Chemotherapy
+SYN-P00513,612,1,Melanoma,IV,64,Male,0.0,1,Chemotherapy
+SYN-P00514,378,1,Lung,III,59,Female,0.0,0,Chemotherapy
+SYN-P00515,842,1,Colorectal,II,85,Female,0.0,0,Radiation
+SYN-P00516,1434,0,Prostate,I,64,Male,2.0,0,Surgery
+SYN-P00517,122,1,Breast,IV,55,Female,0.0,2,Chemotherapy
+SYN-P00518,454,0,Breast,II,58,Female,0.0,0,Chemotherapy
+SYN-P00519,37,1,Breast,III,66,Female,0.0,0,Hormone therapy
+SYN-P00520,664,0,Prostate,I,53,Male,0.0,0,Targeted therapy
+SYN-P00521,194,1,Lung,IV,55,Female,0.0,1,Immunotherapy
+SYN-P00522,657,0,Colorectal,IV,57,Male,0.0,0,Chemotherapy
+SYN-P00523,709,0,Melanoma,I,66,Female,0.0,0,Targeted therapy
+SYN-P00524,261,1,Breast,IV,59,Female,0.0,0,Hormone therapy
+SYN-P00525,2130,0,Prostate,IV,55,Male,0.0,0,Chemotherapy
+SYN-P00526,453,0,Breast,IV,66,Female,0.0,0,Hormone therapy
+SYN-P00527,1221,1,Lung,IV,66,Male,0.0,0,Chemotherapy
+SYN-P00528,266,1,Breast,III,52,Female,0.0,1,Radiation
+SYN-P00529,873,1,Breast,II,70,Female,0.0,0,Targeted therapy
+SYN-P00530,745,1,Prostate,IV,75,Male,2.0,2,Surgery
+SYN-P00531,1788,0,Colorectal,I,90,Female,0.0,1,Targeted therapy
+SYN-P00532,948,0,Lung,II,50,Female,0.0,0,Surgery
+SYN-P00533,171,1,Colorectal,III,65,Female,3.0,0,Targeted therapy
+SYN-P00534,972,0,Breast,II,57,Female,0.0,0,Surgery
+SYN-P00535,1597,0,Melanoma,I,64,Male,0.0,0,Targeted therapy
+SYN-P00536,577,1,Prostate,III,73,Male,0.0,0,Surgery
+SYN-P00537,160,1,Prostate,IV,58,Male,0.0,0,Surgery
+SYN-P00538,1192,0,Colorectal,II,77,Female,0.0,0,Surgery
+SYN-P00539,845,0,Breast,IV,63,Female,2.0,0,Hormone therapy
+SYN-P00540,259,1,Melanoma,IV,57,Male,0.0,0,Radiation
+SYN-P00541,775,0,Lung,I,81,Male,0.0,0,Immunotherapy
+SYN-P00542,36,1,Breast,III,74,Female,0.0,0,Hormone therapy
+SYN-P00543,250,1,Breast,II,66,Female,1.0,0,Chemotherapy
+SYN-P00544,670,1,Colorectal,III,47,Male,0.0,2,Surgery
+SYN-P00545,502,0,Melanoma,I,66,Female,0.0,2,Targeted therapy
+SYN-P00546,885,1,Lung,IV,52,Male,0.0,2,Chemotherapy
+SYN-P00547,247,1,Breast,IV,70,Female,0.0,1,Targeted therapy
+SYN-P00548,390,0,Breast,III,61,Female,0.0,1,Surgery
+SYN-P00549,1568,0,Prostate,III,71,Male,0.0,0,Surgery
+SYN-P00550,1054,1,Colorectal,III,70,Female,0.0,0,Chemotherapy
+SYN-P00551,618,1,Prostate,III,49,Male,2.0,1,Radiation
+SYN-P00552,755,1,Breast,II,70,Female,0.0,0,Hormone therapy
+SYN-P00553,1874,0,Lung,II,62,Male,0.0,0,Targeted therapy
+SYN-P00554,204,1,Lung,IV,90,Female,0.0,0,Chemotherapy
+SYN-P00555,480,1,Breast,II,56,Female,2.0,0,Chemotherapy
+SYN-P00556,1274,0,Melanoma,I,58,Female,0.0,0,Surgery
+SYN-P00557,793,0,Prostate,I,76,Male,0.0,0,Chemotherapy
+SYN-P00558,322,1,Prostate,II,86,Male,0.0,0,Radiation
+SYN-P00559,535,1,Breast,III,69,Female,0.0,0,Surgery
+SYN-P00560,1092,1,Lung,II,75,Male,0.0,0,Surgery
+SYN-P00561,1003,1,Lung,II,62,Female,2.0,0,Radiation
+SYN-P00562,251,1,Colorectal,II,69,Male,0.0,0,Targeted therapy
+SYN-P00563,426,1,Breast,IV,68,Female,0.0,0,Hormone therapy
+SYN-P00564,459,0,Prostate,IV,46,Male,0.0,0,Chemotherapy
+SYN-P00565,789,1,Lung,III,71,Male,0.0,0,Immunotherapy
+SYN-P00566,589,0,Colorectal,II,62,Male,0.0,0,Surgery
+SYN-P00567,74,1,Prostate,IV,67,Male,1.0,1,Hormone therapy
+SYN-P00568,764,1,Colorectal,III,78,Female,0.0,0,Targeted therapy
+SYN-P00569,925,0,Breast,I,73,Female,0.0,1,Surgery
+SYN-P00570,1463,0,Lung,II,62,Female,1.0,1,Chemotherapy
+SYN-P00571,810,0,Breast,II,65,Female,0.0,0,Surgery
+SYN-P00572,1139,0,Lung,I,64,Female,0.0,0,Surgery
+SYN-P00573,833,1,Prostate,III,78,Male,1.0,1,Radiation
+SYN-P00574,726,0,Colorectal,I,75,Male,0.0,1,Chemotherapy
+SYN-P00575,242,1,Melanoma,III,59,Female,1.0,1,Surgery
+SYN-P00576,1969,0,Lung,II,63,Male,0.0,1,Surgery
+SYN-P00577,1559,0,Melanoma,I,53,Female,0.0,0,Radiation
+SYN-P00578,119,1,Breast,II,76,Female,3.0,0,Hormone therapy
+SYN-P00579,667,1,Colorectal,IV,67,Female,0.0,0,Chemotherapy
+SYN-P00580,630,0,Lung,II,79,Female,0.0,0,Surgery
+SYN-P00581,923,0,Prostate,IV,58,Male,2.0,0,Radiation
+SYN-P00582,247,1,Breast,III,76,Female,0.0,0,Targeted therapy
+SYN-P00583,1847,0,Colorectal,II,67,Male,0.0,1,Surgery
+SYN-P00584,261,1,Prostate,II,77,Male,0.0,1,Chemotherapy
+SYN-P00585,1620,0,Lung,IV,61,Male,0.0,1,Immunotherapy
+SYN-P00586,1788,0,Breast,I,42,Female,1.0,0,Chemotherapy
+SYN-P00587,828,1,Lung,III,72,Male,0.0,0,Radiation
+SYN-P00588,92,1,Prostate,IV,52,Male,0.0,0,Chemotherapy
+SYN-P00589,1519,1,Breast,II,74,Female,1.0,2,Surgery
+SYN-P00590,422,1,Colorectal,IV,49,Female,0.0,1,Radiation
+SYN-P00591,1051,1,Prostate,I,69,Male,2.0,1,Surgery
+SYN-P00592,1265,0,Prostate,I,56,Male,0.0,0,Surgery
+SYN-P00593,180,1,Breast,II,61,Female,0.0,0,Surgery
+SYN-P00594,179,1,Prostate,IV,68,Male,0.0,2,Radiation
+SYN-P00595,1148,0,Breast,I,51,Female,0.0,0,Surgery
+SYN-P00596,190,1,Breast,IV,70,Female,0.0,0,Chemotherapy
+SYN-P00597,617,0,Colorectal,II,85,Male,0.0,0,Surgery
+SYN-P00598,975,0,Prostate,I,55,Male,0.0,0,Surgery
+SYN-P00599,291,1,Prostate,III,54,Male,1.0,0,Chemotherapy
+SYN-P00600,453,1,Lung,III,84,Female,0.0,0,Immunotherapy
+SYN-P00601,37,1,Colorectal,III,61,Female,1.0,0,Chemotherapy
+SYN-P00602,484,0,Lung,IV,79,Female,0.0,1,Surgery
+SYN-P00603,1072,0,Melanoma,I,75,Female,0.0,1,Chemotherapy
+SYN-P00604,695,0,Colorectal,II,58,Female,0.0,0,Surgery
+SYN-P00605,479,0,Prostate,II,69,Male,0.0,0,Targeted therapy
+SYN-P00606,91,1,Lung,IV,59,Male,0.0,1,Chemotherapy
+SYN-P00607,178,1,Lung,I,64,Female,0.0,0,Chemotherapy
+SYN-P00608,1093,1,Colorectal,I,68,Male,,2,Surgery
+SYN-P00609,334,1,Colorectal,IV,63,Female,0.0,1,Radiation
+SYN-P00610,621,0,Colorectal,II,52,Male,0.0,0,Radiation
+SYN-P00611,130,1,Lung,II,45,Male,0.0,0,Immunotherapy
+SYN-P00612,558,0,Breast,IV,59,Female,0.0,0,Chemotherapy
+SYN-P00613,506,1,Colorectal,III,90,Female,0.0,0,Chemotherapy
+SYN-P00614,626,0,Lung,IV,53,Male,0.0,1,Surgery
+SYN-P00615,34,1,Colorectal,IV,65,Female,0.0,0,Chemotherapy
+SYN-P00616,675,0,Colorectal,III,53,Male,0.0,1,Targeted therapy
+SYN-P00617,1104,1,Lung,II,60,Female,2.0,1,Radiation
+SYN-P00618,817,0,Breast,II,60,Female,2.0,2,Chemotherapy
+SYN-P00619,771,0,Prostate,II,62,Male,0.0,1,Radiation
+SYN-P00620,1129,1,Breast,III,81,Female,0.0,2,Chemotherapy
+SYN-P00621,1071,0,Breast,III,53,Female,0.0,0,Targeted therapy
+SYN-P00622,761,0,Melanoma,III,81,Female,3.0,0,Chemotherapy
+SYN-P00623,32,1,Prostate,III,65,Male,0.0,1,Chemotherapy
+SYN-P00624,474,1,Lung,III,35,Female,0.0,1,Immunotherapy
+SYN-P00625,274,1,Breast,II,68,Female,0.0,1,Chemotherapy
+SYN-P00626,1040,0,Lung,III,47,Female,,0,Immunotherapy
+SYN-P00627,579,0,Breast,III,67,Female,0.0,0,Chemotherapy
+SYN-P00628,123,1,Breast,IV,61,Female,0.0,0,Targeted therapy
+SYN-P00629,1296,0,Colorectal,III,68,Female,0.0,1,Targeted therapy
+SYN-P00630,53,1,Lung,II,61,Male,0.0,0,Radiation
+SYN-P00631,414,0,Prostate,IV,73,Male,0.0,0,Targeted therapy
+SYN-P00632,148,1,Prostate,III,45,Male,0.0,0,Radiation
+SYN-P00633,181,1,Lung,III,55,Female,0.0,0,Surgery
+SYN-P00634,82,1,Prostate,III,74,Male,0.0,0,Hormone therapy
+SYN-P00635,416,1,Prostate,III,71,Male,0.0,1,Targeted therapy
+SYN-P00636,645,1,Colorectal,III,58,Male,0.0,0,Targeted therapy
+SYN-P00637,461,1,Lung,II,79,Male,0.0,2,Radiation
+SYN-P00638,523,0,Melanoma,II,58,Male,0.0,1,Chemotherapy
+SYN-P00639,115,1,Breast,IV,74,Female,0.0,0,Surgery
+SYN-P00640,998,0,Melanoma,II,76,Female,0.0,0,Radiation
+SYN-P00641,1152,1,Lung,I,54,Male,0.0,1,Surgery
+SYN-P00642,1055,1,Breast,III,52,Female,2.0,0,Radiation
+SYN-P00643,867,1,Breast,III,61,Female,1.0,1,Targeted therapy
+SYN-P00644,802,1,Colorectal,IV,64,Female,0.0,0,Immunotherapy
+SYN-P00645,524,1,Colorectal,II,56,Female,0.0,0,Surgery
+SYN-P00646,1269,0,Breast,III,51,Female,0.0,0,Targeted therapy
+SYN-P00647,173,1,Colorectal,III,55,Female,1.0,1,Surgery
+SYN-P00648,1145,0,Breast,IV,58,Female,0.0,1,Chemotherapy
+SYN-P00649,563,1,Prostate,IV,63,Male,3.0,0,Hormone therapy
+SYN-P00650,380,1,Lung,II,78,Female,0.0,0,Immunotherapy
+SYN-P00651,460,0,Melanoma,I,72,Female,0.0,1,Targeted therapy
+SYN-P00652,215,1,Lung,I,57,Male,3.0,0,Surgery
+SYN-P00653,496,1,Lung,IV,59,Female,1.0,0,Chemotherapy
+SYN-P00654,469,0,Lung,I,54,Female,0.0,0,Targeted therapy
+SYN-P00655,633,1,Breast,III,67,Female,0.0,0,Chemotherapy
+SYN-P00656,1558,1,Lung,III,47,Female,0.0,0,Targeted therapy
+SYN-P00657,556,1,Breast,III,72,Female,1.0,0,Targeted therapy
+SYN-P00658,1009,0,Breast,II,68,Female,0.0,1,Surgery
+SYN-P00659,476,1,Melanoma,IV,64,Female,0.0,0,Chemotherapy
+SYN-P00660,1208,0,Breast,III,55,Female,0.0,0,Targeted therapy
+SYN-P00661,530,0,Lung,III,77,Female,1.0,1,Chemotherapy
+SYN-P00662,1150,0,Breast,III,90,Female,0.0,1,Surgery
+SYN-P00663,716,0,Colorectal,II,61,Male,0.0,1,Targeted therapy
+SYN-P00664,574,0,Prostate,II,40,Male,0.0,0,Radiation
+SYN-P00665,1027,0,Breast,I,76,Female,0.0,1,Surgery
+SYN-P00666,1037,0,Colorectal,I,64,Female,0.0,0,Chemotherapy
+SYN-P00667,1369,0,Colorectal,III,62,Female,0.0,0,Targeted therapy
+SYN-P00668,758,0,Colorectal,III,71,Male,1.0,1,Chemotherapy
+SYN-P00669,171,1,Lung,III,68,Male,0.0,0,Targeted therapy
+SYN-P00670,1055,0,Prostate,II,46,Male,0.0,0,Radiation
+SYN-P00671,1336,0,Prostate,I,59,Male,0.0,0,Targeted therapy
+SYN-P00672,1262,0,Colorectal,IV,62,Male,0.0,0,Radiation
+SYN-P00673,1865,0,Lung,III,67,Female,0.0,0,Radiation
+SYN-P00674,1005,1,Breast,III,53,Female,0.0,0,Surgery
+SYN-P00675,421,1,Breast,IV,59,Female,,0,Targeted therapy
+SYN-P00676,1746,0,Prostate,I,61,Male,0.0,0,Radiation
+SYN-P00677,1137,0,Colorectal,II,51,Male,0.0,0,Surgery
+SYN-P00678,1356,1,Lung,III,52,Male,0.0,0,Chemotherapy
+SYN-P00679,1127,0,Lung,III,58,Male,0.0,0,Surgery
+SYN-P00680,1212,0,Prostate,II,58,Male,0.0,0,Surgery
+SYN-P00681,935,0,Breast,IV,59,Female,0.0,0,Surgery
+SYN-P00682,329,1,Prostate,III,87,Male,3.0,1,Chemotherapy
+SYN-P00683,174,1,Colorectal,I,67,Female,0.0,0,Radiation
+SYN-P00684,1530,0,Prostate,III,76,Male,0.0,0,Targeted therapy
+SYN-P00685,122,1,Lung,II,74,Male,0.0,0,Surgery
+SYN-P00686,53,1,Breast,IV,90,Female,2.0,0,Radiation
+SYN-P00687,1082,0,Melanoma,III,55,Female,0.0,0,Chemotherapy
+SYN-P00688,465,0,Melanoma,III,72,Female,0.0,0,Chemotherapy
+SYN-P00689,1121,0,Prostate,III,56,Male,0.0,0,Radiation
+SYN-P00690,540,0,Lung,III,63,Female,0.0,0,Immunotherapy
+SYN-P00691,834,0,Lung,I,55,Male,0.0,0,Chemotherapy
+SYN-P00692,68,1,Breast,I,67,Female,0.0,1,Surgery
+SYN-P00693,358,1,Lung,II,76,Female,0.0,2,Surgery
+SYN-P00694,218,1,Breast,IV,73,Female,2.0,1,Chemotherapy
+SYN-P00695,365,0,Melanoma,III,59,Female,0.0,0,Targeted therapy
+SYN-P00696,947,0,Breast,III,52,Female,0.0,0,Targeted therapy
+SYN-P00697,507,0,Lung,II,50,Female,0.0,1,Surgery
+SYN-P00698,934,0,Melanoma,III,50,Female,0.0,0,Chemotherapy
+SYN-P00699,368,1,Prostate,II,64,Male,0.0,0,Surgery
+SYN-P00700,940,1,Lung,III,67,Male,0.0,1,Targeted therapy
+SYN-P00701,1210,0,Breast,II,61,Female,0.0,0,Hormone therapy
+SYN-P00702,1575,0,Breast,I,76,Female,2.0,1,Surgery
+SYN-P00703,84,1,Prostate,IV,71,Male,0.0,0,Radiation
+SYN-P00704,1039,1,Breast,I,57,Female,0.0,1,Targeted therapy
+SYN-P00705,1269,0,Colorectal,II,57,Male,1.0,0,Chemotherapy
+SYN-P00706,874,0,Breast,II,60,Female,0.0,0,Hormone therapy
+SYN-P00707,652,0,Lung,I,57,Male,0.0,1,Immunotherapy
+SYN-P00708,232,1,Prostate,IV,76,Male,0.0,1,Chemotherapy
+SYN-P00709,1329,1,Prostate,II,73,Male,0.0,2,Radiation
+SYN-P00710,429,1,Breast,III,66,Female,2.0,0,Hormone therapy
+SYN-P00711,1093,0,Colorectal,IV,60,Female,2.0,2,Chemotherapy
+SYN-P00712,74,1,Breast,II,53,Female,0.0,0,Surgery
+SYN-P00713,1011,1,Colorectal,I,63,Female,0.0,1,Surgery
+SYN-P00714,1010,0,Prostate,II,66,Male,0.0,1,Targeted therapy
+SYN-P00715,1203,1,Lung,IV,69,Female,0.0,0,Immunotherapy
+SYN-P00716,683,0,Breast,I,50,Female,0.0,0,Radiation
+SYN-P00717,74,1,Lung,III,87,Female,0.0,0,Radiation
+SYN-P00718,141,1,Lung,IV,73,Female,0.0,0,Radiation
+SYN-P00719,441,0,Prostate,II,71,Male,0.0,0,Surgery
+SYN-P00720,1917,1,Lung,II,56,Female,1.0,0,Surgery
+SYN-P00721,779,0,Prostate,III,63,Male,0.0,1,Surgery
+SYN-P00722,830,0,Lung,I,45,Female,0.0,0,Immunotherapy
+SYN-P00723,963,0,Breast,III,50,Female,0.0,0,Hormone therapy
+SYN-P00724,1846,0,Colorectal,II,76,Male,0.0,1,Targeted therapy
+SYN-P00725,125,1,Colorectal,IV,80,Male,2.0,1,Radiation
+SYN-P00726,771,0,Breast,II,66,Female,0.0,1,Surgery
+SYN-P00727,1138,0,Breast,II,68,Female,0.0,0,Surgery
+SYN-P00728,1843,0,Melanoma,II,63,Female,0.0,0,Surgery
+SYN-P00729,1096,0,Prostate,II,39,Male,0.0,0,Chemotherapy
+SYN-P00730,680,0,Prostate,III,74,Male,0.0,0,Targeted therapy
+SYN-P00731,765,0,Breast,II,63,Female,0.0,0,Surgery
+SYN-P00732,419,1,Breast,II,71,Female,1.0,0,Hormone therapy
+SYN-P00733,159,1,Breast,I,74,Female,2.0,0,Surgery
+SYN-P00734,66,1,Prostate,III,78,Male,0.0,2,Chemotherapy
+SYN-P00735,183,1,Breast,II,54,Female,0.0,0,Chemotherapy
+SYN-P00736,1822,0,Breast,II,77,Female,0.0,0,Surgery
+SYN-P00737,404,1,Colorectal,IV,71,Female,3.0,1,Targeted therapy
+SYN-P00738,1258,0,Prostate,II,66,Male,0.0,1,Chemotherapy
+SYN-P00739,1367,0,Lung,IV,72,Female,0.0,0,Targeted therapy
+SYN-P00740,1723,0,Breast,I,74,Female,0.0,1,Surgery
+SYN-P00741,477,0,Melanoma,II,56,Male,2.0,0,Immunotherapy
+SYN-P00742,168,1,Melanoma,III,75,Male,0.0,1,Chemotherapy
+SYN-P00743,561,1,Lung,II,63,Male,0.0,1,Chemotherapy
+SYN-P00744,450,0,Lung,II,49,Male,0.0,0,Surgery
+SYN-P00745,134,1,Lung,III,69,Male,0.0,0,Chemotherapy
+SYN-P00746,519,1,Prostate,I,52,Male,0.0,0,Surgery
+SYN-P00747,377,1,Breast,III,75,Female,0.0,1,Chemotherapy
+SYN-P00748,599,1,Melanoma,IV,72,Female,2.0,1,Surgery
+SYN-P00749,1110,1,Prostate,II,54,Male,0.0,0,Surgery
+SYN-P00750,809,1,Prostate,I,62,Male,0.0,0,Targeted therapy
+SYN-P00751,516,0,Colorectal,I,81,Female,0.0,1,Targeted therapy
+SYN-P00752,859,1,Prostate,III,58,Male,0.0,0,Surgery
+SYN-P00753,246,1,Colorectal,IV,71,Female,1.0,1,Chemotherapy
+SYN-P00754,563,0,Breast,I,78,Female,0.0,1,Chemotherapy
+SYN-P00755,1831,0,Prostate,III,59,Male,0.0,0,Chemotherapy
+SYN-P00756,696,1,Melanoma,III,71,Female,0.0,0,Targeted therapy
+SYN-P00757,877,0,Breast,I,59,Female,0.0,0,Chemotherapy
+SYN-P00758,1361,0,Breast,II,52,Female,,0,Chemotherapy
+SYN-P00759,219,1,Colorectal,I,47,Female,0.0,1,Surgery
+SYN-P00760,811,0,Prostate,II,61,Male,0.0,1,Radiation
+SYN-P00761,726,0,Colorectal,IV,78,Male,0.0,0,Surgery
+SYN-P00762,205,1,Lung,IV,60,Female,1.0,1,Immunotherapy
+SYN-P00763,739,0,Breast,II,57,Female,3.0,0,Chemotherapy
+SYN-P00764,582,1,Colorectal,II,53,Female,0.0,1,Targeted therapy
+SYN-P00765,750,1,Breast,I,47,Female,0.0,1,Surgery
+SYN-P00766,145,1,Breast,IV,60,Female,1.0,1,Chemotherapy
+SYN-P00767,306,1,Prostate,II,72,Male,0.0,0,Targeted therapy
+SYN-P00768,690,1,Lung,II,62,Female,1.0,0,Radiation
+SYN-P00769,770,1,Colorectal,III,64,Male,2.0,2,Radiation
+SYN-P00770,473,0,Lung,III,67,Female,0.0,0,Surgery
+SYN-P00771,648,0,Breast,I,63,Female,0.0,0,Hormone therapy
+SYN-P00772,480,1,Prostate,I,90,Male,0.0,0,Surgery
+SYN-P00773,936,1,Lung,IV,75,Female,0.0,1,Radiation
+SYN-P00774,670,0,Colorectal,II,66,Female,0.0,2,Surgery
+SYN-P00775,881,0,Melanoma,IV,71,Male,0.0,0,Targeted therapy
+SYN-P00776,414,0,Melanoma,I,81,Female,0.0,0,Immunotherapy
+SYN-P00777,353,1,Breast,IV,67,Female,0.0,1,Chemotherapy
+SYN-P00778,394,0,Prostate,III,78,Male,1.0,0,Hormone therapy
+SYN-P00779,550,0,Prostate,II,79,Male,0.0,1,Surgery
+SYN-P00780,257,1,Lung,III,43,Male,0.0,1,Chemotherapy
+SYN-P00781,451,1,Breast,II,84,Female,1.0,2,Surgery
+SYN-P00782,1326,0,Prostate,II,64,Male,0.0,0,Surgery
+SYN-P00783,709,0,Colorectal,I,61,Female,0.0,0,Radiation
+SYN-P00784,1074,0,Lung,I,60,Male,0.0,1,Surgery
+SYN-P00785,845,0,Colorectal,II,53,Male,0.0,0,Radiation
+SYN-P00786,521,1,Lung,II,69,Male,0.0,1,Chemotherapy
+SYN-P00787,1031,0,Prostate,II,49,Male,0.0,0,Surgery
+SYN-P00788,401,1,Lung,IV,57,Male,0.0,0,Surgery
+SYN-P00789,1450,0,Lung,I,64,Male,,1,Surgery
+SYN-P00790,447,1,Lung,II,58,Female,0.0,0,Surgery
+SYN-P00791,495,0,Colorectal,II,79,Female,0.0,1,Surgery
+SYN-P00792,145,1,Melanoma,IV,62,Male,0.0,0,Chemotherapy
+SYN-P00793,1063,0,Breast,I,57,Female,0.0,1,Targeted therapy
+SYN-P00794,272,1,Melanoma,III,73,Female,0.0,1,Radiation
+SYN-P00795,1350,1,Lung,III,61,Female,0.0,0,Radiation
+SYN-P00796,471,1,Colorectal,III,53,Male,0.0,1,Chemotherapy
+SYN-P00797,154,1,Breast,II,54,Female,0.0,1,Surgery
+SYN-P00798,246,1,Lung,IV,55,Female,2.0,1,Immunotherapy
+SYN-P00799,1092,0,Lung,IV,70,Female,0.0,1,Radiation
+SYN-P00800,248,1,Lung,IV,69,Male,1.0,0,Chemotherapy
+SYN-P00801,217,1,Lung,IV,90,Male,0.0,0,Chemotherapy
+SYN-P00802,364,1,Lung,IV,60,Male,3.0,1,Chemotherapy
+SYN-P00803,982,0,Breast,III,65,Female,0.0,1,Targeted therapy
+SYN-P00804,1787,0,Prostate,I,64,Male,0.0,0,Targeted therapy
+SYN-P00805,329,1,Melanoma,III,62,Male,0.0,1,Radiation
+SYN-P00806,1454,0,Prostate,I,48,Male,0.0,0,Targeted therapy
+SYN-P00807,531,1,Colorectal,II,60,Female,0.0,0,Chemotherapy
+SYN-P00808,1812,0,Lung,I,68,Male,0.0,1,Chemotherapy
+SYN-P00809,854,1,Colorectal,II,46,Female,0.0,0,Surgery
+SYN-P00810,569,1,Lung,III,58,Female,0.0,0,Chemotherapy
+SYN-P00811,752,1,Breast,III,59,Female,0.0,0,Radiation
+SYN-P00812,1544,0,Lung,II,51,Female,0.0,1,Surgery
+SYN-P00813,62,1,Breast,II,74,Female,1.0,1,Chemotherapy
+SYN-P00814,382,1,Melanoma,IV,64,Male,,0,Radiation
+SYN-P00815,416,0,Lung,III,52,Female,0.0,0,Chemotherapy
+SYN-P00816,430,1,Lung,III,77,Male,0.0,0,Immunotherapy
+SYN-P00817,1727,0,Colorectal,III,67,Female,1.0,0,Chemotherapy
+SYN-P00818,582,1,Prostate,II,86,Male,0.0,2,Surgery
+SYN-P00819,1441,1,Breast,II,90,Female,0.0,2,Surgery
+SYN-P00820,1510,0,Prostate,IV,56,Male,0.0,0,Radiation
+SYN-P00821,64,1,Melanoma,IV,73,Female,0.0,0,Chemotherapy
+SYN-P00822,166,1,Lung,IV,53,Female,1.0,0,Targeted therapy
+SYN-P00823,467,1,Prostate,I,73,Male,0.0,0,Targeted therapy
+SYN-P00824,1024,1,Breast,I,86,Female,0.0,1,Surgery
+SYN-P00825,581,1,Breast,II,70,Female,0.0,1,Surgery
+SYN-P00826,438,0,Lung,I,54,Female,0.0,0,Surgery
+SYN-P00827,796,0,Lung,I,67,Male,0.0,2,Immunotherapy
+SYN-P00828,753,0,Lung,II,72,Male,0.0,1,Radiation
+SYN-P00829,386,1,Prostate,II,79,Male,0.0,2,Chemotherapy
+SYN-P00830,878,0,Colorectal,III,47,Female,0.0,0,Targeted therapy
+SYN-P00831,609,1,Colorectal,II,78,Male,0.0,1,Surgery
+SYN-P00832,1050,1,Prostate,II,59,Male,0.0,1,Surgery
+SYN-P00833,212,1,Colorectal,IV,64,Male,0.0,0,Surgery
+SYN-P00834,334,1,Colorectal,II,45,Female,0.0,0,Radiation
+SYN-P00835,1979,0,Lung,III,50,Female,0.0,0,Immunotherapy
+SYN-P00836,1575,0,Prostate,II,52,Male,0.0,0,Surgery
+SYN-P00837,55,1,Prostate,IV,62,Male,0.0,1,Hormone therapy
+SYN-P00838,1688,1,Breast,III,69,Female,0.0,0,Chemotherapy
+SYN-P00839,274,1,Lung,II,87,Male,1.0,1,Chemotherapy
+SYN-P00840,154,1,Breast,IV,49,Female,0.0,0,Chemotherapy
+SYN-P00841,615,1,Breast,III,67,Female,0.0,1,Radiation
+SYN-P00842,1199,0,Melanoma,II,57,Female,3.0,1,Radiation
+SYN-P00843,1768,0,Prostate,II,68,Male,0.0,0,Surgery
+SYN-P00844,277,1,Melanoma,IV,86,Female,3.0,1,Chemotherapy
+SYN-P00845,952,1,Breast,II,53,Female,0.0,0,Chemotherapy
+SYN-P00846,934,0,Lung,I,78,Male,0.0,0,Surgery
+SYN-P00847,1179,1,Lung,III,56,Female,0.0,1,Chemotherapy
+SYN-P00848,440,1,Prostate,IV,79,Male,0.0,0,Chemotherapy
+SYN-P00849,760,1,Melanoma,IV,74,Female,0.0,0,Immunotherapy
+SYN-P00850,536,1,Melanoma,II,63,Female,1.0,0,Surgery
+SYN-P00851,468,1,Breast,III,59,Female,0.0,0,Targeted therapy
+SYN-P00852,710,1,Prostate,II,65,Male,0.0,0,Radiation
+SYN-P00853,647,1,Colorectal,II,87,Male,1.0,1,Radiation
+SYN-P00854,141,1,Melanoma,IV,63,Male,0.0,1,Targeted therapy
+SYN-P00855,172,1,Lung,III,56,Female,2.0,1,Targeted therapy
+SYN-P00856,1996,0,Melanoma,I,77,Male,0.0,2,Surgery
+SYN-P00857,668,1,Prostate,II,59,Male,0.0,1,Surgery
+SYN-P00858,390,1,Colorectal,III,57,Male,1.0,0,Targeted therapy
+SYN-P00859,878,1,Prostate,III,51,Male,0.0,1,Chemotherapy
+SYN-P00860,744,1,Prostate,I,65,Male,0.0,1,Surgery
+SYN-P00861,1462,0,Breast,II,53,Female,0.0,0,Surgery
+SYN-P00862,1744,0,Melanoma,I,55,Female,0.0,0,Surgery
+SYN-P00863,219,1,Lung,II,70,Female,0.0,0,Chemotherapy
+SYN-P00864,305,1,Breast,III,69,Female,0.0,0,Surgery
+SYN-P00865,105,1,Lung,III,43,Male,0.0,0,Immunotherapy
+SYN-P00866,1954,1,Lung,III,68,Male,0.0,0,Chemotherapy
+SYN-P00867,731,0,Lung,I,65,Male,0.0,0,Surgery
+SYN-P00868,1384,0,Prostate,II,67,Male,0.0,0,Surgery
+SYN-P00869,761,1,Breast,III,63,Female,,1,Surgery
+SYN-P00870,656,1,Prostate,III,90,Male,0.0,0,Radiation
+SYN-P00871,1540,0,Breast,I,39,Female,0.0,0,Radiation
+SYN-P00872,1515,0,Lung,II,61,Female,0.0,0,Immunotherapy
+SYN-P00873,823,0,Breast,III,46,Female,0.0,0,Chemotherapy
+SYN-P00874,1245,0,Breast,II,45,Female,0.0,0,Surgery
+SYN-P00875,70,1,Prostate,IV,62,Male,1.0,2,Radiation
+SYN-P00876,811,1,Colorectal,I,55,Female,0.0,0,Surgery
+SYN-P00877,31,1,Colorectal,IV,56,Female,2.0,0,Surgery
+SYN-P00878,849,1,Lung,II,84,Male,0.0,2,Surgery
+SYN-P00879,165,1,Lung,II,56,Female,0.0,0,Surgery
+SYN-P00880,342,1,Prostate,III,57,Male,0.0,0,Radiation
+SYN-P00881,749,0,Prostate,III,65,Male,0.0,0,Chemotherapy
+SYN-P00882,60,1,Colorectal,III,53,Male,0.0,0,Chemotherapy
+SYN-P00883,44,1,Prostate,IV,60,Male,1.0,0,Surgery
+SYN-P00884,275,1,Breast,IV,76,Female,0.0,1,Chemotherapy
+SYN-P00885,380,1,Breast,IV,62,Female,1.0,0,Radiation
+SYN-P00886,613,0,Colorectal,IV,45,Male,0.0,0,Immunotherapy
+SYN-P00887,185,1,Lung,IV,73,Female,1.0,0,Radiation
+SYN-P00888,231,1,Lung,IV,67,Female,0.0,1,Chemotherapy
+SYN-P00889,287,1,Prostate,IV,70,Male,0.0,1,Hormone therapy
+SYN-P00890,116,1,Breast,IV,90,Female,0.0,0,Chemotherapy
+SYN-P00891,955,1,Melanoma,III,67,Female,0.0,0,Surgery
+SYN-P00892,275,1,Lung,IV,61,Female,0.0,1,Surgery
+SYN-P00893,1174,0,Colorectal,I,61,Female,0.0,0,Targeted therapy
+SYN-P00894,1988,0,Colorectal,III,76,Male,0.0,1,Targeted therapy
+SYN-P00895,630,0,Colorectal,III,53,Male,0.0,0,Surgery
+SYN-P00896,766,1,Breast,III,79,Female,0.0,1,Surgery
+SYN-P00897,87,1,Breast,III,72,Female,1.0,1,Surgery
+SYN-P00898,640,1,Prostate,I,48,Male,1.0,0,Targeted therapy
+SYN-P00899,1013,1,Prostate,II,57,Male,0.0,0,Surgery
+SYN-P00900,1031,0,Breast,I,61,Female,0.0,0,Surgery
+SYN-P00901,397,0,Breast,IV,59,Female,2.0,0,Surgery
+SYN-P00902,237,1,Breast,IV,68,Female,0.0,0,Chemotherapy
+SYN-P00903,41,1,Colorectal,IV,73,Male,1.0,1,Chemotherapy
+SYN-P00904,518,1,Breast,II,67,Female,0.0,1,Surgery
+SYN-P00905,107,1,Prostate,III,66,Male,3.0,0,Targeted therapy
+SYN-P00906,48,1,Prostate,III,59,Male,0.0,0,Radiation
+SYN-P00907,590,0,Colorectal,III,70,Male,0.0,0,Surgery
+SYN-P00908,516,1,Prostate,III,63,Male,1.0,0,Targeted therapy
+SYN-P00909,1666,0,Breast,I,50,Female,0.0,1,Radiation
+SYN-P00910,914,0,Lung,I,73,Male,0.0,2,Targeted therapy
+SYN-P00911,1334,1,Colorectal,II,67,Female,0.0,0,Surgery
+SYN-P00912,824,1,Breast,I,87,Female,0.0,1,Surgery
+SYN-P00913,146,1,Prostate,III,75,Male,3.0,1,Hormone therapy
+SYN-P00914,867,0,Colorectal,II,81,Male,1.0,1,Surgery
+SYN-P00915,1137,0,Lung,IV,55,Male,1.0,0,Immunotherapy
+SYN-P00916,579,0,Lung,II,63,Female,0.0,1,Chemotherapy
+SYN-P00917,1217,0,Colorectal,II,62,Female,0.0,0,Chemotherapy
+SYN-P00918,97,1,Prostate,IV,52,Male,0.0,1,Chemotherapy
+SYN-P00919,365,0,Prostate,II,56,Male,0.0,0,Hormone therapy
+SYN-P00920,759,0,Melanoma,I,62,Female,0.0,0,Surgery
+SYN-P00921,1546,0,Prostate,I,68,Male,0.0,1,Hormone therapy
+SYN-P00922,538,1,Breast,II,65,Female,0.0,1,Hormone therapy
+SYN-P00923,521,0,Breast,III,47,Female,1.0,0,Targeted therapy
+SYN-P00924,1931,0,Lung,II,54,Female,0.0,1,Immunotherapy
+SYN-P00925,973,1,Colorectal,II,70,Female,0.0,1,Chemotherapy
+SYN-P00926,407,1,Lung,II,67,Male,0.0,0,Surgery
+SYN-P00927,415,1,Melanoma,I,70,Male,0.0,0,Immunotherapy
+SYN-P00928,130,1,Lung,IV,43,Female,1.0,0,Radiation
+SYN-P00929,1072,0,Melanoma,III,82,Female,0.0,0,Radiation
+SYN-P00930,453,0,Lung,III,61,Male,0.0,1,Radiation
+SYN-P00931,336,1,Lung,III,60,Male,0.0,0,Chemotherapy
+SYN-P00932,151,1,Melanoma,IV,74,Male,0.0,0,Chemotherapy
+SYN-P00933,910,0,Lung,II,75,Male,0.0,2,Immunotherapy
+SYN-P00934,744,0,Lung,II,62,Male,0.0,1,Surgery
+SYN-P00935,292,1,Lung,I,69,Male,0.0,1,Surgery
+SYN-P00936,558,1,Prostate,II,68,Male,1.0,0,Surgery
+SYN-P00937,966,0,Lung,II,73,Male,0.0,1,Surgery
+SYN-P00938,462,1,Lung,III,68,Male,1.0,1,Immunotherapy
+SYN-P00939,900,1,Prostate,III,52,Male,0.0,0,Surgery
+SYN-P00940,890,0,Prostate,I,80,Male,0.0,0,Surgery
+SYN-P00941,1493,0,Colorectal,I,62,Female,0.0,0,Immunotherapy
+SYN-P00942,1191,0,Melanoma,IV,48,Male,0.0,0,Chemotherapy
+SYN-P00943,2112,0,Breast,II,76,Female,0.0,1,Surgery
+SYN-P00944,337,1,Breast,III,74,Female,2.0,1,Chemotherapy
+SYN-P00945,1113,0,Prostate,III,56,Male,0.0,0,Chemotherapy
+SYN-P00946,442,0,Breast,I,90,Female,0.0,0,Radiation
+SYN-P00947,447,1,Prostate,I,63,Male,0.0,1,Targeted therapy
+SYN-P00948,1134,0,Prostate,IV,61,Male,0.0,0,Radiation
+SYN-P00949,498,0,Breast,IV,79,Female,0.0,0,Chemotherapy
+SYN-P00950,954,0,Prostate,I,65,Male,0.0,0,Surgery
+SYN-P00951,584,1,Colorectal,III,73,Male,1.0,0,Targeted therapy
+SYN-P00952,944,1,Prostate,II,63,Male,0.0,0,Hormone therapy
+SYN-P00953,241,1,Prostate,IV,62,Male,0.0,0,Targeted therapy
+SYN-P00954,592,0,Breast,I,77,Female,0.0,1,Surgery
+SYN-P00955,769,1,Lung,III,80,Female,0.0,1,Targeted therapy
+SYN-P00956,199,1,Lung,III,64,Female,1.0,1,Immunotherapy
+SYN-P00957,848,0,Lung,IV,57,Male,0.0,0,Chemotherapy
+SYN-P00958,778,0,Lung,III,60,Female,0.0,1,Radiation
+SYN-P00959,269,1,Lung,III,56,Female,0.0,1,Radiation
+SYN-P00960,1769,0,Breast,I,59,Female,0.0,0,Surgery
+SYN-P00961,851,0,Breast,I,70,Female,0.0,0,Targeted therapy
+SYN-P00962,428,0,Prostate,II,80,Male,1.0,0,Chemotherapy
+SYN-P00963,531,0,Lung,IV,74,Female,0.0,1,Radiation
+SYN-P00964,80,1,Colorectal,III,83,Male,0.0,1,Chemotherapy
+SYN-P00965,1908,0,Lung,II,69,Male,0.0,0,Targeted therapy
+SYN-P00966,220,1,Colorectal,III,64,Female,3.0,0,Chemotherapy
+SYN-P00967,925,0,Breast,II,46,Female,0.0,0,Radiation
+SYN-P00968,1206,0,Prostate,I,67,Male,0.0,0,Hormone therapy
+SYN-P00969,502,0,Prostate,IV,53,Male,0.0,0,Radiation
+SYN-P00970,462,1,Prostate,II,60,Male,0.0,2,Radiation
+SYN-P00971,871,0,Melanoma,II,56,Male,2.0,1,Targeted therapy
+SYN-P00972,1075,0,Colorectal,III,75,Female,1.0,0,Surgery
+SYN-P00973,1523,0,Melanoma,II,64,Female,0.0,0,Radiation
+SYN-P00974,786,0,Melanoma,III,74,Female,0.0,0,Targeted therapy
+SYN-P00975,836,0,Breast,I,65,Female,0.0,0,Targeted therapy
+SYN-P00976,55,1,Melanoma,II,70,Female,0.0,0,Surgery
+SYN-P00977,698,1,Melanoma,II,62,Female,0.0,0,Immunotherapy
+SYN-P00978,654,1,Colorectal,II,61,Female,2.0,0,Surgery
+SYN-P00979,527,0,Breast,II,76,Female,0.0,0,Targeted therapy
+SYN-P00980,712,0,Melanoma,III,49,Female,0.0,0,Chemotherapy
+SYN-P00981,1081,0,Lung,III,49,Male,0.0,0,Chemotherapy
+SYN-P00982,830,0,Breast,I,54,Female,0.0,0,Surgery
+SYN-P00983,1182,1,Melanoma,II,64,Female,0.0,0,Surgery
+SYN-P00984,1091,0,Lung,II,56,Male,0.0,1,Chemotherapy
+SYN-P00985,561,1,Colorectal,IV,65,Male,1.0,0,Chemotherapy
+SYN-P00986,1507,0,Lung,II,68,Male,0.0,0,Surgery
+SYN-P00987,174,1,Lung,I,54,Female,3.0,0,Surgery
+SYN-P00988,563,1,Prostate,I,56,Male,0.0,0,Radiation
+SYN-P00989,147,1,Prostate,IV,75,Male,0.0,1,Chemotherapy
+SYN-P00990,400,0,Lung,III,54,Male,0.0,0,Targeted therapy
+SYN-P00991,826,0,Lung,IV,61,Female,0.0,0,Immunotherapy
+SYN-P00992,546,0,Colorectal,I,68,Female,0.0,1,Surgery
+SYN-P00993,983,0,Lung,I,62,Male,0.0,0,Immunotherapy
+SYN-P00994,1218,1,Melanoma,III,74,Male,0.0,0,Radiation
+SYN-P00995,1219,0,Colorectal,II,78,Male,0.0,0,Immunotherapy
+SYN-P00996,983,1,Lung,III,49,Male,0.0,1,Chemotherapy
+SYN-P00997,96,1,Colorectal,III,70,Male,0.0,1,Targeted therapy
+SYN-P00998,996,1,Melanoma,I,83,Male,0.0,0,Surgery
+SYN-P00999,252,1,Colorectal,III,84,Female,0.0,1,Immunotherapy
+SYN-P01000,351,1,Melanoma,II,53,Female,0.0,0,Surgery
+SYN-P01001,1513,0,Breast,II,53,Female,0.0,0,Surgery
+SYN-P01002,38,1,Colorectal,II,62,Female,0.0,0,Surgery
+SYN-P01003,392,1,Breast,III,54,Female,0.0,0,Radiation
+SYN-P01004,61,1,Prostate,III,72,Male,0.0,0,Surgery
+SYN-P01005,927,0,Colorectal,I,61,Male,0.0,1,Surgery
+SYN-P01006,762,0,Melanoma,III,80,Male,0.0,0,Surgery
+SYN-P01007,211,1,Colorectal,IV,81,Female,0.0,1,Radiation
+SYN-P01008,284,1,Melanoma,IV,68,Male,2.0,1,Chemotherapy
+SYN-P01009,444,0,Breast,II,56,Female,0.0,1,Targeted therapy
+SYN-P01010,259,1,Lung,IV,66,Female,0.0,0,Targeted therapy
+SYN-P01011,473,0,Prostate,III,53,Male,0.0,0,Chemotherapy
+SYN-P01012,1220,0,Lung,II,51,Female,0.0,0,Targeted therapy
+SYN-P01013,304,1,Lung,II,77,Male,0.0,0,Surgery
+SYN-P01014,190,1,Colorectal,II,60,Male,0.0,0,Immunotherapy
+SYN-P01015,1071,0,Prostate,II,62,Male,0.0,0,Targeted therapy
+SYN-P01016,212,1,Lung,II,76,Female,0.0,1,Surgery
+SYN-P01017,713,1,Melanoma,IV,81,Male,1.0,3,Targeted therapy
+SYN-P01018,713,1,Breast,III,78,Female,2.0,1,Targeted therapy
+SYN-P01019,764,0,Lung,I,84,Male,0.0,2,Surgery
+SYN-P01020,508,1,Colorectal,II,58,Male,0.0,0,Chemotherapy
+SYN-P01021,448,0,Breast,III,72,Female,0.0,1,Targeted therapy
+SYN-P01022,325,1,Colorectal,IV,52,Male,1.0,0,Chemotherapy
+SYN-P01023,963,0,Prostate,I,73,Male,0.0,0,Surgery
+SYN-P01024,323,1,Lung,III,69,Male,0.0,0,Surgery
+SYN-P01025,1431,0,Melanoma,III,57,Female,0.0,0,Chemotherapy
+SYN-P01026,382,0,Prostate,IV,68,Male,0.0,1,Chemotherapy
+SYN-P01027,235,1,Prostate,III,58,Male,0.0,0,Surgery
+SYN-P01028,788,0,Breast,I,76,Female,0.0,0,Hormone therapy
+SYN-P01029,700,1,Prostate,II,44,Male,0.0,0,Radiation
+SYN-P01030,516,1,Melanoma,I,49,Male,0.0,0,Radiation
+SYN-P01031,589,1,Colorectal,III,76,Male,0.0,1,Chemotherapy
+SYN-P01032,852,1,Lung,III,48,Female,0.0,0,Chemotherapy
+SYN-P01033,590,0,Lung,III,59,Female,0.0,0,Chemotherapy
+SYN-P01034,1838,1,Colorectal,I,64,Female,0.0,0,Surgery
+SYN-P01035,350,1,Prostate,I,65,Male,0.0,0,Surgery
+SYN-P01036,93,1,Breast,III,68,Female,0.0,0,Chemotherapy
+SYN-P01037,774,0,Breast,II,67,Female,0.0,0,Surgery
+SYN-P01038,844,1,Colorectal,III,59,Female,1.0,0,Surgery
+SYN-P01039,624,1,Melanoma,IV,68,Male,0.0,1,Radiation
+SYN-P01040,170,1,Prostate,III,56,Male,0.0,0,Hormone therapy
+SYN-P01041,271,1,Lung,IV,73,Male,0.0,0,Surgery
+SYN-P01042,886,0,Prostate,II,61,Male,0.0,0,Targeted therapy
+SYN-P01043,1806,0,Lung,III,62,Female,1.0,0,Immunotherapy
+SYN-P01044,893,0,Breast,III,57,Female,0.0,0,Surgery
+SYN-P01045,159,1,Melanoma,III,38,Male,2.0,0,Radiation
+SYN-P01046,1737,0,Prostate,III,71,Male,1.0,0,Chemotherapy
+SYN-P01047,1350,0,Prostate,III,51,Male,0.0,0,Radiation
+SYN-P01048,405,0,Lung,III,48,Male,0.0,0,Immunotherapy
+SYN-P01049,414,0,Breast,II,65,Female,0.0,0,Hormone therapy
+SYN-P01050,1502,0,Colorectal,I,67,Female,0.0,0,Surgery
+SYN-P01051,1466,0,Lung,II,58,Male,0.0,1,Radiation
+SYN-P01052,820,0,Breast,IV,74,Female,0.0,0,Radiation
+SYN-P01053,815,0,Melanoma,II,65,Male,,1,Surgery
+SYN-P01054,643,0,Lung,IV,69,Female,0.0,1,Chemotherapy
+SYN-P01055,1001,0,Colorectal,I,70,Female,0.0,1,Chemotherapy
+SYN-P01056,556,1,Prostate,II,74,Male,0.0,2,Chemotherapy
+SYN-P01057,1900,0,Colorectal,II,82,Female,0.0,1,Surgery
+SYN-P01058,395,0,Prostate,I,81,Male,0.0,0,Hormone therapy
+SYN-P01059,1464,0,Colorectal,II,49,Male,0.0,0,Surgery
+SYN-P01060,697,0,Lung,I,55,Male,,0,Surgery
+SYN-P01061,199,1,Prostate,III,57,Male,0.0,0,Chemotherapy
+SYN-P01062,120,1,Colorectal,IV,80,Male,3.0,1,Chemotherapy
+SYN-P01063,1620,0,Melanoma,I,61,Female,0.0,0,Immunotherapy
+SYN-P01064,767,0,Breast,I,55,Female,0.0,0,Chemotherapy
+SYN-P01065,221,1,Lung,I,75,Female,0.0,0,Radiation
+SYN-P01066,1113,0,Colorectal,II,52,Female,0.0,1,Surgery
+SYN-P01067,387,1,Lung,III,72,Male,0.0,1,Radiation
+SYN-P01068,149,1,Lung,III,67,Male,0.0,0,Targeted therapy
+SYN-P01069,1552,0,Prostate,III,57,Male,0.0,0,Chemotherapy
+SYN-P01070,1337,0,Lung,III,48,Female,0.0,0,Chemotherapy
+SYN-P01071,544,1,Lung,III,71,Female,0.0,1,Chemotherapy
+SYN-P01072,125,1,Lung,III,62,Male,0.0,2,Surgery
+SYN-P01073,659,1,Melanoma,I,89,Male,0.0,2,Immunotherapy
+SYN-P01074,831,1,Colorectal,IV,64,Female,0.0,0,Chemotherapy
+SYN-P01075,199,1,Prostate,II,48,Male,0.0,0,Surgery
+SYN-P01076,418,0,Lung,IV,55,Male,0.0,1,Radiation
+SYN-P01077,242,1,Melanoma,II,62,Female,0.0,1,Immunotherapy
+SYN-P01078,492,0,Lung,IV,59,Female,0.0,0,Surgery
+SYN-P01079,195,1,Prostate,II,76,Male,2.0,1,Surgery
+SYN-P01080,995,1,Breast,II,38,Female,0.0,1,Surgery
+SYN-P01081,248,1,Prostate,II,68,Male,2.0,0,Surgery
+SYN-P01082,601,0,Colorectal,II,62,Female,0.0,2,Surgery
+SYN-P01083,690,1,Lung,IV,72,Female,1.0,1,Radiation
+SYN-P01084,770,1,Breast,IV,52,Female,2.0,0,Chemotherapy
+SYN-P01085,154,1,Prostate,II,68,Male,1.0,0,Radiation
+SYN-P01086,607,0,Prostate,I,66,Male,0.0,0,Hormone therapy
+SYN-P01087,1174,0,Prostate,I,57,Male,0.0,0,Surgery
+SYN-P01088,547,0,Breast,II,67,Female,1.0,0,Chemotherapy
+SYN-P01089,867,0,Prostate,II,54,Male,0.0,1,Surgery
+SYN-P01090,397,0,Melanoma,I,73,Female,0.0,0,Surgery
+SYN-P01091,770,0,Melanoma,I,65,Male,0.0,0,Surgery
+SYN-P01092,1078,1,Melanoma,III,56,Female,0.0,1,Surgery
+SYN-P01093,489,0,Prostate,III,61,Male,0.0,0,Chemotherapy
+SYN-P01094,107,1,Colorectal,II,73,Female,,1,Immunotherapy
+SYN-P01095,134,1,Lung,IV,72,Male,0.0,0,Chemotherapy
+SYN-P01096,1343,0,Breast,I,41,Female,2.0,1,Radiation
+SYN-P01097,239,1,Lung,III,64,Male,1.0,1,Chemotherapy
+SYN-P01098,811,0,Breast,III,60,Female,0.0,1,Hormone therapy
+SYN-P01099,595,1,Melanoma,II,72,Female,2.0,1,Surgery
+SYN-P01100,734,1,Melanoma,III,65,Male,0.0,0,Chemotherapy
+SYN-P01101,406,1,Colorectal,IV,55,Male,2.0,0,Radiation
+SYN-P01102,504,1,Colorectal,III,69,Male,0.0,1,Surgery
+SYN-P01103,986,0,Colorectal,I,90,Male,0.0,0,Radiation
+SYN-P01104,517,0,Colorectal,II,55,Male,0.0,1,Radiation
+SYN-P01105,1083,0,Colorectal,I,53,Male,0.0,0,Targeted therapy
+SYN-P01106,203,1,Colorectal,IV,75,Female,2.0,0,Immunotherapy
+SYN-P01107,360,1,Colorectal,II,58,Male,0.0,0,Immunotherapy
+SYN-P01108,351,1,Colorectal,II,88,Male,0.0,1,Targeted therapy
+SYN-P01109,248,1,Breast,III,42,Female,0.0,0,Surgery
+SYN-P01110,799,0,Breast,I,80,Female,0.0,1,Surgery
+SYN-P01111,609,0,Melanoma,II,63,Male,0.0,0,Surgery
+SYN-P01112,232,1,Lung,IV,77,Female,0.0,2,Chemotherapy
+SYN-P01113,2045,0,Colorectal,II,77,Male,0.0,0,Immunotherapy
+SYN-P01114,838,0,Breast,IV,63,Female,0.0,0,Surgery
+SYN-P01115,430,0,Breast,III,57,Female,0.0,0,Surgery
+SYN-P01116,366,1,Prostate,III,59,Male,0.0,2,Surgery
+SYN-P01117,882,1,Prostate,III,57,Male,0.0,0,Radiation
+SYN-P01118,1474,0,Melanoma,I,82,Female,0.0,0,Surgery
+SYN-P01119,587,0,Prostate,III,57,Male,0.0,0,Surgery
+SYN-P01120,346,1,Melanoma,IV,84,Female,1.0,1,Chemotherapy
+SYN-P01121,119,1,Prostate,III,52,Male,0.0,0,Chemotherapy
+SYN-P01122,360,1,Breast,I,68,Female,0.0,1,Hormone therapy
+SYN-P01123,446,0,Lung,IV,59,Female,0.0,0,Chemotherapy
+SYN-P01124,857,1,Breast,II,68,Female,0.0,1,Radiation
+SYN-P01125,708,1,Breast,IV,57,Female,0.0,0,Radiation
+SYN-P01126,1286,1,Colorectal,II,63,Male,,1,Radiation
+SYN-P01127,377,1,Lung,III,42,Female,0.0,1,Surgery
+SYN-P01128,727,0,Colorectal,III,53,Male,2.0,0,Chemotherapy
+SYN-P01129,195,1,Breast,IV,78,Female,1.0,0,Targeted therapy
+SYN-P01130,185,1,Colorectal,III,84,Female,0.0,1,Targeted therapy
+SYN-P01131,775,1,Prostate,II,67,Male,1.0,0,Surgery
+SYN-P01132,201,1,Breast,III,67,Female,1.0,0,Hormone therapy
+SYN-P01133,1272,0,Prostate,I,68,Male,2.0,1,Surgery
+SYN-P01134,368,1,Prostate,IV,65,Male,2.0,1,Chemotherapy
+SYN-P01135,281,1,Lung,IV,51,Female,0.0,0,Targeted therapy
+SYN-P01136,1357,0,Colorectal,III,70,Male,0.0,0,Targeted therapy
+SYN-P01137,971,0,Colorectal,III,42,Female,0.0,0,Targeted therapy
+SYN-P01138,377,1,Breast,III,66,Female,3.0,0,Radiation
+SYN-P01139,1124,0,Breast,I,63,Female,0.0,0,Radiation
+SYN-P01140,790,1,Colorectal,IV,56,Female,0.0,1,Surgery
+SYN-P01141,641,1,Prostate,II,62,Male,0.0,0,Surgery
+SYN-P01142,639,0,Lung,II,74,Female,1.0,1,Chemotherapy
+SYN-P01143,1201,1,Melanoma,III,58,Male,0.0,1,Targeted therapy
+SYN-P01144,919,0,Lung,III,59,Female,0.0,1,Chemotherapy
+SYN-P01145,375,0,Prostate,II,57,Male,0.0,0,Surgery
+SYN-P01146,579,0,Colorectal,II,65,Female,0.0,0,Immunotherapy
+SYN-P01147,1456,0,Colorectal,II,53,Female,0.0,1,Surgery
+SYN-P01148,627,0,Melanoma,II,63,Male,0.0,0,Immunotherapy
+SYN-P01149,528,1,Prostate,III,65,Male,2.0,0,Targeted therapy
+SYN-P01150,1706,0,Prostate,IV,37,Male,0.0,0,Radiation
+SYN-P01151,1686,0,Breast,II,68,Female,2.0,1,Radiation
+SYN-P01152,474,1,Colorectal,III,71,Male,0.0,0,Surgery
+SYN-P01153,1760,0,Breast,III,65,Female,0.0,0,Targeted therapy
+SYN-P01154,90,1,Prostate,III,61,Male,3.0,1,Targeted therapy
+SYN-P01155,641,0,Lung,II,61,Male,0.0,1,Targeted therapy
+SYN-P01156,825,1,Colorectal,I,74,Female,0.0,0,Surgery
+SYN-P01157,195,1,Prostate,IV,75,Male,,1,Chemotherapy
+SYN-P01158,487,1,Melanoma,III,64,Male,0.0,0,Radiation
+SYN-P01159,1347,0,Colorectal,III,74,Female,0.0,0,Radiation
+SYN-P01160,328,1,Breast,III,67,Female,1.0,0,Hormone therapy
+SYN-P01161,620,1,Melanoma,IV,67,Male,0.0,0,Surgery
+SYN-P01162,577,1,Prostate,IV,61,Male,0.0,1,Chemotherapy
+SYN-P01163,39,1,Prostate,IV,51,Male,,0,Surgery
+SYN-P01164,1688,0,Lung,II,60,Female,0.0,0,Chemotherapy
+SYN-P01165,549,0,Breast,II,53,Female,0.0,0,Surgery
+SYN-P01166,931,0,Colorectal,III,77,Male,0.0,1,Radiation
+SYN-P01167,520,1,Prostate,IV,59,Male,1.0,1,Chemotherapy
+SYN-P01168,82,1,Lung,IV,63,Male,0.0,1,Targeted therapy
+SYN-P01169,419,0,Prostate,IV,58,Male,0.0,0,Radiation
+SYN-P01170,882,0,Breast,III,58,Female,0.0,0,Chemotherapy
+SYN-P01171,260,1,Prostate,IV,70,Male,0.0,0,Chemotherapy
+SYN-P01172,849,1,Colorectal,I,74,Male,0.0,1,Radiation
+SYN-P01173,1066,0,Melanoma,II,65,Female,0.0,0,Targeted therapy
+SYN-P01174,1828,1,Lung,II,53,Female,0.0,0,Immunotherapy
+SYN-P01175,820,0,Lung,I,57,Female,0.0,1,Surgery
+SYN-P01176,883,0,Colorectal,IV,53,Male,1.0,0,Radiation
+SYN-P01177,810,0,Breast,III,61,Female,1.0,0,Targeted therapy
+SYN-P01178,305,1,Prostate,IV,65,Male,0.0,0,Chemotherapy
+SYN-P01179,724,1,Lung,IV,58,Male,0.0,0,Targeted therapy
+SYN-P01180,304,1,Colorectal,II,66,Male,1.0,1,Surgery
+SYN-P01181,959,0,Breast,I,69,Female,0.0,0,Surgery
+SYN-P01182,528,0,Breast,II,51,Female,0.0,0,Targeted therapy
+SYN-P01183,958,1,Prostate,IV,65,Male,2.0,0,Radiation
+SYN-P01184,730,0,Colorectal,II,60,Female,0.0,2,Chemotherapy
+SYN-P01185,444,1,Breast,IV,65,Female,0.0,0,Targeted therapy
+SYN-P01186,1967,0,Colorectal,IV,53,Male,0.0,0,Chemotherapy
+SYN-P01187,1285,1,Lung,II,80,Female,0.0,1,Chemotherapy
+SYN-P01188,323,1,Prostate,IV,53,Male,0.0,0,Hormone therapy
+SYN-P01189,972,0,Colorectal,I,71,Female,0.0,0,Radiation
+SYN-P01190,1213,0,Lung,II,69,Male,1.0,0,Immunotherapy
+SYN-P01191,412,1,Prostate,II,63,Male,0.0,1,Radiation
+SYN-P01192,1557,0,Breast,II,64,Female,0.0,0,Surgery
+SYN-P01193,1374,0,Colorectal,III,68,Male,0.0,0,Surgery
+SYN-P01194,2055,1,Breast,IV,58,Female,0.0,0,Hormone therapy
+SYN-P01195,223,1,Lung,III,58,Female,1.0,0,Chemotherapy
+SYN-P01196,1787,1,Lung,II,63,Male,0.0,0,Surgery
+SYN-P01197,271,1,Prostate,II,88,Male,0.0,0,Radiation
+SYN-P01198,578,0,Prostate,I,68,Male,0.0,0,Surgery
+SYN-P01199,287,1,Breast,IV,66,Female,3.0,0,Radiation
+SYN-P01200,1326,0,Colorectal,IV,79,Male,0.0,0,Immunotherapy
+SYN-P01201,1084,0,Colorectal,II,78,Male,0.0,0,Targeted therapy
+SYN-P01202,1734,0,Breast,II,72,Female,0.0,0,Targeted therapy
+SYN-P01203,996,0,Lung,I,83,Female,1.0,0,Surgery
+SYN-P01204,450,1,Breast,I,71,Female,0.0,0,Surgery
+SYN-P01205,672,1,Prostate,II,74,Male,,0,Chemotherapy
+SYN-P01206,499,1,Colorectal,I,76,Female,0.0,0,Surgery
+SYN-P01207,516,1,Lung,IV,62,Male,1.0,1,Radiation
+SYN-P01208,905,0,Colorectal,II,57,Female,0.0,0,Radiation
+SYN-P01209,51,1,Lung,III,77,Female,0.0,2,Surgery
+SYN-P01210,959,1,Lung,II,74,Male,0.0,0,Surgery
+SYN-P01211,876,0,Breast,III,65,Female,0.0,1,Chemotherapy
+SYN-P01212,1922,0,Prostate,II,47,Male,0.0,1,Chemotherapy
+SYN-P01213,955,1,Lung,III,78,Male,0.0,0,Chemotherapy
+SYN-P01214,1160,0,Colorectal,III,73,Female,0.0,0,Chemotherapy
+SYN-P01215,2077,0,Lung,I,76,Male,0.0,0,Surgery
+SYN-P01216,987,1,Prostate,III,63,Male,0.0,0,Targeted therapy
+SYN-P01217,726,0,Colorectal,I,39,Male,0.0,0,Surgery
+SYN-P01218,280,1,Prostate,I,65,Male,0.0,0,Chemotherapy
+SYN-P01219,1242,1,Colorectal,III,79,Female,0.0,1,Chemotherapy
+SYN-P01220,1953,0,Breast,II,59,Female,0.0,0,Surgery
+SYN-P01221,937,0,Prostate,II,72,Male,0.0,0,Surgery
+SYN-P01222,977,0,Prostate,I,70,Male,0.0,0,Radiation
+SYN-P01223,917,0,Breast,III,77,Female,0.0,0,Chemotherapy
+SYN-P01224,1081,0,Breast,II,69,Female,0.0,0,Surgery
+SYN-P01225,169,1,Colorectal,I,77,Female,0.0,0,Surgery
+SYN-P01226,387,1,Colorectal,IV,73,Male,0.0,1,Surgery
+SYN-P01227,57,1,Prostate,III,66,Male,3.0,0,Chemotherapy
+SYN-P01228,1225,0,Colorectal,IV,70,Female,0.0,1,Surgery
+SYN-P01229,1880,1,Melanoma,I,80,Female,2.0,1,Surgery
+SYN-P01230,576,1,Prostate,IV,77,Male,0.0,0,Targeted therapy
+SYN-P01231,833,0,Breast,III,76,Female,2.0,0,Targeted therapy
+SYN-P01232,819,0,Lung,II,64,Female,2.0,1,Chemotherapy
+SYN-P01233,1507,0,Colorectal,II,49,Male,0.0,0,Surgery
+SYN-P01234,1549,0,Lung,I,62,Female,0.0,1,Chemotherapy
+SYN-P01235,258,1,Prostate,IV,51,Male,0.0,0,Chemotherapy
+SYN-P01236,657,0,Breast,III,81,Female,0.0,2,Hormone therapy
+SYN-P01237,1417,0,Breast,II,72,Female,0.0,0,Hormone therapy
+SYN-P01238,1317,1,Melanoma,III,53,Male,0.0,0,Radiation
+SYN-P01239,855,0,Melanoma,I,67,Female,0.0,2,Chemotherapy
+SYN-P01240,198,1,Colorectal,III,62,Male,0.0,0,Targeted therapy
+SYN-P01241,1009,0,Colorectal,II,88,Male,2.0,1,Surgery
+SYN-P01242,1396,0,Breast,II,67,Female,0.0,0,Targeted therapy
+SYN-P01243,293,1,Melanoma,I,35,Male,0.0,1,Targeted therapy
+SYN-P01244,1655,0,Prostate,I,47,Male,0.0,1,Surgery
+SYN-P01245,1586,0,Lung,II,60,Male,0.0,0,Immunotherapy
+SYN-P01246,1169,1,Colorectal,III,81,Female,,1,Surgery
+SYN-P01247,634,0,Colorectal,II,68,Female,2.0,0,Surgery
+SYN-P01248,276,1,Melanoma,II,71,Male,0.0,1,Surgery
+SYN-P01249,982,1,Melanoma,I,90,Female,0.0,1,Immunotherapy
+SYN-P01250,471,1,Colorectal,III,78,Female,1.0,1,Immunotherapy
+SYN-P01251,321,1,Breast,III,60,Female,1.0,0,Chemotherapy
+SYN-P01252,449,0,Breast,IV,57,Female,0.0,0,Targeted therapy
+SYN-P01253,785,1,Colorectal,III,64,Female,0.0,1,Surgery
+SYN-P01254,114,1,Colorectal,III,49,Female,0.0,0,Radiation
+SYN-P01255,2072,0,Breast,II,70,Female,0.0,0,Surgery
+SYN-P01256,301,1,Colorectal,II,58,Male,0.0,0,Immunotherapy
+SYN-P01257,1079,0,Prostate,II,39,Male,0.0,0,Surgery
+SYN-P01258,326,1,Lung,III,57,Male,0.0,1,Chemotherapy
+SYN-P01259,537,0,Prostate,II,52,Male,0.0,0,Targeted therapy
+SYN-P01260,759,0,Lung,I,56,Male,2.0,0,Surgery
+SYN-P01261,406,1,Lung,IV,79,Female,1.0,3,Chemotherapy
+SYN-P01262,1261,1,Lung,II,60,Male,2.0,0,Targeted therapy
+SYN-P01263,299,1,Colorectal,II,61,Female,0.0,0,Surgery
+SYN-P01264,945,0,Breast,II,62,Female,1.0,0,Radiation
+SYN-P01265,1422,0,Melanoma,II,69,Female,0.0,0,Immunotherapy
+SYN-P01266,123,1,Prostate,III,73,Male,2.0,1,Chemotherapy
+SYN-P01267,1007,1,Melanoma,I,68,Male,2.0,0,Radiation
+SYN-P01268,262,1,Prostate,III,79,Male,0.0,0,Surgery
+SYN-P01269,196,1,Prostate,IV,53,Male,0.0,0,Surgery
+SYN-P01270,274,1,Lung,IV,59,Female,0.0,0,Surgery
+SYN-P01271,96,1,Lung,IV,48,Male,2.0,0,Chemotherapy
+SYN-P01272,1066,0,Breast,II,66,Female,0.0,1,Surgery
+SYN-P01273,855,1,Lung,IV,42,Male,0.0,0,Radiation
+SYN-P01274,684,1,Prostate,III,67,Male,1.0,0,Hormone therapy
+SYN-P01275,447,1,Prostate,III,75,Male,0.0,1,Targeted therapy
+SYN-P01276,584,0,Lung,I,71,Female,0.0,1,Radiation
+SYN-P01277,43,1,Colorectal,III,64,Male,0.0,0,Radiation
+SYN-P01278,701,1,Breast,IV,69,Female,0.0,1,Surgery
+SYN-P01279,670,0,Colorectal,II,78,Female,0.0,1,Radiation
+SYN-P01280,1076,0,Breast,II,48,Female,0.0,1,Hormone therapy
+SYN-P01281,1141,0,Prostate,II,73,Male,0.0,0,Surgery
+SYN-P01282,627,0,Lung,II,69,Female,0.0,0,Targeted therapy
+SYN-P01283,802,0,Melanoma,II,75,Female,0.0,2,Surgery
+SYN-P01284,817,1,Lung,IV,69,Male,0.0,0,Targeted therapy
+SYN-P01285,1462,1,Prostate,IV,57,Male,0.0,0,Hormone therapy
+SYN-P01286,441,1,Melanoma,II,48,Female,0.0,1,Surgery
+SYN-P01287,1145,0,Lung,II,71,Female,0.0,0,Surgery
+SYN-P01288,614,1,Breast,IV,68,Female,0.0,2,Radiation
+SYN-P01289,265,1,Lung,III,58,Female,3.0,0,Radiation
+SYN-P01290,233,1,Colorectal,III,71,Male,0.0,0,Radiation
+SYN-P01291,722,1,Prostate,II,77,Male,0.0,0,Targeted therapy
+SYN-P01292,89,1,Colorectal,II,72,Female,0.0,1,Surgery
+SYN-P01293,699,1,Breast,IV,59,Female,1.0,0,Chemotherapy
+SYN-P01294,748,0,Prostate,I,62,Male,0.0,0,Surgery
+SYN-P01295,491,0,Lung,IV,70,Female,0.0,1,Targeted therapy
+SYN-P01296,1043,0,Breast,I,75,Female,0.0,0,Hormone therapy
+SYN-P01297,602,1,Prostate,II,60,Male,0.0,0,Radiation
+SYN-P01298,787,0,Melanoma,II,60,Male,2.0,0,Surgery
+SYN-P01299,914,0,Breast,I,52,Female,0.0,0,Surgery
+SYN-P01300,649,1,Lung,I,63,Female,0.0,1,Chemotherapy
+SYN-P01301,1271,0,Prostate,II,72,Male,0.0,0,Hormone therapy
+SYN-P01302,1700,0,Melanoma,II,57,Female,0.0,0,Radiation
+SYN-P01303,1103,0,Melanoma,II,40,Male,0.0,1,Surgery
+SYN-P01304,1684,0,Breast,II,74,Female,0.0,0,Surgery
+SYN-P01305,1390,1,Breast,II,78,Female,0.0,1,Surgery
+SYN-P01306,880,0,Melanoma,II,57,Male,0.0,0,Immunotherapy
+SYN-P01307,1476,0,Lung,II,68,Female,0.0,0,Immunotherapy
+SYN-P01308,465,1,Colorectal,IV,78,Female,2.0,0,Chemotherapy
+SYN-P01309,134,1,Breast,IV,46,Female,0.0,0,Hormone therapy
+SYN-P01310,341,1,Melanoma,IV,51,Male,1.0,0,Radiation
+SYN-P01311,1689,0,Lung,IV,86,Male,0.0,0,Immunotherapy
+SYN-P01312,1251,0,Lung,III,50,Male,0.0,1,Targeted therapy
+SYN-P01313,589,1,Lung,II,53,Female,,1,Surgery
+SYN-P01314,325,1,Lung,IV,57,Female,0.0,1,Targeted therapy
+SYN-P01315,61,1,Lung,IV,54,Female,0.0,1,Immunotherapy
+SYN-P01316,885,0,Breast,II,83,Female,0.0,1,Surgery
+SYN-P01317,532,0,Colorectal,II,69,Male,0.0,2,Radiation
+SYN-P01318,140,1,Lung,IV,79,Male,0.0,1,Targeted therapy
+SYN-P01319,833,0,Prostate,III,46,Male,0.0,0,Chemotherapy
+SYN-P01320,364,1,Breast,II,55,Female,2.0,0,Chemotherapy
+SYN-P01321,1430,1,Breast,I,54,Female,,0,Chemotherapy
+SYN-P01322,803,1,Prostate,IV,61,Male,0.0,0,Targeted therapy
+SYN-P01323,774,0,Lung,I,75,Male,0.0,0,Surgery
+SYN-P01324,1448,0,Melanoma,III,50,Female,0.0,0,Chemotherapy
+SYN-P01325,557,1,Prostate,II,55,Male,0.0,1,Chemotherapy
+SYN-P01326,1420,0,Lung,I,66,Male,0.0,2,Chemotherapy
+SYN-P01327,420,1,Colorectal,IV,75,Male,2.0,1,Chemotherapy
+SYN-P01328,871,1,Breast,II,47,Female,0.0,0,Targeted therapy
+SYN-P01329,789,1,Breast,III,65,Female,0.0,0,Hormone therapy
+SYN-P01330,367,0,Melanoma,III,64,Male,0.0,0,Chemotherapy
+SYN-P01331,1480,1,Colorectal,IV,59,Male,0.0,0,Chemotherapy
+SYN-P01332,1173,1,Breast,III,74,Female,0.0,1,Hormone therapy
+SYN-P01333,396,1,Breast,IV,47,Female,0.0,0,Surgery
+SYN-P01334,1402,1,Colorectal,II,82,Male,1.0,1,Surgery
+SYN-P01335,911,0,Lung,III,53,Male,0.0,0,Targeted therapy
+SYN-P01336,1867,0,Breast,II,61,Male,0.0,0,Hormone therapy
+SYN-P01337,718,0,Breast,II,77,Female,0.0,0,Surgery
+SYN-P01338,767,0,Colorectal,III,74,Female,0.0,1,Chemotherapy
+SYN-P01339,1296,0,Colorectal,IV,40,Female,0.0,0,Radiation
+SYN-P01340,1146,0,Colorectal,I,57,Male,0.0,1,Surgery
+SYN-P01341,932,0,Melanoma,I,70,Male,0.0,0,Surgery
+SYN-P01342,896,0,Colorectal,II,65,Male,0.0,0,Targeted therapy
+SYN-P01343,346,1,Breast,IV,87,Female,1.0,2,Chemotherapy
+SYN-P01344,1275,1,Colorectal,I,54,Male,0.0,0,Surgery
+SYN-P01345,243,1,Lung,III,70,Male,0.0,0,Surgery
+SYN-P01346,1072,0,Melanoma,II,59,Female,0.0,0,Surgery
+SYN-P01347,2100,0,Prostate,III,34,Male,0.0,0,Chemotherapy
+SYN-P01348,624,1,Prostate,II,78,Male,0.0,0,Surgery
+SYN-P01349,395,1,Melanoma,IV,63,Male,1.0,0,Surgery
+SYN-P01350,909,0,Lung,II,60,Male,2.0,0,Chemotherapy
+SYN-P01351,952,0,Colorectal,III,53,Female,0.0,1,Targeted therapy
+SYN-P01352,1016,0,Colorectal,III,60,Male,0.0,0,Chemotherapy
+SYN-P01353,592,0,Breast,I,62,Female,0.0,1,Targeted therapy
+SYN-P01354,843,0,Lung,II,65,Female,0.0,1,Surgery
+SYN-P01355,576,1,Breast,IV,45,Female,3.0,0,Hormone therapy
+SYN-P01356,644,1,Breast,IV,75,Female,0.0,1,Radiation
+SYN-P01357,1959,0,Lung,I,60,Male,0.0,0,Targeted therapy
+SYN-P01358,511,1,Breast,III,71,Female,0.0,1,Chemotherapy
+SYN-P01359,1323,0,Breast,I,53,Female,0.0,0,Hormone therapy
+SYN-P01360,220,1,Colorectal,I,57,Female,0.0,0,Chemotherapy
+SYN-P01361,907,1,Colorectal,IV,56,Female,2.0,0,Targeted therapy
+SYN-P01362,406,1,Breast,IV,81,Female,2.0,0,Targeted therapy
+SYN-P01363,589,1,Colorectal,III,78,Male,0.0,0,Chemotherapy
+SYN-P01364,44,1,Lung,IV,71,Male,1.0,2,Chemotherapy
+SYN-P01365,685,0,Lung,II,79,Male,0.0,1,Surgery
+SYN-P01366,2003,0,Colorectal,I,60,Female,0.0,0,Surgery
+SYN-P01367,510,1,Lung,III,66,Female,0.0,0,Targeted therapy
+SYN-P01368,267,1,Prostate,II,74,Male,0.0,1,Surgery
+SYN-P01369,880,0,Lung,II,60,Female,0.0,2,Surgery
+SYN-P01370,346,1,Colorectal,IV,63,Female,1.0,0,Targeted therapy
+SYN-P01371,1235,0,Lung,III,71,Female,1.0,2,Chemotherapy
+SYN-P01372,1264,0,Melanoma,I,53,Male,0.0,1,Chemotherapy
+SYN-P01373,33,1,Breast,IV,61,Female,0.0,2,Surgery
+SYN-P01374,245,1,Colorectal,IV,71,Female,0.0,0,Chemotherapy
+SYN-P01375,207,1,Breast,II,80,Female,0.0,1,Targeted therapy
+SYN-P01376,1249,0,Colorectal,I,61,Female,0.0,0,Surgery
+SYN-P01377,1148,0,Lung,II,39,Male,0.0,0,Radiation
+SYN-P01378,469,1,Prostate,III,74,Male,0.0,2,Chemotherapy
+SYN-P01379,883,0,Melanoma,III,41,Female,0.0,0,Targeted therapy
+SYN-P01380,758,1,Melanoma,III,58,Female,1.0,1,Chemotherapy
+SYN-P01381,1339,0,Colorectal,III,82,Female,1.0,0,Chemotherapy
+SYN-P01382,63,1,Melanoma,I,58,Male,0.0,0,Radiation
+SYN-P01383,273,1,Colorectal,III,71,Female,0.0,0,Chemotherapy
+SYN-P01384,736,0,Breast,IV,59,Female,0.0,0,Chemotherapy
+SYN-P01385,298,1,Melanoma,IV,66,Male,0.0,1,Immunotherapy
+SYN-P01386,192,1,Breast,III,67,Female,0.0,1,Surgery
+SYN-P01387,940,1,Colorectal,IV,65,Female,0.0,0,Targeted therapy
+SYN-P01388,570,0,Colorectal,I,43,Male,0.0,0,Targeted therapy
+SYN-P01389,236,1,Breast,IV,66,Female,1.0,0,Radiation
+SYN-P01390,603,0,Colorectal,III,58,Female,0.0,1,Chemotherapy
+SYN-P01391,417,1,Melanoma,III,68,Female,0.0,0,Radiation
+SYN-P01392,831,0,Lung,II,80,Female,0.0,1,Surgery
+SYN-P01393,743,0,Melanoma,I,61,Female,0.0,0,Immunotherapy
+SYN-P01394,95,1,Lung,III,57,Male,2.0,0,Targeted therapy
+SYN-P01395,1036,1,Melanoma,IV,61,Male,2.0,1,Surgery
+SYN-P01396,906,0,Colorectal,II,57,Male,0.0,0,Chemotherapy
+SYN-P01397,834,1,Breast,III,71,Female,0.0,1,Surgery
+SYN-P01398,391,0,Prostate,IV,48,Male,0.0,0,Hormone therapy
+SYN-P01399,826,0,Melanoma,IV,59,Male,0.0,0,Chemotherapy
+SYN-P01400,1354,1,Colorectal,I,77,Female,0.0,0,Surgery
+SYN-P01401,50,1,Breast,IV,72,Female,0.0,0,Chemotherapy
+SYN-P01402,1173,1,Lung,III,72,Female,0.0,1,Immunotherapy
+SYN-P01403,1588,1,Lung,III,69,Male,0.0,0,Surgery
+SYN-P01404,667,0,Lung,II,60,Female,1.0,0,Surgery
+SYN-P01405,870,0,Prostate,II,60,Male,0.0,1,Surgery
+SYN-P01406,170,1,Breast,III,82,Female,0.0,0,Radiation
+SYN-P01407,220,1,Colorectal,III,62,Male,0.0,0,Chemotherapy
+SYN-P01408,381,1,Breast,II,62,Female,,0,Hormone therapy
+SYN-P01409,947,1,Prostate,I,60,Male,0.0,1,Hormone therapy
+SYN-P01410,1363,0,Colorectal,III,66,Male,1.0,2,Radiation
+SYN-P01411,61,1,Prostate,III,69,Male,,1,Hormone therapy
+SYN-P01412,413,1,Melanoma,II,62,Male,0.0,0,Surgery
+SYN-P01413,545,1,Prostate,III,54,Male,,0,Hormone therapy
+SYN-P01414,1337,0,Breast,II,74,Female,0.0,0,Radiation
+SYN-P01415,1043,0,Breast,III,52,Female,0.0,0,Radiation
+SYN-P01416,578,0,Breast,I,79,Female,0.0,1,Targeted therapy
+SYN-P01417,936,1,Breast,IV,75,Female,1.0,0,Chemotherapy
+SYN-P01418,1264,0,Prostate,II,64,Male,2.0,0,Surgery
+SYN-P01419,554,1,Melanoma,I,63,Female,0.0,0,Immunotherapy
+SYN-P01420,1099,0,Colorectal,II,69,Female,0.0,1,Immunotherapy
+SYN-P01421,1507,0,Lung,I,52,Male,0.0,0,Surgery
+SYN-P01422,381,1,Colorectal,I,72,Female,2.0,1,Immunotherapy
+SYN-P01423,681,1,Lung,II,61,Female,0.0,1,Targeted therapy
+SYN-P01424,1039,0,Colorectal,I,76,Male,0.0,1,Surgery
+SYN-P01425,1489,1,Breast,II,63,Female,0.0,1,Radiation
+SYN-P01426,77,1,Colorectal,II,73,Male,0.0,1,Immunotherapy
+SYN-P01427,217,1,Lung,III,70,Male,0.0,0,Surgery
+SYN-P01428,483,1,Breast,III,71,Female,0.0,0,Surgery
+SYN-P01429,406,1,Lung,IV,67,Female,0.0,0,Chemotherapy
+SYN-P01430,1206,1,Breast,II,48,Female,0.0,1,Hormone therapy
+SYN-P01431,450,1,Melanoma,IV,62,Female,1.0,2,Chemotherapy
+SYN-P01432,462,1,Melanoma,IV,70,Male,0.0,1,Surgery
+SYN-P01433,486,0,Prostate,III,69,Male,0.0,0,Surgery
+SYN-P01434,373,0,Colorectal,III,65,Female,0.0,0,Immunotherapy
+SYN-P01435,832,1,Prostate,I,47,Male,0.0,0,Surgery
+SYN-P01436,228,1,Breast,I,66,Female,0.0,2,Radiation
+SYN-P01437,326,1,Colorectal,III,82,Female,1.0,0,Chemotherapy
+SYN-P01438,992,0,Lung,I,74,Female,0.0,0,Surgery
+SYN-P01439,972,0,Melanoma,I,68,Female,0.0,1,Surgery
+SYN-P01440,303,1,Prostate,III,79,Male,0.0,0,Chemotherapy
+SYN-P01441,228,1,Melanoma,IV,64,Female,0.0,0,Targeted therapy
+SYN-P01442,674,1,Prostate,IV,47,Male,0.0,0,Chemotherapy
+SYN-P01443,826,1,Breast,II,68,Female,0.0,1,Targeted therapy
+SYN-P01444,1248,1,Breast,II,82,Female,0.0,1,Surgery
+SYN-P01445,625,0,Prostate,II,71,Male,1.0,1,Surgery
+SYN-P01446,1683,1,Breast,III,71,Female,0.0,0,Chemotherapy
+SYN-P01447,979,0,Breast,II,52,Female,0.0,0,Targeted therapy
+SYN-P01448,120,1,Breast,I,70,Female,0.0,1,Surgery
+SYN-P01449,568,0,Lung,III,68,Male,1.0,1,Targeted therapy
+SYN-P01450,2007,0,Melanoma,III,86,Female,0.0,0,Immunotherapy
+SYN-P01451,430,1,Melanoma,III,78,Male,0.0,0,Immunotherapy
+SYN-P01452,663,0,Prostate,IV,33,Male,0.0,0,Chemotherapy
+SYN-P01453,252,1,Colorectal,III,49,Female,0.0,2,Chemotherapy
+SYN-P01454,91,1,Breast,IV,74,Female,2.0,2,Surgery
+SYN-P01455,45,1,Colorectal,III,61,Female,0.0,0,Chemotherapy
+SYN-P01456,509,0,Breast,IV,59,Female,0.0,0,Radiation
+SYN-P01457,236,1,Lung,II,61,Male,,1,Surgery
+SYN-P01458,1474,1,Prostate,IV,43,Male,0.0,0,Targeted therapy
+SYN-P01459,1034,0,Lung,III,57,Female,0.0,0,Targeted therapy
+SYN-P01460,621,0,Lung,III,74,Female,0.0,0,Radiation
+SYN-P01461,99,1,Melanoma,III,63,Male,0.0,0,Chemotherapy
+SYN-P01462,539,0,Lung,III,58,Female,0.0,0,Chemotherapy
+SYN-P01463,775,1,Colorectal,II,66,Male,2.0,0,Chemotherapy
+SYN-P01464,1035,0,Prostate,II,72,Male,0.0,0,Radiation
+SYN-P01465,38,1,Lung,IV,89,Male,0.0,1,Chemotherapy
+SYN-P01466,782,0,Lung,II,47,Female,0.0,1,Targeted therapy
+SYN-P01467,555,0,Melanoma,IV,69,Female,0.0,0,Immunotherapy
+SYN-P01468,617,1,Lung,I,64,Male,0.0,1,Chemotherapy
+SYN-P01469,1041,1,Breast,II,67,Female,0.0,0,Hormone therapy
+SYN-P01470,876,0,Colorectal,I,56,Female,0.0,0,Chemotherapy
+SYN-P01471,655,0,Breast,III,53,Female,0.0,1,Radiation
+SYN-P01472,1027,0,Lung,III,71,Male,0.0,0,Chemotherapy
+SYN-P01473,1307,0,Colorectal,I,77,Male,0.0,0,Chemotherapy
+SYN-P01474,853,1,Breast,III,65,Female,0.0,0,Targeted therapy
+SYN-P01475,540,0,Prostate,IV,60,Male,0.0,0,Surgery
+SYN-P01476,940,0,Lung,I,66,Female,0.0,0,Chemotherapy
+SYN-P01477,675,1,Prostate,IV,79,Male,0.0,0,Chemotherapy
+SYN-P01478,434,0,Prostate,III,65,Male,0.0,0,Targeted therapy
+SYN-P01479,971,0,Prostate,I,40,Male,1.0,0,Chemotherapy
+SYN-P01480,789,1,Melanoma,II,72,Male,0.0,2,Surgery
+SYN-P01481,809,1,Breast,IV,66,Female,0.0,1,Chemotherapy
+SYN-P01482,396,0,Prostate,II,78,Male,0.0,0,Targeted therapy
+SYN-P01483,752,0,Lung,I,71,Female,0.0,0,Radiation
+SYN-P01484,100,1,Colorectal,III,84,Female,0.0,1,Chemotherapy
+SYN-P01485,220,1,Lung,III,90,Male,2.0,0,Surgery
+SYN-P01486,535,1,Breast,II,70,Female,0.0,0,Targeted therapy
+SYN-P01487,289,1,Prostate,III,69,Male,1.0,0,Chemotherapy
+SYN-P01488,709,1,Melanoma,III,73,Female,0.0,0,Radiation
+SYN-P01489,377,1,Prostate,III,55,Male,0.0,1,Chemotherapy
+SYN-P01490,1397,0,Colorectal,I,70,Male,0.0,2,Chemotherapy
+SYN-P01491,185,1,Breast,IV,52,Female,,1,Chemotherapy
+SYN-P01492,158,1,Colorectal,II,68,Female,1.0,1,Immunotherapy
+SYN-P01493,650,0,Melanoma,II,50,Male,0.0,1,Targeted therapy
+SYN-P01494,540,1,Melanoma,III,81,Female,2.0,1,Targeted therapy
+SYN-P01495,409,1,Prostate,IV,69,Male,0.0,0,Chemotherapy
+SYN-P01496,997,1,Colorectal,III,76,Female,2.0,0,Chemotherapy
+SYN-P01497,687,1,Colorectal,IV,54,Male,,2,Surgery
+SYN-P01498,356,1,Breast,II,74,Female,1.0,2,Surgery
+SYN-P01499,115,1,Colorectal,III,68,Female,0.0,0,Chemotherapy
+SYN-P01500,573,1,Breast,III,59,Female,0.0,1,Targeted therapy

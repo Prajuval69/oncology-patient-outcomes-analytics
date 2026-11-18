@@ -1,0 +1,2 @@
+patients,age_mean,age_median,age_q1,age_q3,response_rate_percent,progression_rate_percent,median_followup_days,median_cost_usd
+1500,64.39,64.0,57.0,72.0,60.07,48.47,651.5,40179.6

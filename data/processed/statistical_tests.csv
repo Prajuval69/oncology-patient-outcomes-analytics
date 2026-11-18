@@ -1,0 +1,3 @@
+test,question,statistic,degrees_of_freedom,p_value,interpretation
+Chi-square,Response differs by stage,108.41450941576952,3.0,2.4072657205788298e-23,Association test; not causal.
+Mann-Whitney U,Age distribution differs by response,241182.0,,0.0004822226285328103,Unadjusted distribution comparison.

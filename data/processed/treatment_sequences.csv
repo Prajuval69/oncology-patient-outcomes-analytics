@@ -1,0 +1,1501 @@
+patient_id,treatment_sequence,line_count,total_treatment_days
+SYN-P00001,Chemotherapy,1,87
+SYN-P00002,Targeted therapy,1,43
+SYN-P00003,Surgery -> Radiation,2,168
+SYN-P00004,Surgery -> Targeted therapy -> Chemotherapy,3,309
+SYN-P00005,Immunotherapy,1,37
+SYN-P00006,Surgery -> Immunotherapy -> Chemotherapy,3,348
+SYN-P00007,Radiation -> Surgery,2,96
+SYN-P00008,Targeted therapy -> Radiation,2,228
+SYN-P00009,Radiation -> Chemotherapy,2,250
+SYN-P00010,Radiation,1,143
+SYN-P00011,Hormone therapy,1,81
+SYN-P00012,Chemotherapy -> Radiation,2,392
+SYN-P00013,Radiation,1,192
+SYN-P00014,Immunotherapy,1,160
+SYN-P00015,Targeted therapy -> Chemotherapy -> Radiation,3,505
+SYN-P00016,Surgery,1,203
+SYN-P00017,Chemotherapy -> Hormone therapy -> Surgery,3,488
+SYN-P00018,Surgery -> Radiation -> Chemotherapy,3,397
+SYN-P00019,Surgery -> Immunotherapy,2,136
+SYN-P00020,Surgery,1,40
+SYN-P00021,Radiation,1,86
+SYN-P00022,Surgery -> Targeted therapy -> Radiation,3,335
+SYN-P00023,Chemotherapy -> Chemotherapy,2,121
+SYN-P00024,Surgery,1,159
+SYN-P00025,Chemotherapy -> Surgery -> Chemotherapy,3,273
+SYN-P00026,Chemotherapy -> Hormone therapy,2,252
+SYN-P00027,Targeted therapy,1,63
+SYN-P00028,Targeted therapy,1,177
+SYN-P00029,Surgery -> Chemotherapy -> Chemotherapy,3,352
+SYN-P00030,Surgery -> Radiation,2,313
+SYN-P00031,Chemotherapy,1,102
+SYN-P00032,Immunotherapy -> Chemotherapy,2,348
+SYN-P00033,Chemotherapy,1,50
+SYN-P00034,Radiation -> Chemotherapy,2,255
+SYN-P00035,Surgery,1,83
+SYN-P00036,Radiation,1,169
+SYN-P00037,Surgery,1,171
+SYN-P00038,Chemotherapy,1,62
+SYN-P00039,Surgery -> Targeted therapy,2,355
+SYN-P00040,Targeted therapy -> Surgery,2,308
+SYN-P00041,Radiation -> Radiation,2,280
+SYN-P00042,Immunotherapy -> Chemotherapy -> Targeted therapy,3,314
+SYN-P00043,Chemotherapy -> Radiation,2,324
+SYN-P00044,Targeted therapy -> Chemotherapy -> Radiation,3,478
+SYN-P00045,Targeted therapy,1,209
+SYN-P00046,Chemotherapy,1,105
+SYN-P00047,Chemotherapy,1,65
+SYN-P00048,Hormone therapy,1,163
+SYN-P00049,Targeted therapy -> Surgery,2,342
+SYN-P00050,Radiation,1,109
+SYN-P00051,Chemotherapy -> Hormone therapy,2,316
+SYN-P00052,Surgery -> Hormone therapy,2,175
+SYN-P00053,Chemotherapy,1,108
+SYN-P00054,Targeted therapy,1,160
+SYN-P00055,Chemotherapy -> Radiation -> Chemotherapy,3,365
+SYN-P00056,Surgery,1,192
+SYN-P00057,Targeted therapy -> Chemotherapy,2,244
+SYN-P00058,Radiation -> Chemotherapy,2,280
+SYN-P00059,Immunotherapy,1,195
+SYN-P00060,Targeted therapy -> Chemotherapy -> Immunotherapy,3,400
+SYN-P00061,Radiation,1,105
+SYN-P00062,Surgery -> Surgery,2,361
+SYN-P00063,Radiation,1,164
+SYN-P00064,Surgery,1,152
+SYN-P00065,Chemotherapy -> Targeted therapy -> Immunotherapy,3,298
+SYN-P00066,Surgery -> Radiation,2,323
+SYN-P00067,Targeted therapy,1,145
+SYN-P00068,Surgery,1,197
+SYN-P00069,Surgery -> Surgery,2,256
+SYN-P00070,Surgery,1,168
+SYN-P00071,Targeted therapy -> Surgery,2,292
+SYN-P00072,Radiation,1,150
+SYN-P00073,Targeted therapy,1,53
+SYN-P00074,Targeted therapy,1,43
+SYN-P00075,Chemotherapy,1,191
+SYN-P00076,Radiation,1,122
+SYN-P00077,Surgery,1,200
+SYN-P00078,Surgery,1,107
+SYN-P00079,Surgery -> Surgery -> Chemotherapy,3,226
+SYN-P00080,Targeted therapy -> Chemotherapy,2,223
+SYN-P00081,Surgery -> Radiation,2,260
+SYN-P00082,Immunotherapy,1,92
+SYN-P00083,Chemotherapy -> Hormone therapy,2,227
+SYN-P00084,Surgery -> Chemotherapy,2,248
+SYN-P00085,Radiation,1,206
+SYN-P00086,Surgery,1,125
+SYN-P00087,Surgery,1,156
+SYN-P00088,Surgery -> Radiation -> Surgery,3,306
+SYN-P00089,Targeted therapy -> Surgery,2,183
+SYN-P00090,Hormone therapy,1,187
+SYN-P00091,Immunotherapy,1,106
+SYN-P00092,Surgery,1,86
+SYN-P00093,Targeted therapy,1,197
+SYN-P00094,Chemotherapy,1,132
+SYN-P00095,Targeted therapy,1,193
+SYN-P00096,Chemotherapy,1,190
+SYN-P00097,Targeted therapy -> Targeted therapy -> Surgery,3,269
+SYN-P00098,Surgery -> Hormone therapy,2,313
+SYN-P00099,Targeted therapy,1,41
+SYN-P00100,Targeted therapy,1,167
+SYN-P00101,Surgery,1,130
+SYN-P00102,Surgery,1,118
+SYN-P00103,Targeted therapy -> Hormone therapy,2,152
+SYN-P00104,Surgery -> Surgery,2,283
+SYN-P00105,Targeted therapy -> Chemotherapy,2,191
+SYN-P00106,Radiation,1,57
+SYN-P00107,Chemotherapy,1,113
+SYN-P00108,Targeted therapy -> Hormone therapy -> Surgery,3,296
+SYN-P00109,Chemotherapy,1,169
+SYN-P00110,Surgery,1,94
+SYN-P00111,Radiation,1,40
+SYN-P00112,Radiation,1,180
+SYN-P00113,Surgery,1,120
+SYN-P00114,Surgery,1,169
+SYN-P00115,Chemotherapy,1,97
+SYN-P00116,Targeted therapy,1,113
+SYN-P00117,Chemotherapy,1,85
+SYN-P00118,Chemotherapy,1,45
+SYN-P00119,Surgery,1,36
+SYN-P00120,Radiation,1,203
+SYN-P00121,Targeted therapy,1,126
+SYN-P00122,Surgery -> Immunotherapy,2,361
+SYN-P00123,Surgery -> Targeted therapy -> Surgery,3,433
+SYN-P00124,Radiation,1,161
+SYN-P00125,Surgery -> Radiation,2,227
+SYN-P00126,Hormone therapy,1,117
+SYN-P00127,Surgery,1,42
+SYN-P00128,Targeted therapy -> Chemotherapy,2,307
+SYN-P00129,Surgery -> Radiation -> Chemotherapy,3,319
+SYN-P00130,Targeted therapy,1,147
+SYN-P00131,Hormone therapy -> Surgery -> Chemotherapy,3,491
+SYN-P00132,Hormone therapy,1,142
+SYN-P00133,Surgery,1,173
+SYN-P00134,Surgery,1,181
+SYN-P00135,Surgery,1,43
+SYN-P00136,Radiation,1,95
+SYN-P00137,Surgery -> Immunotherapy,2,280
+SYN-P00138,Chemotherapy,1,47
+SYN-P00139,Radiation -> Immunotherapy -> Chemotherapy,3,402
+SYN-P00140,Targeted therapy -> Chemotherapy,2,263
+SYN-P00141,Surgery -> Immunotherapy,2,328
+SYN-P00142,Surgery -> Targeted therapy,2,303
+SYN-P00143,Radiation -> Immunotherapy,2,208
+SYN-P00144,Surgery -> Chemotherapy,2,267
+SYN-P00145,Radiation -> Surgery -> Immunotherapy,3,348
+SYN-P00146,Hormone therapy -> Chemotherapy,2,199
+SYN-P00147,Hormone therapy -> Radiation -> Targeted therapy,3,349
+SYN-P00148,Surgery -> Targeted therapy,2,309
+SYN-P00149,Surgery,1,41
+SYN-P00150,Radiation,1,158
+SYN-P00151,Hormone therapy -> Radiation -> Hormone therapy,3,445
+SYN-P00152,Immunotherapy,1,143
+SYN-P00153,Surgery -> Chemotherapy,2,195
+SYN-P00154,Radiation -> Hormone therapy,2,273
+SYN-P00155,Hormone therapy -> Targeted therapy,2,236
+SYN-P00156,Radiation,1,154
+SYN-P00157,Radiation,1,159
+SYN-P00158,Surgery,1,162
+SYN-P00159,Surgery -> Surgery,2,251
+SYN-P00160,Chemotherapy,1,59
+SYN-P00161,Chemotherapy,1,129
+SYN-P00162,Targeted therapy,1,130
+SYN-P00163,Targeted therapy,1,92
+SYN-P00164,Surgery -> Chemotherapy -> Immunotherapy,3,384
+SYN-P00165,Surgery,1,174
+SYN-P00166,Chemotherapy,1,137
+SYN-P00167,Surgery -> Chemotherapy -> Surgery,3,365
+SYN-P00168,Chemotherapy -> Radiation,2,305
+SYN-P00169,Chemotherapy -> Hormone therapy,2,166
+SYN-P00170,Immunotherapy -> Targeted therapy,2,224
+SYN-P00171,Targeted therapy -> Immunotherapy,2,200
+SYN-P00172,Surgery -> Radiation -> Immunotherapy,3,512
+SYN-P00173,Chemotherapy -> Chemotherapy,2,188
+SYN-P00174,Surgery,1,199
+SYN-P00175,Chemotherapy -> Targeted therapy,2,140
+SYN-P00176,Radiation,1,50
+SYN-P00177,Radiation -> Surgery,2,351
+SYN-P00178,Surgery -> Targeted therapy -> Surgery,3,464
+SYN-P00179,Targeted therapy -> Surgery -> Targeted therapy,3,318
+SYN-P00180,Surgery -> Targeted therapy,2,100
+SYN-P00181,Targeted therapy -> Chemotherapy,2,343
+SYN-P00182,Surgery,1,120
+SYN-P00183,Surgery,1,118
+SYN-P00184,Surgery,1,113
+SYN-P00185,Targeted therapy,1,152
+SYN-P00186,Chemotherapy,1,138
+SYN-P00187,Chemotherapy -> Surgery,2,213
+SYN-P00188,Targeted therapy -> Chemotherapy -> Radiation,3,404
+SYN-P00189,Chemotherapy -> Chemotherapy,2,178
+SYN-P00190,Radiation,1,42
+SYN-P00191,Immunotherapy -> Surgery -> Chemotherapy,3,346
+SYN-P00192,Radiation -> Surgery,2,259
+SYN-P00193,Immunotherapy -> Surgery -> Targeted therapy,3,239
+SYN-P00194,Surgery -> Chemotherapy,2,231
+SYN-P00195,Surgery -> Targeted therapy,2,224
+SYN-P00196,Targeted therapy,1,132
+SYN-P00197,Targeted therapy -> Radiation,2,162
+SYN-P00198,Immunotherapy -> Radiation,2,234
+SYN-P00199,Surgery,1,150
+SYN-P00200,Surgery,1,106
+SYN-P00201,Surgery,1,67
+SYN-P00202,Surgery -> Targeted therapy,2,152
+SYN-P00203,Chemotherapy,1,171
+SYN-P00204,Targeted therapy,1,47
+SYN-P00205,Surgery -> Chemotherapy,2,196
+SYN-P00206,Radiation,1,131
+SYN-P00207,Targeted therapy,1,97
+SYN-P00208,Radiation -> Chemotherapy,2,210
+SYN-P00209,Surgery,1,208
+SYN-P00210,Chemotherapy -> Chemotherapy -> Immunotherapy,3,476
+SYN-P00211,Surgery,1,48
+SYN-P00212,Surgery -> Targeted therapy -> Radiation,3,338
+SYN-P00213,Surgery -> Hormone therapy,2,213
+SYN-P00214,Chemotherapy,1,113
+SYN-P00215,Surgery,1,142
+SYN-P00216,Immunotherapy,1,124
+SYN-P00217,Surgery,1,115
+SYN-P00218,Radiation,1,83
+SYN-P00219,Chemotherapy -> Hormone therapy,2,324
+SYN-P00220,Surgery,1,205
+SYN-P00221,Radiation -> Surgery,2,203
+SYN-P00222,Chemotherapy,1,207
+SYN-P00223,Radiation -> Chemotherapy,2,357
+SYN-P00224,Radiation,1,56
+SYN-P00225,Chemotherapy -> Chemotherapy,2,310
+SYN-P00226,Targeted therapy,1,60
+SYN-P00227,Targeted therapy -> Hormone therapy,2,382
+SYN-P00228,Immunotherapy -> Chemotherapy,2,334
+SYN-P00229,Hormone therapy,1,121
+SYN-P00230,Chemotherapy,1,184
+SYN-P00231,Surgery -> Chemotherapy,2,207
+SYN-P00232,Immunotherapy,1,64
+SYN-P00233,Surgery -> Surgery,2,335
+SYN-P00234,Chemotherapy -> Hormone therapy,2,243
+SYN-P00235,Surgery,1,185
+SYN-P00236,Radiation -> Surgery,2,189
+SYN-P00237,Surgery,1,57
+SYN-P00238,Immunotherapy,1,162
+SYN-P00239,Surgery -> Chemotherapy,2,135
+SYN-P00240,Targeted therapy,1,163
+SYN-P00241,Radiation -> Targeted therapy,2,260
+SYN-P00242,Chemotherapy,1,61
+SYN-P00243,Surgery,1,92
+SYN-P00244,Surgery,1,195
+SYN-P00245,Targeted therapy -> Chemotherapy -> Surgery,3,352
+SYN-P00246,Surgery,1,135
+SYN-P00247,Surgery -> Hormone therapy,2,213
+SYN-P00248,Targeted therapy,1,177
+SYN-P00249,Chemotherapy,1,193
+SYN-P00250,Surgery,1,116
+SYN-P00251,Chemotherapy,1,143
+SYN-P00252,Radiation,1,149
+SYN-P00253,Radiation,1,66
+SYN-P00254,Radiation -> Targeted therapy,2,262
+SYN-P00255,Surgery,1,118
+SYN-P00256,Surgery,1,168
+SYN-P00257,Chemotherapy,1,109
+SYN-P00258,Immunotherapy -> Surgery -> Immunotherapy,3,158
+SYN-P00259,Chemotherapy -> Targeted therapy -> Targeted therapy,3,224
+SYN-P00260,Chemotherapy,1,100
+SYN-P00261,Targeted therapy -> Chemotherapy -> Hormone therapy,3,405
+SYN-P00262,Surgery,1,44
+SYN-P00263,Hormone therapy,1,66
+SYN-P00264,Surgery -> Immunotherapy -> Surgery,3,462
+SYN-P00265,Surgery -> Targeted therapy,2,325
+SYN-P00266,Radiation -> Radiation -> Chemotherapy,3,435
+SYN-P00267,Targeted therapy,1,165
+SYN-P00268,Surgery -> Radiation,2,154
+SYN-P00269,Immunotherapy,1,98
+SYN-P00270,Targeted therapy -> Hormone therapy,2,179
+SYN-P00271,Surgery,1,57
+SYN-P00272,Immunotherapy,1,110
+SYN-P00273,Chemotherapy,1,107
+SYN-P00274,Surgery,1,184
+SYN-P00275,Radiation,1,195
+SYN-P00276,Surgery -> Surgery,2,265
+SYN-P00277,Hormone therapy,1,159
+SYN-P00278,Chemotherapy -> Surgery -> Targeted therapy,3,381
+SYN-P00279,Chemotherapy,1,150
+SYN-P00280,Surgery,1,119
+SYN-P00281,Immunotherapy,1,69
+SYN-P00282,Targeted therapy,1,183
+SYN-P00283,Immunotherapy,1,150
+SYN-P00284,Targeted therapy,1,154
+SYN-P00285,Radiation -> Targeted therapy,2,218
+SYN-P00286,Targeted therapy,1,106
+SYN-P00287,Radiation -> Targeted therapy,2,324
+SYN-P00288,Radiation,1,122
+SYN-P00289,Surgery -> Chemotherapy,2,314
+SYN-P00290,Radiation -> Radiation,2,155
+SYN-P00291,Chemotherapy,1,51
+SYN-P00292,Targeted therapy,1,53
+SYN-P00293,Surgery -> Surgery,2,97
+SYN-P00294,Immunotherapy,1,176
+SYN-P00295,Chemotherapy -> Surgery -> Chemotherapy,3,409
+SYN-P00296,Targeted therapy -> Radiation,2,284
+SYN-P00297,Targeted therapy,1,125
+SYN-P00298,Chemotherapy,1,121
+SYN-P00299,Surgery -> Chemotherapy,2,234
+SYN-P00300,Radiation,1,164
+SYN-P00301,Chemotherapy,1,146
+SYN-P00302,Chemotherapy,1,158
+SYN-P00303,Radiation -> Surgery,2,200
+SYN-P00304,Surgery -> Immunotherapy,2,399
+SYN-P00305,Targeted therapy,1,71
+SYN-P00306,Radiation -> Chemotherapy,2,232
+SYN-P00307,Radiation,1,198
+SYN-P00308,Hormone therapy -> Targeted therapy,2,182
+SYN-P00309,Immunotherapy,1,45
+SYN-P00310,Chemotherapy -> Radiation,2,272
+SYN-P00311,Surgery -> Chemotherapy -> Chemotherapy,3,162
+SYN-P00312,Chemotherapy,1,111
+SYN-P00313,Immunotherapy -> Chemotherapy,2,328
+SYN-P00314,Surgery -> Targeted therapy,2,252
+SYN-P00315,Chemotherapy -> Radiation -> Chemotherapy,3,355
+SYN-P00316,Chemotherapy -> Surgery -> Radiation,3,368
+SYN-P00317,Immunotherapy,1,79
+SYN-P00318,Immunotherapy,1,45
+SYN-P00319,Surgery,1,158
+SYN-P00320,Targeted therapy,1,41
+SYN-P00321,Chemotherapy -> Immunotherapy -> Chemotherapy,3,288
+SYN-P00322,Hormone therapy,1,156
+SYN-P00323,Chemotherapy -> Targeted therapy,2,352
+SYN-P00324,Chemotherapy,1,156
+SYN-P00325,Immunotherapy,1,39
+SYN-P00326,Chemotherapy,1,45
+SYN-P00327,Radiation,1,138
+SYN-P00328,Hormone therapy -> Chemotherapy -> Hormone therapy,3,195
+SYN-P00329,Chemotherapy,1,114
+SYN-P00330,Hormone therapy,1,142
+SYN-P00331,Chemotherapy,1,68
+SYN-P00332,Chemotherapy -> Targeted therapy,2,237
+SYN-P00333,Radiation -> Hormone therapy -> Radiation,3,339
+SYN-P00334,Chemotherapy -> Immunotherapy,2,344
+SYN-P00335,Targeted therapy,1,71
+SYN-P00336,Radiation -> Chemotherapy -> Hormone therapy,3,308
+SYN-P00337,Hormone therapy,1,199
+SYN-P00338,Surgery,1,202
+SYN-P00339,Surgery -> Targeted therapy -> Radiation,3,221
+SYN-P00340,Immunotherapy -> Targeted therapy,2,284
+SYN-P00341,Chemotherapy -> Targeted therapy,2,385
+SYN-P00342,Hormone therapy,1,202
+SYN-P00343,Surgery -> Immunotherapy,2,249
+SYN-P00344,Chemotherapy,1,116
+SYN-P00345,Hormone therapy -> Chemotherapy -> Hormone therapy,3,480
+SYN-P00346,Surgery -> Hormone therapy,2,188
+SYN-P00347,Chemotherapy -> Radiation,2,227
+SYN-P00348,Surgery,1,55
+SYN-P00349,Chemotherapy,1,160
+SYN-P00350,Immunotherapy -> Chemotherapy,2,309
+SYN-P00351,Chemotherapy -> Targeted therapy,2,180
+SYN-P00352,Radiation,1,58
+SYN-P00353,Surgery -> Chemotherapy,2,176
+SYN-P00354,Surgery,1,85
+SYN-P00355,Chemotherapy -> Immunotherapy,2,243
+SYN-P00356,Surgery -> Radiation,2,275
+SYN-P00357,Chemotherapy -> Radiation,2,283
+SYN-P00358,Surgery -> Radiation,2,310
+SYN-P00359,Surgery,1,68
+SYN-P00360,Surgery -> Chemotherapy,2,122
+SYN-P00361,Surgery,1,135
+SYN-P00362,Chemotherapy,1,122
+SYN-P00363,Surgery -> Chemotherapy,2,229
+SYN-P00364,Targeted therapy,1,40
+SYN-P00365,Immunotherapy,1,115
+SYN-P00366,Chemotherapy -> Targeted therapy,2,356
+SYN-P00367,Surgery,1,185
+SYN-P00368,Surgery -> Hormone therapy,2,335
+SYN-P00369,Surgery -> Targeted therapy -> Surgery,3,418
+SYN-P00370,Radiation -> Targeted therapy,2,281
+SYN-P00371,Targeted therapy -> Targeted therapy,2,185
+SYN-P00372,Targeted therapy,1,130
+SYN-P00373,Targeted therapy,1,155
+SYN-P00374,Radiation -> Chemotherapy,2,259
+SYN-P00375,Radiation,1,183
+SYN-P00376,Radiation -> Surgery,2,267
+SYN-P00377,Immunotherapy,1,137
+SYN-P00378,Hormone therapy -> Chemotherapy -> Hormone therapy,3,392
+SYN-P00379,Surgery,1,48
+SYN-P00380,Radiation,1,197
+SYN-P00381,Chemotherapy -> Targeted therapy,2,238
+SYN-P00382,Hormone therapy -> Targeted therapy,2,304
+SYN-P00383,Radiation -> Surgery,2,99
+SYN-P00384,Targeted therapy,1,116
+SYN-P00385,Surgery -> Immunotherapy -> Radiation,3,336
+SYN-P00386,Targeted therapy -> Targeted therapy -> Radiation,3,557
+SYN-P00387,Hormone therapy -> Surgery,2,164
+SYN-P00388,Surgery -> Immunotherapy,2,326
+SYN-P00389,Surgery,1,47
+SYN-P00390,Chemotherapy -> Surgery,2,227
+SYN-P00391,Immunotherapy -> Targeted therapy,2,228
+SYN-P00392,Surgery,1,159
+SYN-P00393,Immunotherapy,1,157
+SYN-P00394,Targeted therapy,1,113
+SYN-P00395,Surgery -> Radiation -> Radiation,3,436
+SYN-P00396,Surgery,1,176
+SYN-P00397,Radiation,1,72
+SYN-P00398,Targeted therapy -> Surgery,2,246
+SYN-P00399,Radiation,1,55
+SYN-P00400,Hormone therapy -> Surgery,2,203
+SYN-P00401,Hormone therapy,1,108
+SYN-P00402,Radiation,1,48
+SYN-P00403,Surgery,1,120
+SYN-P00404,Immunotherapy,1,130
+SYN-P00405,Chemotherapy,1,185
+SYN-P00406,Surgery,1,131
+SYN-P00407,Radiation,1,111
+SYN-P00408,Surgery,1,198
+SYN-P00409,Surgery,1,141
+SYN-P00410,Surgery -> Chemotherapy,2,256
+SYN-P00411,Chemotherapy -> Immunotherapy,2,268
+SYN-P00412,Radiation,1,172
+SYN-P00413,Hormone therapy -> Radiation -> Surgery,3,350
+SYN-P00414,Chemotherapy -> Radiation,2,351
+SYN-P00415,Surgery -> Targeted therapy -> Surgery,3,291
+SYN-P00416,Immunotherapy -> Targeted therapy,2,222
+SYN-P00417,Chemotherapy,1,191
+SYN-P00418,Chemotherapy,1,51
+SYN-P00419,Chemotherapy,1,136
+SYN-P00420,Immunotherapy,1,196
+SYN-P00421,Hormone therapy -> Surgery,2,238
+SYN-P00422,Chemotherapy -> Chemotherapy,2,81
+SYN-P00423,Chemotherapy -> Radiation -> Immunotherapy,3,497
+SYN-P00424,Surgery -> Surgery,2,271
+SYN-P00425,Targeted therapy -> Radiation -> Chemotherapy,3,376
+SYN-P00426,Surgery,1,143
+SYN-P00427,Surgery -> Immunotherapy,2,358
+SYN-P00428,Targeted therapy,1,198
+SYN-P00429,Radiation,1,197
+SYN-P00430,Chemotherapy -> Targeted therapy,2,175
+SYN-P00431,Surgery -> Surgery -> Radiation,3,376
+SYN-P00432,Radiation,1,56
+SYN-P00433,Hormone therapy,1,196
+SYN-P00434,Surgery -> Immunotherapy,2,400
+SYN-P00435,Targeted therapy,1,63
+SYN-P00436,Hormone therapy,1,173
+SYN-P00437,Radiation,1,153
+SYN-P00438,Chemotherapy -> Radiation,2,341
+SYN-P00439,Chemotherapy,1,142
+SYN-P00440,Radiation -> Surgery -> Radiation,3,321
+SYN-P00441,Targeted therapy,1,52
+SYN-P00442,Surgery -> Immunotherapy,2,206
+SYN-P00443,Radiation,1,184
+SYN-P00444,Hormone therapy -> Surgery -> Chemotherapy,3,395
+SYN-P00445,Surgery -> Radiation,2,216
+SYN-P00446,Targeted therapy -> Hormone therapy -> Chemotherapy,3,189
+SYN-P00447,Immunotherapy -> Chemotherapy,2,310
+SYN-P00448,Radiation,1,68
+SYN-P00449,Radiation,1,116
+SYN-P00450,Radiation -> Hormone therapy,2,184
+SYN-P00451,Targeted therapy -> Immunotherapy,2,249
+SYN-P00452,Targeted therapy -> Surgery,2,178
+SYN-P00453,Surgery,1,194
+SYN-P00454,Surgery,1,172
+SYN-P00455,Radiation,1,94
+SYN-P00456,Surgery -> Targeted therapy -> Surgery,3,178
+SYN-P00457,Chemotherapy,1,115
+SYN-P00458,Immunotherapy -> Radiation,2,385
+SYN-P00459,Hormone therapy,1,107
+SYN-P00460,Surgery,1,79
+SYN-P00461,Targeted therapy -> Chemotherapy -> Radiation,3,318
+SYN-P00462,Surgery -> Radiation -> Hormone therapy,3,434
+SYN-P00463,Chemotherapy,1,91
+SYN-P00464,Hormone therapy -> Radiation -> Hormone therapy,3,460
+SYN-P00465,Radiation -> Chemotherapy -> Hormone therapy,3,341
+SYN-P00466,Immunotherapy,1,56
+SYN-P00467,Chemotherapy -> Chemotherapy -> Radiation,3,451
+SYN-P00468,Hormone therapy,1,208
+SYN-P00469,Surgery -> Chemotherapy -> Surgery,3,407
+SYN-P00470,Chemotherapy -> Targeted therapy,2,336
+SYN-P00471,Chemotherapy,1,116
+SYN-P00472,Immunotherapy -> Chemotherapy -> Chemotherapy,3,346
+SYN-P00473,Radiation,1,193
+SYN-P00474,Chemotherapy,1,61
+SYN-P00475,Surgery,1,195
+SYN-P00476,Surgery,1,107
+SYN-P00477,Targeted therapy,1,78
+SYN-P00478,Targeted therapy -> Chemotherapy -> Radiation,3,397
+SYN-P00479,Radiation -> Surgery,2,217
+SYN-P00480,Immunotherapy -> Targeted therapy,2,257
+SYN-P00481,Surgery -> Immunotherapy,2,256
+SYN-P00482,Surgery,1,52
+SYN-P00483,Targeted therapy,1,61
+SYN-P00484,Radiation -> Chemotherapy,2,159
+SYN-P00485,Immunotherapy -> Radiation -> Chemotherapy,3,388
+SYN-P00486,Surgery,1,148
+SYN-P00487,Chemotherapy -> Targeted therapy,2,181
+SYN-P00488,Chemotherapy,1,94
+SYN-P00489,Surgery,1,74
+SYN-P00490,Radiation -> Chemotherapy,2,116
+SYN-P00491,Surgery -> Radiation,2,330
+SYN-P00492,Chemotherapy,1,201
+SYN-P00493,Chemotherapy -> Surgery,2,193
+SYN-P00494,Chemotherapy -> Chemotherapy,2,228
+SYN-P00495,Chemotherapy,1,157
+SYN-P00496,Surgery,1,50
+SYN-P00497,Surgery,1,204
+SYN-P00498,Chemotherapy -> Hormone therapy -> Radiation,3,480
+SYN-P00499,Immunotherapy,1,165
+SYN-P00500,Chemotherapy,1,45
+SYN-P00501,Surgery -> Chemotherapy,2,179
+SYN-P00502,Immunotherapy -> Surgery -> Surgery,3,368
+SYN-P00503,Surgery -> Targeted therapy,2,109
+SYN-P00504,Immunotherapy -> Surgery,2,189
+SYN-P00505,Chemotherapy,1,84
+SYN-P00506,Surgery -> Radiation,2,205
+SYN-P00507,Targeted therapy,1,201
+SYN-P00508,Radiation,1,103
+SYN-P00509,Chemotherapy,1,131
+SYN-P00510,Radiation -> Targeted therapy,2,248
+SYN-P00511,Surgery -> Targeted therapy -> Surgery,3,335
+SYN-P00512,Chemotherapy -> Targeted therapy,2,80
+SYN-P00513,Chemotherapy -> Radiation -> Immunotherapy,3,425
+SYN-P00514,Chemotherapy -> Radiation,2,346
+SYN-P00515,Radiation -> Immunotherapy -> Radiation,3,425
+SYN-P00516,Surgery,1,63
+SYN-P00517,Chemotherapy -> Hormone therapy,2,242
+SYN-P00518,Chemotherapy -> Surgery -> Radiation,3,199
+SYN-P00519,Hormone therapy,1,115
+SYN-P00520,Targeted therapy,1,193
+SYN-P00521,Immunotherapy -> Chemotherapy,2,180
+SYN-P00522,Chemotherapy,1,132
+SYN-P00523,Targeted therapy -> Radiation -> Surgery,3,369
+SYN-P00524,Hormone therapy -> Targeted therapy -> Targeted therapy,3,423
+SYN-P00525,Chemotherapy -> Hormone therapy -> Surgery,3,461
+SYN-P00526,Hormone therapy -> Chemotherapy,2,250
+SYN-P00527,Chemotherapy,1,143
+SYN-P00528,Radiation,1,203
+SYN-P00529,Targeted therapy -> Radiation,2,205
+SYN-P00530,Surgery,1,113
+SYN-P00531,Targeted therapy,1,108
+SYN-P00532,Surgery -> Radiation -> Surgery,3,127
+SYN-P00533,Targeted therapy,1,91
+SYN-P00534,Surgery -> Chemotherapy,2,177
+SYN-P00535,Targeted therapy,1,166
+SYN-P00536,Surgery,1,117
+SYN-P00537,Surgery -> Chemotherapy,2,211
+SYN-P00538,Surgery -> Chemotherapy,2,310
+SYN-P00539,Hormone therapy,1,35
+SYN-P00540,Radiation -> Chemotherapy,2,182
+SYN-P00541,Immunotherapy -> Targeted therapy -> Surgery,3,406
+SYN-P00542,Hormone therapy,1,160
+SYN-P00543,Chemotherapy,1,154
+SYN-P00544,Surgery -> Immunotherapy,2,313
+SYN-P00545,Targeted therapy -> Immunotherapy,2,396
+SYN-P00546,Chemotherapy,1,184
+SYN-P00547,Targeted therapy -> Chemotherapy,2,359
+SYN-P00548,Surgery -> Chemotherapy -> Radiation,3,400
+SYN-P00549,Surgery,1,42
+SYN-P00550,Chemotherapy,1,90
+SYN-P00551,Radiation -> Chemotherapy,2,215
+SYN-P00552,Hormone therapy,1,156
+SYN-P00553,Targeted therapy,1,197
+SYN-P00554,Chemotherapy,1,47
+SYN-P00555,Chemotherapy -> Surgery -> Radiation,3,458
+SYN-P00556,Surgery,1,147
+SYN-P00557,Chemotherapy,1,77
+SYN-P00558,Radiation,1,197
+SYN-P00559,Surgery,1,210
+SYN-P00560,Surgery,1,85
+SYN-P00561,Radiation -> Surgery,2,172
+SYN-P00562,Targeted therapy -> Surgery,2,237
+SYN-P00563,Hormone therapy -> Chemotherapy -> Radiation,3,466
+SYN-P00564,Chemotherapy -> Radiation -> Radiation,3,416
+SYN-P00565,Immunotherapy,1,184
+SYN-P00566,Surgery -> Chemotherapy,2,223
+SYN-P00567,Hormone therapy -> Chemotherapy -> Hormone therapy,3,346
+SYN-P00568,Targeted therapy,1,156
+SYN-P00569,Surgery,1,80
+SYN-P00570,Chemotherapy -> Targeted therapy,2,341
+SYN-P00571,Surgery,1,66
+SYN-P00572,Surgery -> Targeted therapy,2,389
+SYN-P00573,Radiation,1,56
+SYN-P00574,Chemotherapy -> Surgery,2,226
+SYN-P00575,Surgery,1,164
+SYN-P00576,Surgery -> Radiation,2,236
+SYN-P00577,Radiation -> Surgery,2,181
+SYN-P00578,Hormone therapy,1,75
+SYN-P00579,Chemotherapy -> Radiation,2,204
+SYN-P00580,Surgery -> Targeted therapy -> Surgery,3,453
+SYN-P00581,Radiation,1,198
+SYN-P00582,Targeted therapy,1,75
+SYN-P00583,Surgery,1,99
+SYN-P00584,Chemotherapy,1,169
+SYN-P00585,Immunotherapy,1,80
+SYN-P00586,Chemotherapy -> Surgery -> Targeted therapy,3,445
+SYN-P00587,Radiation,1,90
+SYN-P00588,Chemotherapy -> Chemotherapy -> Targeted therapy,3,436
+SYN-P00589,Surgery,1,115
+SYN-P00590,Radiation,1,71
+SYN-P00591,Surgery -> Radiation,2,273
+SYN-P00592,Surgery,1,43
+SYN-P00593,Surgery,1,202
+SYN-P00594,Radiation -> Chemotherapy -> Radiation,3,386
+SYN-P00595,Surgery,1,120
+SYN-P00596,Chemotherapy -> Targeted therapy,2,214
+SYN-P00597,Surgery,1,187
+SYN-P00598,Surgery,1,190
+SYN-P00599,Chemotherapy,1,133
+SYN-P00600,Immunotherapy -> Targeted therapy,2,322
+SYN-P00601,Chemotherapy,1,161
+SYN-P00602,Surgery -> Targeted therapy -> Chemotherapy,3,517
+SYN-P00603,Chemotherapy,1,155
+SYN-P00604,Surgery,1,168
+SYN-P00605,Targeted therapy -> Radiation -> Hormone therapy,3,317
+SYN-P00606,Chemotherapy -> Immunotherapy,2,180
+SYN-P00607,Chemotherapy,1,138
+SYN-P00608,Surgery -> Targeted therapy,2,282
+SYN-P00609,Radiation -> Surgery,2,350
+SYN-P00610,Radiation -> Surgery,2,319
+SYN-P00611,Immunotherapy -> Surgery,2,218
+SYN-P00612,Chemotherapy -> Radiation -> Surgery,3,284
+SYN-P00613,Chemotherapy -> Surgery,2,137
+SYN-P00614,Surgery -> Chemotherapy,2,186
+SYN-P00615,Chemotherapy,1,81
+SYN-P00616,Targeted therapy -> Chemotherapy,2,237
+SYN-P00617,Radiation,1,154
+SYN-P00618,Chemotherapy -> Hormone therapy,2,127
+SYN-P00619,Radiation -> Hormone therapy,2,366
+SYN-P00620,Chemotherapy -> Surgery,2,337
+SYN-P00621,Targeted therapy -> Hormone therapy,2,203
+SYN-P00622,Chemotherapy,1,114
+SYN-P00623,Chemotherapy,1,120
+SYN-P00624,Immunotherapy -> Surgery -> Targeted therapy,3,340
+SYN-P00625,Chemotherapy,1,186
+SYN-P00626,Immunotherapy -> Chemotherapy,2,248
+SYN-P00627,Chemotherapy -> Radiation,2,259
+SYN-P00628,Targeted therapy -> Radiation -> Surgery,3,319
+SYN-P00629,Targeted therapy,1,137
+SYN-P00630,Radiation,1,166
+SYN-P00631,Targeted therapy -> Chemotherapy,2,228
+SYN-P00632,Radiation,1,171
+SYN-P00633,Surgery -> Chemotherapy -> Targeted therapy,3,239
+SYN-P00634,Hormone therapy -> Radiation -> Surgery,3,361
+SYN-P00635,Targeted therapy -> Hormone therapy,2,198
+SYN-P00636,Targeted therapy,1,61
+SYN-P00637,Radiation,1,135
+SYN-P00638,Chemotherapy,1,130
+SYN-P00639,Surgery,1,44
+SYN-P00640,Radiation,1,206
+SYN-P00641,Surgery -> Immunotherapy,2,286
+SYN-P00642,Radiation,1,63
+SYN-P00643,Targeted therapy -> Surgery -> Targeted therapy,3,311
+SYN-P00644,Immunotherapy,1,66
+SYN-P00645,Surgery,1,58
+SYN-P00646,Targeted therapy -> Hormone therapy,2,197
+SYN-P00647,Surgery,1,146
+SYN-P00648,Chemotherapy,1,88
+SYN-P00649,Hormone therapy,1,193
+SYN-P00650,Immunotherapy,1,169
+SYN-P00651,Targeted therapy,1,71
+SYN-P00652,Surgery,1,125
+SYN-P00653,Chemotherapy -> Immunotherapy,2,111
+SYN-P00654,Targeted therapy -> Targeted therapy,2,294
+SYN-P00655,Chemotherapy,1,71
+SYN-P00656,Targeted therapy -> Chemotherapy,2,188
+SYN-P00657,Targeted therapy,1,40
+SYN-P00658,Surgery,1,157
+SYN-P00659,Chemotherapy,1,155
+SYN-P00660,Targeted therapy -> Radiation -> Surgery,3,328
+SYN-P00661,Chemotherapy,1,40
+SYN-P00662,Surgery -> Targeted therapy,2,275
+SYN-P00663,Targeted therapy -> Immunotherapy,2,202
+SYN-P00664,Radiation,1,129
+SYN-P00665,Surgery,1,126
+SYN-P00666,Chemotherapy -> Surgery -> Chemotherapy,3,411
+SYN-P00667,Targeted therapy,1,176
+SYN-P00668,Chemotherapy,1,64
+SYN-P00669,Targeted therapy,1,198
+SYN-P00670,Radiation,1,67
+SYN-P00671,Targeted therapy,1,194
+SYN-P00672,Radiation -> Chemotherapy -> Immunotherapy,3,510
+SYN-P00673,Radiation,1,109
+SYN-P00674,Surgery -> Radiation,2,201
+SYN-P00675,Targeted therapy -> Chemotherapy,2,311
+SYN-P00676,Radiation,1,46
+SYN-P00677,Surgery -> Chemotherapy,2,128
+SYN-P00678,Chemotherapy -> Surgery,2,381
+SYN-P00679,Surgery -> Chemotherapy -> Immunotherapy,3,162
+SYN-P00680,Surgery,1,182
+SYN-P00681,Surgery -> Chemotherapy,2,263
+SYN-P00682,Chemotherapy -> Surgery,2,319
+SYN-P00683,Radiation -> Surgery,2,301
+SYN-P00684,Targeted therapy -> Chemotherapy,2,308
+SYN-P00685,Surgery,1,122
+SYN-P00686,Radiation -> Chemotherapy,2,299
+SYN-P00687,Chemotherapy,1,68
+SYN-P00688,Chemotherapy -> Surgery -> Chemotherapy,3,495
+SYN-P00689,Radiation,1,131
+SYN-P00690,Immunotherapy -> Surgery,2,214
+SYN-P00691,Chemotherapy -> Surgery,2,384
+SYN-P00692,Surgery -> Radiation,2,298
+SYN-P00693,Surgery,1,51
+SYN-P00694,Chemotherapy,1,182
+SYN-P00695,Targeted therapy -> Radiation -> Immunotherapy,3,368
+SYN-P00696,Targeted therapy -> Radiation,2,267
+SYN-P00697,Surgery,1,119
+SYN-P00698,Chemotherapy -> Immunotherapy -> Surgery,3,197
+SYN-P00699,Surgery,1,116
+SYN-P00700,Targeted therapy -> Surgery,2,267
+SYN-P00701,Hormone therapy -> Surgery -> Hormone therapy,3,400
+SYN-P00702,Surgery,1,130
+SYN-P00703,Radiation,1,37
+SYN-P00704,Targeted therapy,1,44
+SYN-P00705,Chemotherapy,1,190
+SYN-P00706,Hormone therapy -> Surgery,2,91
+SYN-P00707,Immunotherapy,1,188
+SYN-P00708,Chemotherapy -> Hormone therapy,2,228
+SYN-P00709,Radiation,1,99
+SYN-P00710,Hormone therapy -> Targeted therapy,2,171
+SYN-P00711,Chemotherapy -> Immunotherapy,2,296
+SYN-P00712,Surgery,1,181
+SYN-P00713,Surgery,1,180
+SYN-P00714,Targeted therapy,1,86
+SYN-P00715,Immunotherapy,1,199
+SYN-P00716,Radiation,1,48
+SYN-P00717,Radiation -> Targeted therapy,2,263
+SYN-P00718,Radiation,1,75
+SYN-P00719,Surgery -> Chemotherapy,2,316
+SYN-P00720,Surgery -> Surgery,2,163
+SYN-P00721,Surgery,1,36
+SYN-P00722,Immunotherapy -> Targeted therapy -> Radiation,3,466
+SYN-P00723,Hormone therapy,1,189
+SYN-P00724,Targeted therapy,1,166
+SYN-P00725,Radiation,1,187
+SYN-P00726,Surgery,1,162
+SYN-P00727,Surgery -> Targeted therapy -> Surgery,3,306
+SYN-P00728,Surgery,1,108
+SYN-P00729,Chemotherapy,1,104
+SYN-P00730,Targeted therapy -> Chemotherapy -> Hormone therapy,3,478
+SYN-P00731,Surgery -> Surgery,2,102
+SYN-P00732,Hormone therapy -> Chemotherapy,2,338
+SYN-P00733,Surgery,1,54
+SYN-P00734,Chemotherapy -> Targeted therapy,2,370
+SYN-P00735,Chemotherapy,1,144
+SYN-P00736,Surgery,1,102
+SYN-P00737,Targeted therapy -> Chemotherapy -> Radiation,3,315
+SYN-P00738,Chemotherapy,1,141
+SYN-P00739,Targeted therapy -> Immunotherapy,2,255
+SYN-P00740,Surgery -> Chemotherapy -> Surgery,3,430
+SYN-P00741,Immunotherapy -> Chemotherapy,2,158
+SYN-P00742,Chemotherapy,1,108
+SYN-P00743,Chemotherapy,1,95
+SYN-P00744,Surgery,1,68
+SYN-P00745,Chemotherapy,1,129
+SYN-P00746,Surgery,1,195
+SYN-P00747,Chemotherapy -> Targeted therapy -> Surgery,3,527
+SYN-P00748,Surgery -> Immunotherapy -> Surgery,3,330
+SYN-P00749,Surgery -> Radiation,2,254
+SYN-P00750,Targeted therapy,1,44
+SYN-P00751,Targeted therapy,1,190
+SYN-P00752,Surgery,1,57
+SYN-P00753,Chemotherapy -> Chemotherapy,2,224
+SYN-P00754,Chemotherapy,1,133
+SYN-P00755,Chemotherapy -> Surgery,2,182
+SYN-P00756,Targeted therapy,1,148
+SYN-P00757,Chemotherapy,1,153
+SYN-P00758,Chemotherapy,1,173
+SYN-P00759,Surgery,1,89
+SYN-P00760,Radiation,1,93
+SYN-P00761,Surgery -> Surgery -> Chemotherapy,3,257
+SYN-P00762,Immunotherapy,1,178
+SYN-P00763,Chemotherapy -> Surgery,2,256
+SYN-P00764,Targeted therapy -> Radiation,2,193
+SYN-P00765,Surgery,1,49
+SYN-P00766,Chemotherapy -> Chemotherapy -> Surgery,3,361
+SYN-P00767,Targeted therapy -> Surgery -> Surgery,3,312
+SYN-P00768,Radiation,1,122
+SYN-P00769,Radiation,1,147
+SYN-P00770,Surgery -> Radiation,2,148
+SYN-P00771,Hormone therapy -> Surgery -> Radiation,3,231
+SYN-P00772,Surgery,1,70
+SYN-P00773,Radiation -> Chemotherapy,2,372
+SYN-P00774,Surgery -> Surgery,2,289
+SYN-P00775,Targeted therapy -> Chemotherapy -> Immunotherapy,3,278
+SYN-P00776,Immunotherapy -> Radiation -> Immunotherapy,3,304
+SYN-P00777,Chemotherapy,1,93
+SYN-P00778,Hormone therapy -> Chemotherapy -> Hormone therapy,3,340
+SYN-P00779,Surgery -> Targeted therapy,2,228
+SYN-P00780,Chemotherapy,1,180
+SYN-P00781,Surgery,1,88
+SYN-P00782,Surgery -> Chemotherapy,2,215
+SYN-P00783,Radiation -> Immunotherapy,2,150
+SYN-P00784,Surgery -> Radiation -> Targeted therapy,3,332
+SYN-P00785,Radiation -> Surgery,2,263
+SYN-P00786,Chemotherapy,1,143
+SYN-P00787,Surgery,1,93
+SYN-P00788,Surgery -> Chemotherapy,2,200
+SYN-P00789,Surgery,1,173
+SYN-P00790,Surgery,1,116
+SYN-P00791,Surgery,1,156
+SYN-P00792,Chemotherapy -> Radiation -> Chemotherapy,3,381
+SYN-P00793,Targeted therapy -> Radiation -> Surgery,3,472
+SYN-P00794,Radiation,1,100
+SYN-P00795,Radiation,1,41
+SYN-P00796,Chemotherapy,1,63
+SYN-P00797,Surgery,1,170
+SYN-P00798,Immunotherapy,1,112
+SYN-P00799,Radiation -> Chemotherapy -> Immunotherapy,3,395
+SYN-P00800,Chemotherapy,1,117
+SYN-P00801,Chemotherapy,1,52
+SYN-P00802,Chemotherapy -> Chemotherapy,2,129
+SYN-P00803,Targeted therapy,1,176
+SYN-P00804,Targeted therapy,1,56
+SYN-P00805,Radiation,1,181
+SYN-P00806,Targeted therapy,1,101
+SYN-P00807,Chemotherapy -> Immunotherapy,2,145
+SYN-P00808,Chemotherapy -> Targeted therapy -> Surgery,3,361
+SYN-P00809,Surgery,1,174
+SYN-P00810,Chemotherapy,1,155
+SYN-P00811,Radiation -> Chemotherapy,2,244
+SYN-P00812,Surgery,1,60
+SYN-P00813,Chemotherapy -> Hormone therapy -> Chemotherapy,3,445
+SYN-P00814,Radiation -> Chemotherapy,2,366
+SYN-P00815,Chemotherapy -> Surgery -> Chemotherapy,3,473
+SYN-P00816,Immunotherapy,1,124
+SYN-P00817,Chemotherapy,1,191
+SYN-P00818,Surgery,1,45
+SYN-P00819,Surgery,1,158
+SYN-P00820,Radiation -> Targeted therapy -> Surgery,3,374
+SYN-P00821,Chemotherapy,1,156
+SYN-P00822,Targeted therapy -> Chemotherapy,2,173
+SYN-P00823,Targeted therapy,1,51
+SYN-P00824,Surgery,1,104
+SYN-P00825,Surgery -> Hormone therapy -> Surgery,3,244
+SYN-P00826,Surgery,1,193
+SYN-P00827,Immunotherapy,1,63
+SYN-P00828,Radiation,1,161
+SYN-P00829,Chemotherapy,1,127
+SYN-P00830,Targeted therapy,1,190
+SYN-P00831,Surgery -> Chemotherapy -> Immunotherapy,3,569
+SYN-P00832,Surgery,1,149
+SYN-P00833,Surgery -> Targeted therapy,2,301
+SYN-P00834,Radiation -> Targeted therapy,2,183
+SYN-P00835,Immunotherapy,1,152
+SYN-P00836,Surgery -> Chemotherapy,2,378
+SYN-P00837,Hormone therapy,1,154
+SYN-P00838,Chemotherapy -> Hormone therapy,2,260
+SYN-P00839,Chemotherapy,1,85
+SYN-P00840,Chemotherapy,1,164
+SYN-P00841,Radiation -> Surgery -> Targeted therapy,3,267
+SYN-P00842,Radiation -> Targeted therapy,2,195
+SYN-P00843,Surgery,1,176
+SYN-P00844,Chemotherapy -> Targeted therapy,2,335
+SYN-P00845,Chemotherapy -> Surgery -> Targeted therapy,3,244
+SYN-P00846,Surgery,1,48
+SYN-P00847,Chemotherapy,1,101
+SYN-P00848,Chemotherapy,1,62
+SYN-P00849,Immunotherapy,1,107
+SYN-P00850,Surgery -> Chemotherapy -> Targeted therapy,3,454
+SYN-P00851,Targeted therapy,1,80
+SYN-P00852,Radiation,1,104
+SYN-P00853,Radiation,1,185
+SYN-P00854,Targeted therapy -> Surgery -> Radiation,3,491
+SYN-P00855,Targeted therapy,1,51
+SYN-P00856,Surgery -> Radiation,2,97
+SYN-P00857,Surgery -> Radiation,2,110
+SYN-P00858,Targeted therapy -> Radiation,2,233
+SYN-P00859,Chemotherapy,1,176
+SYN-P00860,Surgery -> Chemotherapy,2,370
+SYN-P00861,Surgery,1,156
+SYN-P00862,Surgery,1,67
+SYN-P00863,Chemotherapy,1,129
+SYN-P00864,Surgery,1,179
+SYN-P00865,Immunotherapy -> Targeted therapy,2,121
+SYN-P00866,Chemotherapy,1,201
+SYN-P00867,Surgery -> Targeted therapy,2,264
+SYN-P00868,Surgery -> Targeted therapy,2,261
+SYN-P00869,Surgery,1,181
+SYN-P00870,Radiation -> Surgery,2,318
+SYN-P00871,Radiation -> Surgery,2,267
+SYN-P00872,Immunotherapy,1,94
+SYN-P00873,Chemotherapy,1,50
+SYN-P00874,Surgery -> Chemotherapy -> Radiation,3,159
+SYN-P00875,Radiation -> Surgery -> Hormone therapy,3,478
+SYN-P00876,Surgery,1,176
+SYN-P00877,Surgery -> Immunotherapy -> Chemotherapy,3,425
+SYN-P00878,Surgery -> Surgery,2,340
+SYN-P00879,Surgery,1,150
+SYN-P00880,Radiation,1,162
+SYN-P00881,Chemotherapy -> Chemotherapy,2,277
+SYN-P00882,Chemotherapy -> Immunotherapy -> Chemotherapy,3,453
+SYN-P00883,Surgery -> Chemotherapy,2,257
+SYN-P00884,Chemotherapy -> Radiation,2,228
+SYN-P00885,Radiation -> Targeted therapy -> Chemotherapy,3,365
+SYN-P00886,Immunotherapy -> Surgery,2,364
+SYN-P00887,Radiation -> Chemotherapy,2,166
+SYN-P00888,Chemotherapy -> Immunotherapy,2,211
+SYN-P00889,Hormone therapy,1,76
+SYN-P00890,Chemotherapy -> Radiation,2,235
+SYN-P00891,Surgery -> Chemotherapy,2,103
+SYN-P00892,Surgery -> Targeted therapy,2,196
+SYN-P00893,Targeted therapy -> Surgery,2,117
+SYN-P00894,Targeted therapy,1,66
+SYN-P00895,Surgery,1,48
+SYN-P00896,Surgery,1,202
+SYN-P00897,Surgery -> Chemotherapy,2,196
+SYN-P00898,Targeted therapy,1,114
+SYN-P00899,Surgery,1,47
+SYN-P00900,Surgery,1,40
+SYN-P00901,Surgery -> Hormone therapy -> Targeted therapy,3,419
+SYN-P00902,Chemotherapy -> Targeted therapy -> Radiation,3,345
+SYN-P00903,Chemotherapy,1,113
+SYN-P00904,Surgery,1,64
+SYN-P00905,Targeted therapy,1,103
+SYN-P00906,Radiation -> Chemotherapy -> Surgery,3,526
+SYN-P00907,Surgery,1,153
+SYN-P00908,Targeted therapy -> Chemotherapy,2,359
+SYN-P00909,Radiation,1,191
+SYN-P00910,Targeted therapy -> Surgery,2,187
+SYN-P00911,Surgery,1,152
+SYN-P00912,Surgery -> Targeted therapy -> Radiation,3,287
+SYN-P00913,Hormone therapy,1,66
+SYN-P00914,Surgery,1,57
+SYN-P00915,Immunotherapy -> Targeted therapy -> Surgery,3,360
+SYN-P00916,Chemotherapy,1,35
+SYN-P00917,Chemotherapy -> Surgery,2,339
+SYN-P00918,Chemotherapy -> Targeted therapy -> Radiation,3,433
+SYN-P00919,Hormone therapy,1,182
+SYN-P00920,Surgery,1,125
+SYN-P00921,Hormone therapy -> Radiation -> Surgery,3,334
+SYN-P00922,Hormone therapy -> Chemotherapy -> Surgery,3,400
+SYN-P00923,Targeted therapy,1,209
+SYN-P00924,Immunotherapy,1,49
+SYN-P00925,Chemotherapy,1,171
+SYN-P00926,Surgery,1,188
+SYN-P00927,Immunotherapy,1,115
+SYN-P00928,Radiation -> Immunotherapy,2,322
+SYN-P00929,Radiation,1,49
+SYN-P00930,Radiation -> Chemotherapy,2,233
+SYN-P00931,Chemotherapy -> Radiation -> Surgery,3,409
+SYN-P00932,Chemotherapy -> Radiation -> Radiation,3,403
+SYN-P00933,Immunotherapy -> Surgery -> Radiation,3,278
+SYN-P00934,Surgery,1,176
+SYN-P00935,Surgery,1,109
+SYN-P00936,Surgery -> Radiation -> Hormone therapy,3,351
+SYN-P00937,Surgery -> Targeted therapy -> Radiation,3,240
+SYN-P00938,Immunotherapy -> Surgery -> Targeted therapy,3,203
+SYN-P00939,Surgery -> Radiation,2,201
+SYN-P00940,Surgery,1,84
+SYN-P00941,Immunotherapy -> Surgery,2,345
+SYN-P00942,Chemotherapy -> Immunotherapy,2,248
+SYN-P00943,Surgery -> Surgery,2,195
+SYN-P00944,Chemotherapy,1,205
+SYN-P00945,Chemotherapy,1,39
+SYN-P00946,Radiation -> Targeted therapy -> Surgery,3,447
+SYN-P00947,Targeted therapy,1,177
+SYN-P00948,Radiation -> Targeted therapy -> Radiation,3,434
+SYN-P00949,Chemotherapy,1,55
+SYN-P00950,Surgery,1,36
+SYN-P00951,Targeted therapy -> Immunotherapy,2,318
+SYN-P00952,Hormone therapy,1,178
+SYN-P00953,Targeted therapy -> Chemotherapy,2,248
+SYN-P00954,Surgery,1,152
+SYN-P00955,Targeted therapy -> Chemotherapy -> Surgery,3,241
+SYN-P00956,Immunotherapy,1,157
+SYN-P00957,Chemotherapy -> Targeted therapy,2,230
+SYN-P00958,Radiation -> Chemotherapy,2,306
+SYN-P00959,Radiation,1,135
+SYN-P00960,Surgery,1,150
+SYN-P00961,Targeted therapy,1,106
+SYN-P00962,Chemotherapy -> Targeted therapy,2,179
+SYN-P00963,Radiation,1,156
+SYN-P00964,Chemotherapy -> Targeted therapy,2,360
+SYN-P00965,Targeted therapy -> Surgery -> Targeted therapy,3,444
+SYN-P00966,Chemotherapy,1,49
+SYN-P00967,Radiation,1,186
+SYN-P00968,Hormone therapy -> Surgery,2,374
+SYN-P00969,Radiation,1,102
+SYN-P00970,Radiation -> Surgery,2,249
+SYN-P00971,Targeted therapy,1,66
+SYN-P00972,Surgery,1,110
+SYN-P00973,Radiation,1,111
+SYN-P00974,Targeted therapy,1,66
+SYN-P00975,Targeted therapy -> Surgery,2,102
+SYN-P00976,Surgery,1,85
+SYN-P00977,Immunotherapy -> Surgery,2,205
+SYN-P00978,Surgery,1,96
+SYN-P00979,Targeted therapy -> Radiation,2,357
+SYN-P00980,Chemotherapy,1,159
+SYN-P00981,Chemotherapy -> Immunotherapy,2,277
+SYN-P00982,Surgery,1,133
+SYN-P00983,Surgery,1,169
+SYN-P00984,Chemotherapy -> Targeted therapy,2,331
+SYN-P00985,Chemotherapy -> Chemotherapy -> Radiation,3,376
+SYN-P00986,Surgery -> Surgery,2,115
+SYN-P00987,Surgery,1,163
+SYN-P00988,Radiation -> Surgery -> Chemotherapy,3,312
+SYN-P00989,Chemotherapy,1,183
+SYN-P00990,Targeted therapy,1,74
+SYN-P00991,Immunotherapy,1,114
+SYN-P00992,Surgery,1,152
+SYN-P00993,Immunotherapy,1,115
+SYN-P00994,Radiation,1,105
+SYN-P00995,Immunotherapy,1,60
+SYN-P00996,Chemotherapy,1,187
+SYN-P00997,Targeted therapy,1,196
+SYN-P00998,Surgery,1,192
+SYN-P00999,Immunotherapy -> Chemotherapy,2,277
+SYN-P01000,Surgery,1,201
+SYN-P01001,Surgery,1,86
+SYN-P01002,Surgery,1,55
+SYN-P01003,Radiation -> Surgery,2,228
+SYN-P01004,Surgery,1,100
+SYN-P01005,Surgery -> Chemotherapy -> Immunotherapy,3,475
+SYN-P01006,Surgery -> Immunotherapy -> Chemotherapy,3,321
+SYN-P01007,Radiation -> Immunotherapy,2,262
+SYN-P01008,Chemotherapy -> Targeted therapy,2,273
+SYN-P01009,Targeted therapy,1,161
+SYN-P01010,Targeted therapy,1,209
+SYN-P01011,Chemotherapy -> Radiation -> Chemotherapy,3,288
+SYN-P01012,Targeted therapy -> Surgery -> Surgery,3,359
+SYN-P01013,Surgery,1,140
+SYN-P01014,Immunotherapy,1,128
+SYN-P01015,Targeted therapy,1,160
+SYN-P01016,Surgery -> Immunotherapy -> Surgery,3,559
+SYN-P01017,Targeted therapy -> Surgery,2,217
+SYN-P01018,Targeted therapy -> Hormone therapy,2,402
+SYN-P01019,Surgery -> Surgery -> Targeted therapy,3,477
+SYN-P01020,Chemotherapy,1,108
+SYN-P01021,Targeted therapy,1,170
+SYN-P01022,Chemotherapy,1,92
+SYN-P01023,Surgery -> Radiation,2,308
+SYN-P01024,Surgery,1,180
+SYN-P01025,Chemotherapy -> Immunotherapy -> Chemotherapy,3,327
+SYN-P01026,Chemotherapy -> Radiation -> Hormone therapy,3,356
+SYN-P01027,Surgery,1,81
+SYN-P01028,Hormone therapy,1,49
+SYN-P01029,Radiation -> Surgery -> Radiation,3,378
+SYN-P01030,Radiation -> Surgery,2,247
+SYN-P01031,Chemotherapy -> Chemotherapy,2,228
+SYN-P01032,Chemotherapy -> Targeted therapy,2,248
+SYN-P01033,Chemotherapy,1,163
+SYN-P01034,Surgery,1,202
+SYN-P01035,Surgery,1,63
+SYN-P01036,Chemotherapy,1,208
+SYN-P01037,Surgery -> Chemotherapy,2,180
+SYN-P01038,Surgery -> Radiation,2,281
+SYN-P01039,Radiation,1,37
+SYN-P01040,Hormone therapy -> Chemotherapy -> Surgery,3,318
+SYN-P01041,Surgery -> Radiation -> Chemotherapy,3,399
+SYN-P01042,Targeted therapy,1,62
+SYN-P01043,Immunotherapy,1,193
+SYN-P01044,Surgery,1,148
+SYN-P01045,Radiation -> Targeted therapy,2,202
+SYN-P01046,Chemotherapy,1,99
+SYN-P01047,Radiation -> Targeted therapy,2,233
+SYN-P01048,Immunotherapy -> Targeted therapy,2,272
+SYN-P01049,Hormone therapy,1,122
+SYN-P01050,Surgery,1,194
+SYN-P01051,Radiation,1,52
+SYN-P01052,Radiation,1,132
+SYN-P01053,Surgery,1,210
+SYN-P01054,Chemotherapy -> Chemotherapy -> Immunotherapy,3,538
+SYN-P01055,Chemotherapy,1,190
+SYN-P01056,Chemotherapy -> Surgery,2,263
+SYN-P01057,Surgery -> Immunotherapy,2,233
+SYN-P01058,Hormone therapy,1,207
+SYN-P01059,Surgery,1,165
+SYN-P01060,Surgery,1,152
+SYN-P01061,Chemotherapy,1,208
+SYN-P01062,Chemotherapy,1,149
+SYN-P01063,Immunotherapy -> Targeted therapy,2,120
+SYN-P01064,Chemotherapy,1,70
+SYN-P01065,Radiation -> Surgery -> Chemotherapy,3,306
+SYN-P01066,Surgery,1,99
+SYN-P01067,Radiation -> Chemotherapy,2,191
+SYN-P01068,Targeted therapy,1,181
+SYN-P01069,Chemotherapy,1,82
+SYN-P01070,Chemotherapy -> Surgery,2,221
+SYN-P01071,Chemotherapy,1,149
+SYN-P01072,Surgery,1,97
+SYN-P01073,Immunotherapy,1,108
+SYN-P01074,Chemotherapy,1,113
+SYN-P01075,Surgery,1,181
+SYN-P01076,Radiation,1,45
+SYN-P01077,Immunotherapy,1,90
+SYN-P01078,Surgery -> Immunotherapy,2,190
+SYN-P01079,Surgery,1,74
+SYN-P01080,Surgery,1,175
+SYN-P01081,Surgery,1,119
+SYN-P01082,Surgery,1,45
+SYN-P01083,Radiation -> Surgery,2,405
+SYN-P01084,Chemotherapy,1,86
+SYN-P01085,Radiation -> Surgery,2,358
+SYN-P01086,Hormone therapy,1,56
+SYN-P01087,Surgery -> Chemotherapy -> Targeted therapy,3,239
+SYN-P01088,Chemotherapy,1,173
+SYN-P01089,Surgery,1,176
+SYN-P01090,Surgery,1,40
+SYN-P01091,Surgery,1,141
+SYN-P01092,Surgery -> Targeted therapy,2,169
+SYN-P01093,Chemotherapy,1,204
+SYN-P01094,Immunotherapy -> Surgery,2,136
+SYN-P01095,Chemotherapy -> Chemotherapy -> Chemotherapy,3,469
+SYN-P01096,Radiation -> Surgery,2,179
+SYN-P01097,Chemotherapy,1,180
+SYN-P01098,Hormone therapy,1,128
+SYN-P01099,Surgery,1,75
+SYN-P01100,Chemotherapy,1,168
+SYN-P01101,Radiation -> Chemotherapy,2,326
+SYN-P01102,Surgery -> Chemotherapy,2,155
+SYN-P01103,Radiation,1,210
+SYN-P01104,Radiation -> Surgery,2,155
+SYN-P01105,Targeted therapy,1,210
+SYN-P01106,Immunotherapy -> Chemotherapy -> Chemotherapy,3,362
+SYN-P01107,Immunotherapy -> Surgery,2,234
+SYN-P01108,Targeted therapy -> Surgery,2,388
+SYN-P01109,Surgery -> Chemotherapy -> Radiation,3,428
+SYN-P01110,Surgery,1,52
+SYN-P01111,Surgery,1,167
+SYN-P01112,Chemotherapy -> Radiation,2,373
+SYN-P01113,Immunotherapy,1,88
+SYN-P01114,Surgery,1,49
+SYN-P01115,Surgery -> Chemotherapy,2,273
+SYN-P01116,Surgery -> Chemotherapy -> Radiation,3,321
+SYN-P01117,Radiation -> Chemotherapy,2,204
+SYN-P01118,Surgery,1,98
+SYN-P01119,Surgery,1,179
+SYN-P01120,Chemotherapy,1,109
+SYN-P01121,Chemotherapy,1,36
+SYN-P01122,Hormone therapy,1,151
+SYN-P01123,Chemotherapy,1,52
+SYN-P01124,Radiation,1,209
+SYN-P01125,Radiation -> Targeted therapy,2,224
+SYN-P01126,Radiation,1,111
+SYN-P01127,Surgery -> Chemotherapy,2,248
+SYN-P01128,Chemotherapy -> Surgery,2,257
+SYN-P01129,Targeted therapy -> Surgery -> Radiation,3,522
+SYN-P01130,Targeted therapy,1,161
+SYN-P01131,Surgery,1,83
+SYN-P01132,Hormone therapy -> Surgery,2,211
+SYN-P01133,Surgery,1,87
+SYN-P01134,Chemotherapy,1,202
+SYN-P01135,Targeted therapy,1,192
+SYN-P01136,Targeted therapy,1,197
+SYN-P01137,Targeted therapy -> Chemotherapy,2,146
+SYN-P01138,Radiation,1,59
+SYN-P01139,Radiation,1,56
+SYN-P01140,Surgery -> Chemotherapy,2,234
+SYN-P01141,Surgery,1,172
+SYN-P01142,Chemotherapy,1,92
+SYN-P01143,Targeted therapy -> Chemotherapy,2,311
+SYN-P01144,Chemotherapy -> Targeted therapy -> Surgery,3,295
+SYN-P01145,Surgery -> Radiation,2,200
+SYN-P01146,Immunotherapy,1,141
+SYN-P01147,Surgery -> Surgery -> Surgery,3,329
+SYN-P01148,Immunotherapy -> Surgery,2,244
+SYN-P01149,Targeted therapy -> Hormone therapy,2,327
+SYN-P01150,Radiation -> Chemotherapy -> Surgery,3,426
+SYN-P01151,Radiation,1,170
+SYN-P01152,Surgery,1,203
+SYN-P01153,Targeted therapy,1,126
+SYN-P01154,Targeted therapy -> Chemotherapy -> Hormone therapy,3,299
+SYN-P01155,Targeted therapy -> Immunotherapy,2,213
+SYN-P01156,Surgery -> Radiation,2,228
+SYN-P01157,Chemotherapy -> Chemotherapy -> Chemotherapy,3,483
+SYN-P01158,Radiation -> Targeted therapy -> Chemotherapy,3,315
+SYN-P01159,Radiation -> Chemotherapy,2,148
+SYN-P01160,Hormone therapy,1,124
+SYN-P01161,Surgery -> Immunotherapy,2,327
+SYN-P01162,Chemotherapy,1,84
+SYN-P01163,Surgery -> Chemotherapy,2,200
+SYN-P01164,Chemotherapy,1,43
+SYN-P01165,Surgery,1,137
+SYN-P01166,Radiation,1,91
+SYN-P01167,Chemotherapy -> Targeted therapy,2,196
+SYN-P01168,Targeted therapy,1,133
+SYN-P01169,Radiation,1,107
+SYN-P01170,Chemotherapy,1,176
+SYN-P01171,Chemotherapy,1,188
+SYN-P01172,Radiation,1,92
+SYN-P01173,Targeted therapy -> Radiation -> Surgery,3,274
+SYN-P01174,Immunotherapy -> Surgery -> Surgery,3,474
+SYN-P01175,Surgery,1,134
+SYN-P01176,Radiation -> Chemotherapy,2,235
+SYN-P01177,Targeted therapy,1,40
+SYN-P01178,Chemotherapy -> Radiation -> Targeted therapy,3,221
+SYN-P01179,Targeted therapy,1,172
+SYN-P01180,Surgery -> Chemotherapy,2,324
+SYN-P01181,Surgery,1,92
+SYN-P01182,Targeted therapy -> Hormone therapy,2,200
+SYN-P01183,Radiation -> Radiation,2,106
+SYN-P01184,Chemotherapy -> Surgery -> Chemotherapy,3,494
+SYN-P01185,Targeted therapy -> Chemotherapy,2,234
+SYN-P01186,Chemotherapy,1,165
+SYN-P01187,Chemotherapy,1,192
+SYN-P01188,Hormone therapy,1,44
+SYN-P01189,Radiation -> Targeted therapy,2,269
+SYN-P01190,Immunotherapy -> Targeted therapy -> Surgery,3,333
+SYN-P01191,Radiation,1,199
+SYN-P01192,Surgery -> Radiation,2,194
+SYN-P01193,Surgery,1,42
+SYN-P01194,Hormone therapy -> Chemotherapy,2,268
+SYN-P01195,Chemotherapy,1,167
+SYN-P01196,Surgery -> Radiation,2,276
+SYN-P01197,Radiation,1,89
+SYN-P01198,Surgery,1,49
+SYN-P01199,Radiation -> Chemotherapy -> Radiation,3,304
+SYN-P01200,Immunotherapy,1,48
+SYN-P01201,Targeted therapy,1,84
+SYN-P01202,Targeted therapy -> Surgery,2,273
+SYN-P01203,Surgery,1,124
+SYN-P01204,Surgery -> Radiation,2,187
+SYN-P01205,Chemotherapy -> Surgery,2,197
+SYN-P01206,Surgery,1,125
+SYN-P01207,Radiation -> Chemotherapy -> Immunotherapy,3,357
+SYN-P01208,Radiation,1,50
+SYN-P01209,Surgery,1,193
+SYN-P01210,Surgery -> Surgery,2,213
+SYN-P01211,Chemotherapy,1,100
+SYN-P01212,Chemotherapy,1,197
+SYN-P01213,Chemotherapy,1,92
+SYN-P01214,Chemotherapy,1,40
+SYN-P01215,Surgery,1,125
+SYN-P01216,Targeted therapy,1,188
+SYN-P01217,Surgery,1,209
+SYN-P01218,Chemotherapy,1,168
+SYN-P01219,Chemotherapy,1,190
+SYN-P01220,Surgery,1,142
+SYN-P01221,Surgery,1,55
+SYN-P01222,Radiation,1,69
+SYN-P01223,Chemotherapy -> Radiation -> Chemotherapy,3,405
+SYN-P01224,Surgery -> Targeted therapy -> Hormone therapy,3,414
+SYN-P01225,Surgery -> Radiation -> Surgery,3,481
+SYN-P01226,Surgery,1,179
+SYN-P01227,Chemotherapy,1,174
+SYN-P01228,Surgery -> Immunotherapy,2,255
+SYN-P01229,Surgery -> Surgery -> Immunotherapy,3,327
+SYN-P01230,Targeted therapy -> Hormone therapy,2,190
+SYN-P01231,Targeted therapy,1,112
+SYN-P01232,Chemotherapy -> Surgery,2,202
+SYN-P01233,Surgery,1,46
+SYN-P01234,Chemotherapy,1,155
+SYN-P01235,Chemotherapy -> Targeted therapy,2,358
+SYN-P01236,Hormone therapy,1,199
+SYN-P01237,Hormone therapy,1,112
+SYN-P01238,Radiation -> Immunotherapy,2,163
+SYN-P01239,Chemotherapy,1,118
+SYN-P01240,Targeted therapy,1,35
+SYN-P01241,Surgery,1,127
+SYN-P01242,Targeted therapy -> Surgery,2,361
+SYN-P01243,Targeted therapy,1,160
+SYN-P01244,Surgery,1,129
+SYN-P01245,Immunotherapy -> Surgery,2,90
+SYN-P01246,Surgery,1,161
+SYN-P01247,Surgery -> Surgery,2,346
+SYN-P01248,Surgery,1,77
+SYN-P01249,Immunotherapy,1,179
+SYN-P01250,Immunotherapy,1,155
+SYN-P01251,Chemotherapy,1,198
+SYN-P01252,Targeted therapy -> Chemotherapy,2,315
+SYN-P01253,Surgery,1,113
+SYN-P01254,Radiation,1,158
+SYN-P01255,Surgery,1,144
+SYN-P01256,Immunotherapy,1,87
+SYN-P01257,Surgery -> Hormone therapy,2,323
+SYN-P01258,Chemotherapy -> Surgery,2,361
+SYN-P01259,Targeted therapy,1,62
+SYN-P01260,Surgery -> Immunotherapy,2,242
+SYN-P01261,Chemotherapy,1,91
+SYN-P01262,Targeted therapy -> Surgery,2,193
+SYN-P01263,Surgery -> Targeted therapy,2,207
+SYN-P01264,Radiation,1,88
+SYN-P01265,Immunotherapy,1,199
+SYN-P01266,Chemotherapy,1,64
+SYN-P01267,Radiation,1,197
+SYN-P01268,Surgery -> Surgery,2,251
+SYN-P01269,Surgery -> Chemotherapy,2,256
+SYN-P01270,Surgery -> Chemotherapy,2,289
+SYN-P01271,Chemotherapy -> Immunotherapy,2,344
+SYN-P01272,Surgery,1,96
+SYN-P01273,Radiation -> Chemotherapy,2,178
+SYN-P01274,Hormone therapy,1,98
+SYN-P01275,Targeted therapy,1,117
+SYN-P01276,Radiation -> Immunotherapy -> Targeted therapy,3,508
+SYN-P01277,Radiation,1,128
+SYN-P01278,Surgery,1,85
+SYN-P01279,Radiation,1,199
+SYN-P01280,Hormone therapy,1,192
+SYN-P01281,Surgery -> Hormone therapy -> Radiation,3,322
+SYN-P01282,Targeted therapy -> Surgery,2,257
+SYN-P01283,Surgery,1,156
+SYN-P01284,Targeted therapy -> Radiation,2,227
+SYN-P01285,Hormone therapy,1,48
+SYN-P01286,Surgery,1,142
+SYN-P01287,Surgery -> Radiation,2,200
+SYN-P01288,Radiation -> Targeted therapy -> Chemotherapy,3,461
+SYN-P01289,Radiation,1,200
+SYN-P01290,Radiation,1,136
+SYN-P01291,Targeted therapy,1,164
+SYN-P01292,Surgery,1,197
+SYN-P01293,Chemotherapy,1,110
+SYN-P01294,Surgery,1,143
+SYN-P01295,Targeted therapy,1,49
+SYN-P01296,Hormone therapy,1,140
+SYN-P01297,Radiation,1,139
+SYN-P01298,Surgery,1,109
+SYN-P01299,Surgery,1,185
+SYN-P01300,Chemotherapy -> Surgery,2,170
+SYN-P01301,Hormone therapy,1,88
+SYN-P01302,Radiation,1,210
+SYN-P01303,Surgery,1,52
+SYN-P01304,Surgery,1,52
+SYN-P01305,Surgery,1,126
+SYN-P01306,Immunotherapy -> Targeted therapy -> Radiation,3,239
+SYN-P01307,Immunotherapy,1,152
+SYN-P01308,Chemotherapy,1,157
+SYN-P01309,Hormone therapy -> Chemotherapy -> Hormone therapy,3,453
+SYN-P01310,Radiation -> Surgery -> Chemotherapy,3,118
+SYN-P01311,Immunotherapy -> Chemotherapy -> Targeted therapy,3,450
+SYN-P01312,Targeted therapy -> Radiation,2,247
+SYN-P01313,Surgery -> Targeted therapy,2,405
+SYN-P01314,Targeted therapy,1,204
+SYN-P01315,Immunotherapy -> Surgery,2,143
+SYN-P01316,Surgery -> Radiation,2,337
+SYN-P01317,Radiation,1,110
+SYN-P01318,Targeted therapy -> Surgery -> Chemotherapy,3,207
+SYN-P01319,Chemotherapy -> Radiation,2,234
+SYN-P01320,Chemotherapy -> Radiation,2,192
+SYN-P01321,Chemotherapy -> Targeted therapy -> Surgery,3,348
+SYN-P01322,Targeted therapy -> Chemotherapy -> Chemotherapy,3,306
+SYN-P01323,Surgery,1,147
+SYN-P01324,Chemotherapy,1,194
+SYN-P01325,Chemotherapy,1,112
+SYN-P01326,Chemotherapy -> Radiation,2,298
+SYN-P01327,Chemotherapy,1,200
+SYN-P01328,Targeted therapy -> Surgery -> Radiation,3,573
+SYN-P01329,Hormone therapy,1,67
+SYN-P01330,Chemotherapy,1,35
+SYN-P01331,Chemotherapy,1,134
+SYN-P01332,Hormone therapy -> Chemotherapy,2,233
+SYN-P01333,Surgery,1,81
+SYN-P01334,Surgery,1,196
+SYN-P01335,Targeted therapy,1,155
+SYN-P01336,Hormone therapy -> Surgery -> Chemotherapy,3,494
+SYN-P01337,Surgery -> Chemotherapy,2,222
+SYN-P01338,Chemotherapy -> Immunotherapy,2,204
+SYN-P01339,Radiation,1,149
+SYN-P01340,Surgery,1,149
+SYN-P01341,Surgery,1,46
+SYN-P01342,Targeted therapy,1,159
+SYN-P01343,Chemotherapy -> Targeted therapy -> Chemotherapy,3,328
+SYN-P01344,Surgery,1,187
+SYN-P01345,Surgery -> Radiation,2,201
+SYN-P01346,Surgery,1,177
+SYN-P01347,Chemotherapy -> Targeted therapy,2,231
+SYN-P01348,Surgery,1,58
+SYN-P01349,Surgery -> Chemotherapy,2,264
+SYN-P01350,Chemotherapy,1,45
+SYN-P01351,Targeted therapy -> Immunotherapy,2,245
+SYN-P01352,Chemotherapy,1,98
+SYN-P01353,Targeted therapy -> Hormone therapy,2,256
+SYN-P01354,Surgery,1,115
+SYN-P01355,Hormone therapy,1,206
+SYN-P01356,Radiation -> Chemotherapy,2,253
+SYN-P01357,Targeted therapy,1,196
+SYN-P01358,Chemotherapy -> Surgery -> Surgery,3,397
+SYN-P01359,Hormone therapy,1,112
+SYN-P01360,Chemotherapy,1,63
+SYN-P01361,Targeted therapy,1,136
+SYN-P01362,Targeted therapy,1,129
+SYN-P01363,Chemotherapy -> Surgery -> Chemotherapy,3,300
+SYN-P01364,Chemotherapy,1,150
+SYN-P01365,Surgery,1,204
+SYN-P01366,Surgery -> Surgery,2,84
+SYN-P01367,Targeted therapy -> Chemotherapy,2,223
+SYN-P01368,Surgery,1,47
+SYN-P01369,Surgery -> Targeted therapy -> Chemotherapy,3,513
+SYN-P01370,Targeted therapy,1,180
+SYN-P01371,Chemotherapy,1,156
+SYN-P01372,Chemotherapy,1,195
+SYN-P01373,Surgery,1,91
+SYN-P01374,Chemotherapy,1,176
+SYN-P01375,Targeted therapy,1,48
+SYN-P01376,Surgery -> Immunotherapy,2,301
+SYN-P01377,Radiation -> Surgery,2,240
+SYN-P01378,Chemotherapy,1,100
+SYN-P01379,Targeted therapy -> Chemotherapy,2,180
+SYN-P01380,Chemotherapy -> Chemotherapy,2,271
+SYN-P01381,Chemotherapy,1,134
+SYN-P01382,Radiation -> Immunotherapy,2,341
+SYN-P01383,Chemotherapy -> Immunotherapy -> Radiation,3,426
+SYN-P01384,Chemotherapy,1,58
+SYN-P01385,Immunotherapy,1,192
+SYN-P01386,Surgery -> Radiation,2,283
+SYN-P01387,Targeted therapy -> Surgery,2,175
+SYN-P01388,Targeted therapy -> Surgery -> Immunotherapy,3,294
+SYN-P01389,Radiation -> Surgery -> Radiation,3,480
+SYN-P01390,Chemotherapy -> Immunotherapy -> Radiation,3,362
+SYN-P01391,Radiation -> Radiation,2,247
+SYN-P01392,Surgery,1,108
+SYN-P01393,Immunotherapy,1,133
+SYN-P01394,Targeted therapy,1,163
+SYN-P01395,Surgery,1,124
+SYN-P01396,Chemotherapy -> Targeted therapy,2,249
+SYN-P01397,Surgery -> Chemotherapy -> Surgery,3,246
+SYN-P01398,Hormone therapy,1,139
+SYN-P01399,Chemotherapy,1,64
+SYN-P01400,Surgery,1,91
+SYN-P01401,Chemotherapy -> Hormone therapy -> Targeted therapy,3,274
+SYN-P01402,Immunotherapy -> Surgery -> Immunotherapy,3,430
+SYN-P01403,Surgery -> Chemotherapy -> Immunotherapy,3,464
+SYN-P01404,Surgery -> Immunotherapy,2,241
+SYN-P01405,Surgery,1,173
+SYN-P01406,Radiation,1,61
+SYN-P01407,Chemotherapy,1,104
+SYN-P01408,Hormone therapy,1,86
+SYN-P01409,Hormone therapy,1,161
+SYN-P01410,Radiation,1,52
+SYN-P01411,Hormone therapy,1,209
+SYN-P01412,Surgery,1,207
+SYN-P01413,Hormone therapy,1,198
+SYN-P01414,Radiation,1,46
+SYN-P01415,Radiation -> Targeted therapy -> Hormone therapy,3,219
+SYN-P01416,Targeted therapy,1,64
+SYN-P01417,Chemotherapy -> Surgery,2,142
+SYN-P01418,Surgery,1,198
+SYN-P01419,Immunotherapy,1,75
+SYN-P01420,Immunotherapy,1,59
+SYN-P01421,Surgery,1,55
+SYN-P01422,Immunotherapy,1,57
+SYN-P01423,Targeted therapy -> Surgery,2,313
+SYN-P01424,Surgery -> Chemotherapy,2,135
+SYN-P01425,Radiation,1,54
+SYN-P01426,Immunotherapy,1,84
+SYN-P01427,Surgery,1,142
+SYN-P01428,Surgery,1,72
+SYN-P01429,Chemotherapy,1,169
+SYN-P01430,Hormone therapy -> Radiation -> Chemotherapy,3,338
+SYN-P01431,Chemotherapy -> Radiation,2,247
+SYN-P01432,Surgery,1,61
+SYN-P01433,Surgery -> Targeted therapy,2,264
+SYN-P01434,Immunotherapy,1,80
+SYN-P01435,Surgery -> Targeted therapy -> Surgery,3,385
+SYN-P01436,Radiation,1,171
+SYN-P01437,Chemotherapy -> Immunotherapy,2,283
+SYN-P01438,Surgery,1,188
+SYN-P01439,Surgery,1,86
+SYN-P01440,Chemotherapy -> Hormone therapy,2,289
+SYN-P01441,Targeted therapy,1,104
+SYN-P01442,Chemotherapy,1,130
+SYN-P01443,Targeted therapy -> Hormone therapy -> Targeted therapy,3,397
+SYN-P01444,Surgery -> Radiation,2,229
+SYN-P01445,Surgery -> Chemotherapy,2,120
+SYN-P01446,Chemotherapy -> Surgery -> Chemotherapy,3,491
+SYN-P01447,Targeted therapy -> Radiation -> Surgery,3,403
+SYN-P01448,Surgery,1,204
+SYN-P01449,Targeted therapy -> Chemotherapy,2,259
+SYN-P01450,Immunotherapy -> Radiation -> Surgery,3,328
+SYN-P01451,Immunotherapy -> Chemotherapy,2,329
+SYN-P01452,Chemotherapy,1,78
+SYN-P01453,Chemotherapy,1,62
+SYN-P01454,Surgery -> Radiation,2,199
+SYN-P01455,Chemotherapy,1,68
+SYN-P01456,Radiation -> Targeted therapy,2,246
+SYN-P01457,Surgery -> Immunotherapy,2,293
+SYN-P01458,Targeted therapy -> Hormone therapy,2,381
+SYN-P01459,Targeted therapy -> Surgery,2,253
+SYN-P01460,Radiation,1,122
+SYN-P01461,Chemotherapy -> Chemotherapy,2,374
+SYN-P01462,Chemotherapy -> Immunotherapy,2,213
+SYN-P01463,Chemotherapy -> Immunotherapy,2,212
+SYN-P01464,Radiation,1,175
+SYN-P01465,Chemotherapy,1,140
+SYN-P01466,Targeted therapy,1,99
+SYN-P01467,Immunotherapy,1,207
+SYN-P01468,Chemotherapy,1,150
+SYN-P01469,Hormone therapy -> Chemotherapy,2,234
+SYN-P01470,Chemotherapy,1,171
+SYN-P01471,Radiation -> Surgery -> Hormone therapy,3,444
+SYN-P01472,Chemotherapy,1,115
+SYN-P01473,Chemotherapy,1,196
+SYN-P01474,Targeted therapy -> Radiation -> Targeted therapy,3,277
+SYN-P01475,Surgery -> Chemotherapy,2,309
+SYN-P01476,Chemotherapy,1,149
+SYN-P01477,Chemotherapy -> Surgery -> Chemotherapy,3,353
+SYN-P01478,Targeted therapy,1,163
+SYN-P01479,Chemotherapy -> Radiation -> Surgery,3,264
+SYN-P01480,Surgery -> Targeted therapy,2,179
+SYN-P01481,Chemotherapy,1,58
+SYN-P01482,Targeted therapy,1,134
+SYN-P01483,Radiation -> Surgery -> Surgery,3,317
+SYN-P01484,Chemotherapy,1,72
+SYN-P01485,Surgery,1,125
+SYN-P01486,Targeted therapy,1,91
+SYN-P01487,Chemotherapy,1,86
+SYN-P01488,Radiation -> Chemotherapy,2,207
+SYN-P01489,Chemotherapy -> Radiation,2,235
+SYN-P01490,Chemotherapy,1,147
+SYN-P01491,Chemotherapy -> Surgery,2,346
+SYN-P01492,Immunotherapy,1,176
+SYN-P01493,Targeted therapy -> Surgery,2,167
+SYN-P01494,Targeted therapy -> Surgery -> Chemotherapy,3,354
+SYN-P01495,Chemotherapy,1,102
+SYN-P01496,Chemotherapy,1,135
+SYN-P01497,Surgery,1,129
+SYN-P01498,Surgery,1,56
+SYN-P01499,Chemotherapy,1,210
+SYN-P01500,Targeted therapy -> Hormone therapy,2,346

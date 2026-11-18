@@ -1,0 +1,19 @@
+rule,status,severity,failure_count,detail
+patient_id_not_null,pass,critical,0,Patient identifiers are required.
+patient_id_unique,pass,critical,0,One row per patient is required.
+age_plausible,pass,high,0,Age must be 18-100.
+stage_allowed,pass,high,0,Stage must be I-IV.
+response_allowed,pass,high,0,Response must use the controlled vocabulary.
+event_binary,pass,critical,0,Event flags must be binary.
+followup_non_negative,pass,critical,0,Follow-up time cannot be negative.
+treatment_event_id_unique,pass,critical,0,Treatment-event identifiers must be unique.
+diagnosis_before_treatment,pass,critical,0,Diagnosis must precede every treatment start.
+treatment_date_order,pass,critical,0,Treatment start must not follow end.
+diagnoses_patient_fk,pass,critical,0,All diagnoses patient keys must resolve.
+treatment_events_patient_fk,pass,critical,0,All treatment_events patient keys must resolve.
+outcomes_patient_fk,pass,critical,0,All outcomes patient keys must resolve.
+comorbidities_patient_fk,pass,critical,0,All comorbidities patient keys must resolve.
+utilization_patient_fk,pass,critical,0,All utilization patient keys must resolve.
+treatment_reference_fk,pass,critical,0,All treatment IDs must resolve.
+utilization_non_negative,pass,high,0,Utilization and costs cannot be negative.
+line_sequence_contiguous,pass,high,0,Treatment lines must begin at one and be contiguous per patient.

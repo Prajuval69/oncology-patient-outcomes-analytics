@@ -1,0 +1,7 @@
+rule,failures
+null_patient_id,0
+duplicate_patient_id,0
+diagnosis_after_treatment,0
+treatment_date_order,0
+orphan_diagnosis,0
+orphan_treatment,0
